@@ -11,7 +11,7 @@ Input  : universe_fr.csv    colonnes ticker (Yahoo), name, sector
 Output : rotation_fr.md     rapport lisible (s'affiche tel quel sur GitHub)
          history_fr.csv     historique hebdo par secteur (reconstruit à chaque run)
          alert_fr.txt       créé UNIQUEMENT si un signal apparaît ce soir
-                             → le workflow envoie un message Telegram
+                             (indicateur interne, sans notification)
 
 Méthode (à parts égales : une rotation naissante se voit dans les titres moyens
 avant les poids lourds de l'indice) :
@@ -95,7 +95,9 @@ def load_universe(path):
     df["ticker"] = df["ticker"].astype(str).str.strip()
     df = df.dropna(subset=["sector"])
     df = df[df["ticker"].ne("") & df["ticker"].ne("nan")]
-    return df.drop_duplicates("ticker")[["ticker", "sector"]]
+    if "name" not in df.columns:
+        df["name"] = df["ticker"]
+    return df.drop_duplicates("ticker")[["ticker", "name", "sector"]]
 
 
 def download_prices(tickers, chunk=150, passes=3):
@@ -164,13 +166,13 @@ def compute_history(close, sectors):
     wret = wk.pct_change(fill_method=None).clip(-MAX_WEEKLY_MOVE, MAX_WEEKLY_MOVE)
 
     # --- Largeur : % > MM50 (quotidien, relevé en fin de semaine) ---
-    above50 = (close > close.rolling(50, min_periods=50).mean()).where(close.notna())
-    above50 = above50.where(close.rolling(50, min_periods=50).count() >= 50)
+    ma50 = close.rolling(50, min_periods=40).mean()
+    above50 = (close > ma50).astype(float).where(close.notna() & ma50.notna())
     wk_above = _weekly(above50, "last")
 
     # --- Plus hauts 52 sem. atteints dans la semaine (affiché, non filtrant) ---
     hi252 = close.rolling(252, min_periods=200).max()
-    at_high = (close >= hi252).where(hi252.notna())
+    at_high = (close >= hi252).astype(float).where(hi252.notna() & close.notna())
     wk_high = _weekly(at_high, "max")
 
     univ_ret = wret.mean(axis=1)
@@ -258,7 +260,39 @@ def _fmt(x, nd=0, sign=False):
     return s.replace(".", ",").replace("-", "−")
 
 
-def build_report(h, last_date):
+TOP_STOCKS = 15   # titres listés d'office pour un secteur en signal
+
+def stock_table(close, sectors, names):
+    """Une ligne par titre : force relative 13 sem., tendance, distance au plus haut."""
+    n13 = MOM_WEEKS * 5
+    perf = close.iloc[-1] / close.iloc[-1 - n13] - 1 if len(close) > n13 else close.iloc[-1] * np.nan
+    rel = (perf - perf.median()) * 100
+    ma50 = close.rolling(50, min_periods=50).mean().iloc[-1]
+    ma200 = close.rolling(200, min_periods=150).mean().iloc[-1]
+    hi252 = close.rolling(252, min_periods=200).max().iloc[-1]
+    last = close.iloc[-1]
+    t = pd.DataFrame({
+        "sector": sectors,
+        "name": names.reindex(sectors.index),
+        "rel13": rel.reindex(sectors.index),
+        "above50": (last > ma50).reindex(sectors.index),
+        "trend": ((last > ma50) & (ma50 > ma200)).reindex(sectors.index),
+        "from_high": ((last / hi252 - 1) * 100).reindex(sectors.index),
+    })
+    t.index.name = "ticker"
+    return t.sort_values("rel13", ascending=False)
+
+
+def _stock_rows(df):
+    rows = ["| Ticker | Société | Perf. 13 sem. vs marché | > MM50 | MM50 > MM200 | Vs plus haut 52 s. |",
+            "|---|---|---:|:---:|:---:|---:|"]
+    for tk, r in df.iterrows():
+        rows.append(f"| {tk} | {str(r['name'])[:32]} | {_fmt(r.rel13, 1, True)} pts "
+                    f"| {'✓' if r.above50 else '·'} | {'✓' if r.trend else '·'} | {_fmt(r.from_high, 0, True)} % |")
+    return rows
+
+
+def build_report(h, last_date, stocks):
     weeks = sorted(h["week"].unique())
     cur_w = weeks[-1]
     cur = h[h["week"] == cur_w].sort_values("rank")
@@ -309,6 +343,33 @@ def build_report(h, last_date):
     else:
         L.append("Aucun épisode confirmé.")
 
+    # --- Actions des secteurs en signal ---
+    sig = cur[cur["status"].isin([STATUS_IN, STATUS_WATCH, STATUS_OUT])]
+    if len(sig):
+        L += ["", "## Les actions des secteurs en signal", ""]
+        for _, r in sig.iterrows():
+            st = stocks[stocks["sector"] == r.sector]
+            if r.status == STATUS_OUT:
+                sub = st.sort_values("rel13").head(TOP_STOCKS)
+                hint = f"les {len(sub)} plus faibles — à surveiller si tu en détiens"
+            else:
+                sub = st.head(TOP_STOCKS)
+                hint = f"les {len(sub)} plus forts sur 13 semaines"
+            L += [f"### {SECTOR_FR.get(r.sector, r.sector)} — {r.status}", "",
+                  f"_{len(st)} titres dans le secteur ; {hint}. "
+                  f"{int(st['above50'].sum())} sur {len(st)} au-dessus de leur MM50._", ""]
+            L += _stock_rows(sub) + [""]
+
+    # --- Toutes les actions, secteur par secteur (repliées) ---
+    L += ["", "## Toutes les actions par secteur", "",
+          "_Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la médiane du marché._", ""]
+    for _, r in cur.iterrows():
+        st = stocks[stocks["sector"] == r.sector]
+        L += ["<details>",
+              f"<summary><b>{int(r['rank'])}. {SECTOR_FR.get(r.sector, r.sector)}</b> — {len(st)} titres"
+              + (f" — {r.status}" if r.status else "") + "</summary>", ""]
+        L += _stock_rows(st) + ["", "</details>", ""]
+
     L += ["", "## À lire avant d'agir", "",
           "- **Seuils non calibrés.** Aucun backtest : ce sont des choix de conception.",
           "- **Univers d'aujourd'hui** appliqué au passé (survivants seulement) : l'historique est flatteur.",
@@ -332,6 +393,13 @@ def main():
     close, volume = download_prices(tickers)
     if close.empty:
         sys.exit("ÉCHEC : aucun cours téléchargé (Yahoo inaccessible ou limite de débit).")
+    # Jours fantômes : Yahoo sert parfois une ligne où presque tous les titres sont vides
+    # (jour férié, séance du jour pas encore publiée). Ils cassaient la largeur (« — % »).
+    dense = close.notna().mean(axis=1) >= 0.5
+    if (~dense).any():
+        print(f"Séances ignorées (moins de 50 % des titres cotés) : "
+              f"{', '.join(d.strftime('%d/%m') for d in close.index[~dense][-5:])}")
+    close, volume = close[dense].ffill(limit=3), volume[dense]
     coverage = close.shape[1] / len(tickers)
     last_date = close.index.max()
     stale = (pd.Timestamp.now().normalize() - last_date.normalize()).days
@@ -355,7 +423,8 @@ def main():
           + (f" (exclus, < {MIN_PER_SECTOR} titres : {', '.join(small.index)})" if len(small) else ""))
 
     h = compute_history(close, sectors)
-    report, new = build_report(h, last_date)
+    stocks = stock_table(close, sectors, uni.set_index("ticker")["name"])
+    report, new = build_report(h, last_date, stocks)
 
     # Lancé chaque soir : on n'alerte que si le signal n'était pas déjà là hier
     already = set()
