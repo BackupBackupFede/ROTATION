@@ -6,22 +6,22 @@ Classement des 10 secteurs — Euronext Paris + Growth, industries ICB — **à 
 
 - Aucun nouveau signal. C'est le cas normal la plupart des semaines.
 
-Largeur du marché : **67 %** des titres au-dessus de leur MM50.
+Largeur du marché : **50 %** des titres au-dessus de leur MM50.
 
 ## Classement
 
 | Rang | Il y a 8 sem. | Secteur | RS 13 sem. | % > MM50 | Δ 8 sem. | % plus haut 52 s. | Statut |
 |---:|---:|---|---:|---:|---:|---:|---|
-| 1 | 8 ▲ | Énergie | +27,7 % | — % | — pts | 38 % | LEADER |
-| 2 | 1 ▼ | Finance | +2,7 % | — % | — pts | 0 % | LEADER |
-| 3 | 5 ▲ | Santé | +2,3 % | — % | — pts | 4 % | LEADER |
+| 1 | 8 ▲ | Énergie | +27,6 % | — % | — pts | 38 % | LEADER |
+| 2 | 1 ▼ | Finance | +2,8 % | — % | — pts | 0 % | LEADER |
+| 3 | 5 ▲ | Santé | +2,1 % | — % | — pts | 4 % | LEADER |
 | 4 | 2 ▼ | Conso. de base | +2,0 % | — % | — pts | 17 % |  |
-| 5 | 4 ▼ | Industrie | −0,1 % | 100 % | +53 pts | 0 % |  |
-| 6 | 6 | Technologie | −0,8 % | 67 % | +28 pts | 6 % |  |
-| 7 | 3 ▼ | Immobilier | −3,0 % | — % | — pts | 0 % |  |
-| 8 | 10 ▲ | Matériaux de base | −3,1 % | — % | — pts | 0 % |  |
+| 5 | 4 ▼ | Industrie | −0,0 % | 50 % | +3 pts | 0 % |  |
+| 6 | 6 | Technologie | −0,9 % | 67 % | +28 pts | 6 % |  |
+| 7 | 3 ▼ | Immobilier | −2,9 % | — % | — pts | 0 % |  |
+| 8 | 10 ▲ | Matériaux de base | −3,2 % | — % | — pts | 0 % |  |
 | 9 | 7 ▼ | Conso. discrétionnaire | −3,3 % | 0 % | −36 pts | 8 % |  |
-| 10 | 9 ▼ | Services publics | −19,8 % | — % | — pts | 0 % |  |
+| 10 | 9 ▼ | Services publics | −19,7 % | — % | — pts | 0 % |  |
 
 ## Signaux des 12 derniers mois
 
@@ -42,4 +42,4 @@ _Première semaine de chaque épisode confirmé. Sert à juger si le signal a eu
 - **Un secteur en rotation n'est pas un achat.** C'est un endroit où chercher : croiser avec les screeners et setups du marché.
 
 ---
-*Dernière séance : 17/09/2026. Généré le 17/09/2026 09:51 UTC. Travail d'analyse quantitative, sans valeur de conseil en investissement.*
+*Dernière séance : 17/09/2026. Généré le 17/09/2026 10:04 UTC. Travail d'analyse quantitative, sans valeur de conseil en investissement.*
