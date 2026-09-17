@@ -2,7 +2,7 @@
 
 Repère le secteur qui **monte** dans le classement (la rotation qui commence) et le leader qui s'essouffle. Pas le premier : le premier a déjà tourné.
 
-Tourne tout seul sur GitHub Actions du lundi au vendredi à 22 h (Paris). Une **issue** est ouverte (→ e-mail) uniquement le soir où un signal apparaît.
+Tourne tout seul sur GitHub Actions du lundi au vendredi à 22 h (Paris). Un **message Telegram** part uniquement le soir où un signal apparaît (secrets `TELEGRAM_TOKEN` et `TELEGRAM_CHAT_ID`, les mêmes que tes scanners FR).
 
 | | Script | Univers | Rapport |
 |---|---|---|---|

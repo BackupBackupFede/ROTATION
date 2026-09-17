@@ -9,7 +9,6 @@ on:
 
 permissions:
   contents: write             # commit des rapports
-  issues: write               # issue = notification e-mail quand un signal apparaît
 
 jobs:
   rotation:
@@ -47,13 +46,25 @@ jobs:
             git push
           fi
 
-      - name: Alertes (issue = e-mail)
+      - name: Alertes Telegram
         env:
-          GH_TOKEN: ${{ github.token }}
+          TELEGRAM_TOKEN:   ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
+          if [ -z "$TELEGRAM_TOKEN" ] || [ -z "$TELEGRAM_CHAT_ID" ]; then
+            echo "::warning::Secrets TELEGRAM_TOKEN / TELEGRAM_CHAT_ID absents : pas d'envoi."
+            exit 0
+          fi
           for m in fr us; do
             [ -f "alert_$m.txt" ] || continue
-            gh issue create --title "$(head -n1 alert_$m.txt)" --body-file "rotation_$m.md"
+            text="$(cat alert_$m.txt)
+
+          Rapport : https://github.com/${{ github.repository }}/blob/${{ github.ref_name }}/rotation_$m.md"
+            curl -sS --fail -X POST "https://api.telegram.org/bot${TELEGRAM_TOKEN}/sendMessage" \
+              --data-urlencode "chat_id=${TELEGRAM_CHAT_ID}" \
+              --data-urlencode "text=${text}" \
+              --data-urlencode "disable_web_page_preview=true" > /dev/null
+            echo "Alerte $m envoyée"
           done
 
       - name: Échec signalé

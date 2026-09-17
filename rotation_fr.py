@@ -11,7 +11,7 @@ Input  : universe_fr.csv    colonnes ticker (Yahoo), name, sector
 Output : rotation_fr.md     rapport lisible (s'affiche tel quel sur GitHub)
          history_fr.csv     historique hebdo par secteur (reconstruit à chaque run)
          alert_fr.txt       créé UNIQUEMENT si un signal apparaît ce soir
-                             → le workflow ouvre une issue GitHub (= e-mail)
+                             → le workflow envoie un message Telegram
 
 Méthode (à parts égales : une rotation naissante se voit dans les titres moyens
 avant les poids lourds de l'indice) :
@@ -381,8 +381,15 @@ def main():
         os.remove(ALERT_TXT)
     if new:
         title = f"Rotation {MARKET} : " + " · ".join(f"{SECTOR_FR.get(s, s)} {st.lower()}" for st, s in new)
+        cur = h[h["week"] == h["week"].max()].sort_values("rank")
+        lines = [title, ""]
+        for _, r in cur.iterrows():
+            gain = r.rank_gain_8w
+            move = "" if pd.isna(gain) or gain == 0 else f" ({'+' if gain > 0 else ''}{int(gain)})"
+            lines.append(f"{int(r['rank'])}. {SECTOR_FR.get(r.sector, r.sector)}{move}"
+                         + (f" — {r.status}" if r.status else ""))
         with open(ALERT_TXT, "w", encoding="utf-8") as f:
-            f.write(title + "\n")
+            f.write("\n".join(lines) + "\n")
         print(f"ALERTE : {title}")
     else:
         print("Aucune nouvelle alerte.")
