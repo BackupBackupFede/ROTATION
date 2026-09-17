@@ -46,4 +46,4 @@ _Première semaine de chaque épisode confirmé. Sert à juger si le signal a eu
 - **Un secteur en rotation n'est pas un achat.** C'est un endroit où chercher : croiser avec les screeners et setups du marché.
 
 ---
-*Dernière séance : 16/09/2026. Généré le 17/09/2026 09:55 UTC. Travail d'analyse quantitative, sans valeur de conseil en investissement.*
+*Dernière séance : 16/09/2026. Généré le 17/09/2026 10:08 UTC. Travail d'analyse quantitative, sans valeur de conseil en investissement.*
