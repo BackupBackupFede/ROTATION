@@ -14,14 +14,14 @@ Largeur du marché : **50 %** des titres au-dessus de leur MM50.
 |---:|---:|---|---:|---:|---:|---:|---|
 | 1 | 8 ▲ | Énergie | +27,6 % | — % | — pts | 38 % | LEADER |
 | 2 | 1 ▼ | Finance | +2,8 % | — % | — pts | 0 % | LEADER |
-| 3 | 5 ▲ | Santé | +2,1 % | — % | — pts | 4 % | LEADER |
-| 4 | 2 ▼ | Conso. de base | +2,0 % | — % | — pts | 17 % |  |
+| 3 | 2 ▼ | Conso. de base | +2,1 % | — % | — pts | 17 % | LEADER |
+| 4 | 5 ▲ | Santé | +2,0 % | — % | — pts | 4 % |  |
 | 5 | 4 ▼ | Industrie | −0,0 % | 50 % | +3 pts | 0 % |  |
-| 6 | 6 | Technologie | −0,9 % | 67 % | +28 pts | 6 % |  |
-| 7 | 3 ▼ | Immobilier | −2,9 % | — % | — pts | 0 % |  |
-| 8 | 10 ▲ | Matériaux de base | −3,2 % | — % | — pts | 0 % |  |
+| 6 | 6 | Technologie | −0,8 % | 67 % | +28 pts | 6 % |  |
+| 7 | 3 ▼ | Immobilier | −3,0 % | — % | — pts | 0 % |  |
+| 8 | 10 ▲ | Matériaux de base | −3,1 % | — % | — pts | 0 % |  |
 | 9 | 7 ▼ | Conso. discrétionnaire | −3,3 % | 0 % | −36 pts | 8 % |  |
-| 10 | 9 ▼ | Services publics | −19,7 % | — % | — pts | 0 % |  |
+| 10 | 9 ▼ | Services publics | −19,8 % | — % | — pts | 0 % |  |
 
 ## Signaux des 12 derniers mois
 
@@ -42,4 +42,4 @@ _Première semaine de chaque épisode confirmé. Sert à juger si le signal a eu
 - **Un secteur en rotation n'est pas un achat.** C'est un endroit où chercher : croiser avec les screeners et setups du marché.
 
 ---
-*Dernière séance : 17/09/2026. Généré le 17/09/2026 10:04 UTC. Travail d'analyse quantitative, sans valeur de conseil en investissement.*
+*Dernière séance : 17/09/2026. Généré le 17/09/2026 10:17 UTC. Travail d'analyse quantitative, sans valeur de conseil en investissement.*
