@@ -1,20 +1,20 @@
 """
-rotation.py - Suivi hebdomadaire de la rotation sectorielle, multi-marchés
-=========================================================================
-Usage : python rotation.py US        (plus tard : python rotation.py FR)
+rotation_fr.py - Rotation sectorielle FR (Euronext Paris + Growth, industries ICB)
+============================================================
+Lancé chaque soir (GitHub Actions, 22 h Paris) ; lecture hebdomadaire.
+Usage local : python rotation_fr.py
 
 Question : quel secteur est en train de MONTER dans le classement, et quel leader
 s'essouffle ? Pas « qui est premier » : le premier a déjà tourné.
 
-Par marché, dans le dossier <MARCHÉ>/ :
-  Input  : universe.csv         colonnes ticker (Yahoo), name, sector
-  Output : rotation.md          rapport lisible (s'affiche tel quel sur GitHub)
-           sector_history.csv   historique hebdo par secteur (reconstruit à chaque run)
-           alert.txt            créé UNIQUEMENT si un nouveau signal apparaît cette semaine
-                                → le workflow GitHub ouvre alors une issue (= e-mail)
+Input  : universe_fr.csv    colonnes ticker (Yahoo), name, sector
+Output : rotation_fr.md     rapport lisible (s'affiche tel quel sur GitHub)
+         history_fr.csv     historique hebdo par secteur (reconstruit à chaque run)
+         alert_fr.txt       créé UNIQUEMENT si un signal apparaît ce soir
+                             → le workflow ouvre une issue GitHub (= e-mail)
 
-Méthode (tout à parts égales : une rotation naissante se voit dans les titres
-moyens avant les poids lourds de l'indice) :
+Méthode (à parts égales : une rotation naissante se voit dans les titres moyens
+avant les poids lourds de l'indice) :
   RS        indice sectoriel équipondéré / univers équipondéré
   Rang      classement des secteurs sur la variation du RS en 13 semaines
   Largeur   % des titres du secteur au-dessus de leur MM50
@@ -28,8 +28,8 @@ Statuts :
                       largeur -15 pts en 8 sem.
   LEADER              top 3 actuel
 
-Attention : seuils = choix de conception, NON calibrés (pas de backtest). Univers non
-point-in-time (survivants seulement). Travail d'analyse, pas un conseil.
+Attention : seuils = choix de conception, NON calibrés (pas de backtest). Univers
+non point-in-time (survivants seulement). Travail d'analyse, pas un conseil.
 """
 
 import os
@@ -44,28 +44,30 @@ import pandas as pd
 # ======================
 ROOT = os.path.dirname(os.path.abspath(__file__))
 
-# Un marché = un dossier + un libellé + la traduction des noms de secteurs.
-# Ajouter la France = créer FR/universe.csv et une entrée ici.
-MARKETS = {
-    "US": {
-        "title": "Russell 1000 (GICS)",
-        "sector_fr": {
-            "Information Technology": "Technologie",
-            "Financials": "Finance",
-            "Industrials": "Industrie",
-            "Consumer Discretionary": "Conso. discrétionnaire",
-            "Health Care": "Santé",
-            "Real Estate": "Immobilier",
-            "Consumer Staples": "Conso. de base",
-            "Materials": "Matériaux",
-            "Communication Services": "Communication",
-            "Utilities": "Services publics",
-            "Energy": "Énergie",
-        },
-    },
+MARKET         = "FR"
+TITLE          = "Euronext Paris + Growth, industries ICB"
+UNIVERSE_CSV   = os.path.join(ROOT, "universe_fr.csv")
+REPORT_MD      = os.path.join(ROOT, "rotation_fr.md")
+HISTORY_CSV    = os.path.join(ROOT, "history_fr.csv")
+ALERT_TXT      = os.path.join(ROOT, "alert_fr.txt")
+
+CURRENCY       = "€"
+MIN_TURNOVER   = 300_000   # échanges quotidiens médians (60 séances), en €
+MIN_PER_SECTOR = 5          # un secteur de moins de titres liquides est ignoré
+
+SECTOR_FR = {
+    "Technology": "Technologie",
+    "Telecommunications": "Télécoms",
+    "Health Care": "Santé",
+    "Financials": "Finance",
+    "Real Estate": "Immobilier",
+    "Consumer Discretionary": "Conso. discrétionnaire",
+    "Consumer Staples": "Conso. de base",
+    "Industrials": "Industrie",
+    "Basic Materials": "Matériaux de base",
+    "Energy": "Énergie",
+    "Utilities": "Services publics",
 }
-MARKET = None   # renseigné par main()
-SECTOR_FR = {}
 
 PERIOD          = "2y"     # 2 ans de cours → ~1 an d'historique de signaux exploitable
 MOM_WEEKS       = 13       # momentum du RS (1 trimestre)
@@ -96,7 +98,7 @@ def load_universe(path):
     return df.drop_duplicates("ticker")[["ticker", "sector"]]
 
 
-def download_closes(tickers, chunk=150, passes=3):
+def download_prices(tickers, chunk=150, passes=3):
     """Téléchargement par paquets avec reprises : Yahoo limite fortement le débit
     depuis les serveurs GitHub, un seul appel de 1 000 tickers échoue souvent."""
     import time
@@ -112,8 +114,9 @@ def download_closes(tickers, chunk=150, passes=3):
         if data is None or data.empty:
             return pd.DataFrame()
         if isinstance(data.columns, pd.MultiIndex):
-            return data["Close"]
-        return data[["Close"]].set_axis(tks, axis=1)
+            return pd.concat({"Close": data["Close"], "Volume": data["Volume"]}, axis=1)
+        return pd.concat({"Close": data[["Close"]].set_axis(tks, axis=1),
+                          "Volume": data[["Volume"]].set_axis(tks, axis=1)}, axis=1)
 
     frames, todo = [], list(tickers)
     for p in range(1, passes + 1):
@@ -123,19 +126,21 @@ def download_closes(tickers, chunk=150, passes=3):
         for i in range(0, len(todo), chunk):
             part = _dl(todo[i:i + chunk])
             if not part.empty:
-                frames.append(part.dropna(axis=1, how="all"))
+                ok = part["Close"].dropna(axis=1, how="all").columns
+                frames.append(part.loc[:, part.columns.get_level_values(1).isin(ok)])
             time.sleep(2 * p)
-        got = set().union(*(f.columns for f in frames)) if frames else set()
+        got = set().union(*(f.columns.get_level_values(1) for f in frames)) if frames else set()
         todo = [t for t in tickers if t not in got]
 
     if not frames:
-        return pd.DataFrame()
-    close = pd.concat(frames, axis=1)
-    close = close.loc[:, ~close.columns.duplicated()]
-    close.index = pd.to_datetime(close.index)
-    if close.index.tz is not None:
-        close.index = close.index.tz_localize(None)
-    return close.sort_index()
+        return pd.DataFrame(), pd.DataFrame()
+    px = pd.concat(frames, axis=1)
+    px = px.loc[:, ~px.columns.duplicated()]
+    px.index = pd.to_datetime(px.index)
+    if px.index.tz is not None:
+        px.index = px.index.tz_localize(None)
+    px = px.sort_index()
+    return px["Close"], px["Volume"]
 
 
 # ======================
@@ -192,6 +197,7 @@ def compute_history(close, sectors):
 
     # --- Rang hebdo (1 = meilleur momentum de RS) ---
     h["rank"] = h.groupby("week")["rs_mom13"].rank(ascending=False, method="min")
+    h["n_sectors"] = h.groupby("week")["rs_mom13"].transform("count")
     h = h.sort_values(["sector", "week"]).reset_index(drop=True)
     g = h.groupby("sector")
     h["rank_8w_ago"] = g["rank"].shift(LOOKBACK_WEEKS)
@@ -201,7 +207,7 @@ def compute_history(close, sectors):
     valid = h["rank_8w_ago"].notna() & h["breadth_d8w"].notna() & h["rs_mom13"].notna()
     h["cond_in"] = valid & (
         (h["rank_gain_8w"] >= MIN_RANK_GAIN)
-        & (h["rank_8w_ago"] >= 6)
+        & (h["rank_8w_ago"] > h["n_sectors"] / 2)
         & (h["rs_mom13"] > 0)
         & h["rs_above_ma26"]
         & (h["breadth_d8w"] >= BREADTH_DELTA)
@@ -261,7 +267,7 @@ def build_report(h, last_date):
     new = [(r.status, r.sector) for _, r in cur[cur["new_signal"]].iterrows()]
 
     L = [f"# Rotation sectorielle {MARKET} — {pd.Timestamp(cur_w):%d/%m/%Y}", ""]
-    L += [f"Classement des {cur.shape[0]} secteurs — {MARKETS[MARKET]['title']} — **à parts égales**, sur la "
+    L += [f"Classement des {cur.shape[0]} secteurs — {TITLE} — **à parts égales**, sur la "
           "variation de leur force relative en 13 semaines. **Ce qui compte : qui monte**, "
           "pas qui est premier.", ""]
 
@@ -318,55 +324,69 @@ def build_report(h, last_date):
 # MAIN
 # ======================
 def main():
-    global MARKET, SECTOR_FR
-    if len(sys.argv) != 2 or sys.argv[1].upper() not in MARKETS:
-        sys.exit(f"Usage : python rotation.py <{'|'.join(MARKETS)}>")
-    MARKET = sys.argv[1].upper()
-    SECTOR_FR = MARKETS[MARKET]["sector_fr"]
-    mdir = os.path.join(ROOT, MARKET)
-    report_md, history_csv, alert_txt = (os.path.join(mdir, f) for f in
-                                         ("rotation.md", "sector_history.csv", "alert.txt"))
-
-    print(f"ROTATION {MARKET} — suivi hebdomadaire de la rotation sectorielle")
-    uni = load_universe(os.path.join(mdir, "universe.csv"))
+    print(f"ROTATION {MARKET} — rotation sectorielle")
+    uni = load_universe(UNIVERSE_CSV)
     tickers = uni["ticker"].tolist()
     print(f"Univers : {len(tickers)} tickers")
 
-    close = download_closes(tickers)
+    close, volume = download_prices(tickers)
     if close.empty:
         sys.exit("ÉCHEC : aucun cours téléchargé (Yahoo inaccessible ou limite de débit).")
     coverage = close.shape[1] / len(tickers)
     last_date = close.index.max()
     stale = (pd.Timestamp.now().normalize() - last_date.normalize()).days
     print(f"Téléchargés : {close.shape[1]} ({coverage:.0%}) — dernière séance {last_date:%d/%m/%Y}")
-
     if coverage < MIN_COVERAGE:
         sys.exit(f"ÉCHEC : couverture {coverage:.0%} < {MIN_COVERAGE:.0%}, rapport non généré.")
     if stale > MAX_STALE_DAYS:
         sys.exit(f"ÉCHEC : cours vieux de {stale} jours, rapport non généré.")
 
-    h = compute_history(close, uni.set_index("ticker")["sector"])
+    # Liquidité : les titres trop peu échangés ajoutent du bruit sans information
+    turnover = (close * volume).tail(60).median()
+    liquid = turnover[turnover >= MIN_TURNOVER].index
+    close = close[liquid]
+    sectors = uni.set_index("ticker")["sector"]
+    sectors = sectors[sectors.index.isin(liquid)]
+    counts = sectors.value_counts()
+    small = counts[counts < MIN_PER_SECTOR]
+    sectors = sectors[~sectors.isin(small.index)]
+    print(f"Liquides (>= {MIN_TURNOVER:,.0f} {CURRENCY}/jour) : {len(liquid)} — "
+          f"secteurs retenus : {sectors.nunique()}"
+          + (f" (exclus, < {MIN_PER_SECTOR} titres : {', '.join(small.index)})" if len(small) else ""))
+
+    h = compute_history(close, sectors)
     report, new = build_report(h, last_date)
+
+    # Lancé chaque soir : on n'alerte que si le signal n'était pas déjà là hier
+    already = set()
+    if os.path.exists(HISTORY_CSV):
+        try:
+            old = pd.read_csv(HISTORY_CSV, encoding="utf-8-sig")
+            old = old[old["week"] == old["week"].max()]
+            already = set(zip(old["status"].fillna(""), old["sector"]))
+        except Exception:
+            pass
+    new = [x for x in new if x not in already]
 
     cols = ["week", "sector", "n", "rank", "rank_8w_ago", "rank_gain_8w", "rs", "rs_mom13",
             "breadth", "breadth_d8w", "pct_52w_high", "univ_breadth", "status"]
     out = h[cols].copy()
     for c in cols[2:-1]:
         out[c] = pd.to_numeric(out[c], errors="coerce").round(2)
-    out.to_csv(history_csv, index=False, encoding="utf-8-sig", date_format="%Y-%m-%d")
-    with open(report_md, "w", encoding="utf-8") as f:
+    out.to_csv(HISTORY_CSV, index=False, encoding="utf-8-sig", date_format="%Y-%m-%d")
+    with open(REPORT_MD, "w", encoding="utf-8") as f:
         f.write(report)
 
-    if os.path.exists(alert_txt):
-        os.remove(alert_txt)
+    if os.path.exists(ALERT_TXT):
+        os.remove(ALERT_TXT)
     if new:
         title = f"Rotation {MARKET} : " + " · ".join(f"{SECTOR_FR.get(s, s)} {st.lower()}" for st, s in new)
-        with open(alert_txt, "w", encoding="utf-8") as f:
+        with open(ALERT_TXT, "w", encoding="utf-8") as f:
             f.write(title + "\n")
         print(f"ALERTE : {title}")
     else:
-        print("Aucun nouveau signal.")
-    print(f"[EXPORT] {report_md}\n[EXPORT] {history_csv}")
+        print("Aucune nouvelle alerte.")
+    print(f"[EXPORT] {REPORT_MD}\n[EXPORT] {HISTORY_CSV}")
 
 
 if __name__ == "__main__":

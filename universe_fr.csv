@@ -1,0 +1,565 @@
+ticker,name,sector
+MC.PA,LVMH,Consumer Discretionary
+OR.PA,L'OREAL,Consumer Discretionary
+TTE.PA,TOTALENERGIES,Energy
+SU.PA,SCHNEIDER ELECTRIC,Industrials
+AIR.PA,AIRBUS,Industrials
+RMS.PA,HERMES INTL,Consumer Discretionary
+SAF.PA,SAFRAN,Industrials
+BNP.PA,BNP PARIBAS ACT.A,Financials
+AI.PA,AIR LIQUIDE,Basic Materials
+CS.PA,AXA,Financials
+SAN.PA,SANOFI,Health Care
+EL.PA,ESSILORLUXOTTICA,Health Care
+DG.PA,VINCI,Industrials
+ENGI.PA,ENGIE,Utilities
+ACA.PA,CREDIT AGRICOLE,Financials
+GLE.PA,SOCIETE GENERALE,Financials
+HO.PA,THALES,Industrials
+STMPA.PA,STMICROELECTRONICS,Technology
+BN.PA,DANONE,Consumer Staples
+ORA.PA,ORANGE,Telecommunications
+LR.PA,LEGRAND,Industrials
+SGO.PA,SAINT GOBAIN,Industrials
+KER.PA,KERING,Consumer Discretionary
+DSY.PA,DASSAULT SYSTEMES,Technology
+VIE.PA,VEOLIA ENVIRON.,Utilities
+AM.PA,DASSAULT AVIATION,Industrials
+AMUN.PA,AMUNDI,Financials
+DIM.PA,SARTORIUS STED BIO,Health Care
+STLAP.PA,STELLANTIS NV,Consumer Discretionary
+CAP.PA,CAPGEMINI,Technology
+EN.PA,BOUYGUES,Industrials
+RI.PA,PERNOD RICARD,Consumer Staples
+URW.PA,UNIBAIL-RODAMCO-WE,Real Estate
+IPN.PA,IPSEN,Health Care
+ERF.PA,EUROFINS SCIENT.,Health Care
+BVI.PA,BUREAU VERITAS,Industrials
+CA.PA,CARREFOUR,Consumer Staples
+RXL.PA,REXEL,Industrials
+ADP.PA,ADP,Industrials
+AC.PA,ACCOR,Consumer Discretionary
+BOL.PA,BOLLORE,Consumer Discretionary
+LI.PA,KLEPIERRE,Real Estate
+FGR.PA,EIFFAGE,Industrials
+GET.PA,GETLINK SE,Industrials
+AYV.PA,AYVENS,Consumer Discretionary
+ABVX.PA,ABIVAX,Health Care
+BIM.PA,BIOMERIEUX,Health Care
+RNO.PA,RENAULT,Consumer Discretionary
+SW.PA,SODEXO,Consumer Discretionary
+GTT.PA,GTT,Energy
+SPIE.PA,SPIE,Industrials
+EDEN.PA,EDENRED,Industrials
+CBDG.PA,CAMBODGE NOM.,Financials
+NEX.PA,NEXANS,Industrials
+SCR.PA,SCOR SE,Financials
+ODET.PA,COMPAGNIE ODET,Utilities
+COV.PA,COVIVIO,Real Estate
+TE.PA,TECHNIP ENERGIES,Energy
+SOI.PA,SOITEC,Technology
+DEC.PA,JCDECAUX,Consumer Discretionary
+VK.PA,VALLOUREC,Energy
+GFC.PA,GECINA,Real Estate
+ELIS.PA,ELIS,Industrials
+AKE.PA,ARKEMA,Basic Materials
+TEP.PA,TELEPERFORMANCE,Industrials
+FDJU.PA,FDJ UNITED,Consumer Discretionary
+LOUP.PA,LDC,Consumer Staples
+RUI.PA,RUBIS,Consumer Discretionary
+FR.PA,VALEO,Consumer Discretionary
+COVH.PA,COVIVIO HOTELS,Real Estate
+MF.PA,WENDEL,Financials
+SK.PA,S.E.B.,Consumer Discretionary
+CAF.PA,CRCAM PARIS ET IDF,Financials
+SOP.PA,SOPRA STERIA GROUP,Technology
+RF.PA,EURAZEO,Financials
+AF.PA,AIR FRANCE -KLM,Consumer Discretionary
+VCT.PA,VICAT,Industrials
+EXENS.PA,EXOSENS,Industrials
+TRI.PA,TRIGANO,Consumer Discretionary
+TKO.PA,TIKEHAU CAPITAL,Financials
+FII.PA,LISI,Industrials
+BB.PA,BIC,Consumer Staples
+VIRP.PA,VIRBAC,Health Care
+MMB.PA,LAGARDERE SA,Consumer Discretionary
+ITP.PA,INTERPARFUMS,Consumer Discretionary
+ARTO.PA,ARTOIS NOM.,Financials
+COFA.PA,COFACE,Financials
+ATE.PA,ALTEN,Technology
+VRLA.PA,VERALLIA,Industrials
+ALTA.PA,ALTAREA,Real Estate
+ETL.PA,EUTELSAT COMMUNIC.,Telecommunications
+OVH.PA,OVH,Technology
+FMONC.PA,MONCEY (FIN.) NOM.,Financials
+CARM.PA,CARMILA,Real Estate
+EXA.PA,EXAIL TECHNOLOGIES,Industrials
+IDL.PA,ID LOGISTICS GROUP,Industrials
+PLX.PA,PLUXEE,Industrials
+NK.PA,IMERYS,Basic Materials
+VU.PA,Vusion,Industrials
+EMEIS.PA,EMEIS,Health Care
+CRBP2.PA,CRCAM BRIE PIC2CCI,Financials
+SESG.PA,SES,Telecommunications
+ARG.PA,ARGAN,Real Estate
+FRVIA.PA,FORVIA,Consumer Discretionary
+OPM.PA,OPMOBILITY,Consumer Discretionary
+CNDF.PA,CRCAM NORD CCI,Financials
+CRLA.PA,CRCAM LANGUED CCI,Financials
+ALHG.PA,LOUIS HACHETTE,Consumer Discretionary
+NANO.PA,NANOBIOTIX,Health Care
+RBT.PA,ROBERTET,Basic Materials
+PLNW.PA,PLANISWARE,Technology
+MAU.PA,MAUREL ET PROM,Energy
+STF.PA,STEF,Industrials
+ANTIN.PA,ANTIN INFRA PARTN,Financials
+IPS.PA,IPSOS,Consumer Discretionary
+MMT.PA,METROPOLE TV,Consumer Discretionary
+VIV.PA,VIVENDI SE,Consumer Discretionary
+TFI.PA,TF1,Consumer Discretionary
+DBG.PA,DERICHEBOURG,Utilities
+CBE.PA,ROBERTET CI,Basic Materials
+CLARI.PA,CLARIANE,Health Care
+PEUG.PA,PEUGEOT INVEST,Financials
+ICAD.PA,ICADE,Real Estate
+ERA.PA,ERAMET,Basic Materials
+VIL.PA,VIEL ET COMPAGNIE,Financials
+NAE.PA,North Atlantic En.,Energy
+GDS.PA,RAMSAY GEN SANTE,Health Care
+ELEC.PA,ELEC.STRASBOURG,Utilities
+FREY.PA,FREY,Real Estate
+CRAV.PA,CRCAM ATL.VEND.CCI,Financials
+CRSU.PA,CRCAM SUD R.A.CCI,Financials
+FNAC.PA,FNAC DARTY,Consumer Discretionary
+MERY.PA,MERCIALYS,Real Estate
+CRAP.PA,CRCAM ALP.PROV.CCI,Financials
+AREIT.PA,ALTAREIT,Real Estate
+CDA.PA,ALPES (COMPAGNIE),Consumer Discretionary
+CCN.PA,CRCAM NORM.SEINE,Financials
+IVA.PA,INVENTIVA,Health Care
+MRN.PA,MERSEN,Industrials
+NRO.PA,NEURONES,Technology
+VAC.PA,PIERRE VACANCES,Consumer Discretionary
+MTU.PA,MANITOU BF,Industrials
+LTA.PA,ALTAMIR,Financials
+CRTO.PA,CRCAM TOURAINE CCI,Financials
+XFAB.PA,X-FAB,Technology
+MEDCL.PA,MEDINCELL,Health Care
+GLO.PA,GL EVENTS,Consumer Discretionary
+ALVDM.PA,VOYAGEURS DU MONDE,Consumer Discretionary
+WLN.PA,WORLDLINE,Industrials
+CRLO.PA,CRCAM LOIRE HTE L.,Financials
+SAVE.PA,SAVENCIA,Consumer Staples
+LSS.PA,LECTRA,Technology
+VETO.PA,VETOQUINOL,Health Care
+WAVE.PA,WAVESTONE,Technology
+DBV.PA,DBV TECHNOLOGIES,Health Care
+CIV.PA,CRCAM ILLE-VIL.CCI,Financials
+AUB.PA,AUBAY,Technology
+BUR.PA,BURELLE,Consumer Discretionary
+GNFT.PA,GENFIT,Health Care
+BASS.PA,BASSAC,Real Estate
+VLTSA.PA,VOLTALIA,Utilities
+THEP.PA,THERMADOR GROUPE,Industrials
+AL2SI.PA,2CRSI,Technology
+VIRI.PA,VIRIDIEN,Energy
+SDG.PA,SYNERGIE,Industrials
+CMO.PA,CRCAM MORBIHAN CCI,Financials
+WAGA.PA,WAGA ENERGY,Energy
+ASY.PA,ASSYSTEM,Industrials
+SCHP.PA,SECHE ENVIRONNEM.,Utilities
+SBT.PA,OENEO,Industrials
+EXPL.PA,EXPLOSIFS PROD.CHI,Basic Materials
+LBIRD.PA,LUMIBIRD,Health Care
+CEN.PA,GROUPE CRIT,Industrials
+CAT31.PA,CA TOULOUSE 31 CCI,Financials
+VLA.PA,VALNEVA,Health Care
+SMCP.PA,SMCP,Consumer Discretionary
+ATO.PA,ATOS GROUP,Technology
+ELIOR.PA,ELIOR GROUP,Consumer Discretionary
+IDIP.PA,IDI,Financials
+FGA.PA,FIGEAC AERO,Industrials
+NRG.PA,NRJ GROUP,Consumer Discretionary
+EQS.PA,EQUASENS,Health Care
+LPE.PA,LAURENT-PERRIER,Consumer Staples
+BOI.PA,BOIRON,Health Care
+BEN.PA,BENETEAU,Consumer Discretionary
+QDT.PA,QUADIENT,Technology
+KOF.PA,KAUFMAN ET BROAD,Consumer Discretionary
+FCMC.PA,FERM.CAS.MUN.CANNE,Consumer Discretionary
+JCQ.PA,JACQUET METALS,Basic Materials
+ALBOU.PA,BOURRELIER GROUP,Consumer Discretionary
+ALSEM.PA,SEMCO TECHNOLOGIES,Technology
+MALT.PA,MALTERIES FCO-BEL.,Consumer Staples
+PAT.PA,PATRIMOINE ET COMM,Real Estate
+SAMS.PA,SAMSE,Consumer Discretionary
+ORIA.PA,FIDUCIAL REAL EST.,Real Estate
+ALGIL.PA,GROUPE GUILLIN,Industrials
+CVX.PA,CARVOLIX,Health Care
+TFF.PA,TFF GROUP,Industrials
+SELER.PA,SELECTIRENTE,Real Estate
+NXI.PA,NEXITY,Consumer Discretionary
+INEA.PA,FONCIERE INEA,Real Estate
+IMDA.PA,IMMOB.DASSAULT,Real Estate
+LNA.PA,LNA SANTE,Health Care
+ALVIO.PA,VALERIO TX,Health Care
+MBWS.PA,MBWS,Consumer Staples
+ARVEN.PA,ARVERNE GROUP,Utilities
+GAM.PA,GAUMONT,Consumer Discretionary
+ABCA.PA,ABC ARBITRAGE,Financials
+ARAMI.PA,ARAMIS GROUP,Consumer Discretionary
+ALCLS.PA,CELLECTIS,Health Care
+BSD.PA,BOURSE DIRECT,Financials
+YOUNI.PA,YOUNITED FINANCIAL,Financials
+PARRO.PA,PARROT,Telecommunications
+SWP.PA,SWORD GROUP,Technology
+INF.PA,INFOTEL,Technology
+EFG.PA,EAGLEFOOTBALLGROUP,Consumer Discretionary
+ALBFR.PA,SIDETRADE,Technology
+BON.PA,BONDUELLE,Consumer Staples
+FSDV.PA,FSDV,Consumer Discretionary
+ALSTI.PA,STIF,Industrials
+TNG.PA,TRANSGENE,Health Care
+GPE.PA,GPE GROUP PIZZORNO,Utilities
+ALDLT.PA,DELTA PLUS GROUP,Consumer Discretionary
+LIN.PA,LINEDATA SERVICES,Technology
+ALSTW.PA,STREAMWIDE,Technology
+CRI.PA,CIECHARGEURSINVEST,Industrials
+RBO.PA,ROCHE BOBOIS,Consumer Discretionary
+MDM.PA,MAISONS DU MONDE,Consumer Discretionary
+ALMDT.PA,MEDIANTECHNOLOGIES,Health Care
+ALRIB.PA,RIBER,Technology
+ALERS.PA,EUROBIO-SCIENTIFIC,Health Care
+ALCPB.PA,CAPITAL B,Technology
+IPH.PA,INNATE PHARMA,Health Care
+LAT.PA,LATECOERE,Industrials
+SFPI.PA,GROUPE SFPI,Industrials
+ALEXA.PA,EXACOMPTA CLAIREF.,Basic Materials
+ALLAN.PA,LANSON-BCC,Consumer Staples
+ALLHB.PA,LES HOTELS BAVEREZ,Consumer Discretionary
+ALHEX.PA,HEXAOM,Consumer Discretionary
+PARP.PA,GROUPE PARTOUCHE,Consumer Discretionary
+ALVU.PA,VENTE UNIQUE.COM,Consumer Discretionary
+AKW.PA,AKWEL,Consumer Discretionary
+DEEZR.PA,DEEZER,Technology
+BLC.PA,BASTIDE LE CONFORT,Health Care
+ALCIS.PA,CATERING INTL SCES,Industrials
+ALTPC.PA,SMTPC,Industrials
+ALLIX.PA,WALLIX,Technology
+LOCAL.PA,SOLOCAL GROUP,Consumer Discretionary
+ATLD.PA,ATLAND,Real Estate
+ALESE.PA,ENTECH,Energy
+ALNSE.PA,NSE,Industrials
+ALFRE.PA,FREELANCE.COM,Technology
+ALGEV.PA,GEVELOT,Industrials
+ALCGM.PA,CEGEDIM,Technology
+ATEME.PA,ATEME,Technology
+CBOT.PA,CBO TERRITORIA,Real Estate
+ALFPC.PA,FOUNTAINE PAJOT,Consumer Discretionary
+FDE.PA,FRANCAISE ENERGIE,Utilities
+ALLUX.PA,INSTALLUX,Industrials
+ALRFG.PA,RACING FORCE,Consumer Discretionary
+EXE.PA,EXEL INDUSTRIES,Industrials
+ALKEY.PA,KEYRUS,Technology
+ALPM.PA,PRECIA,Industrials
+CBSM.PA,SCBSM,Real Estate
+ALSEN.PA,SENSORION,Health Care
+FORE.PA,FORESTIERE EQUAT.,Financials
+SRP.PA,SHOWROOMPRIVE,Consumer Discretionary
+ALCAF.PA,CAFOM,Consumer Discretionary
+ALHAF.PA,HAFFNER ENERGY,Energy
+BLEE.PA,BLEECKER,Real Estate
+ALRIS.PA,RISING STONE,Consumer Discretionary
+ALKAL.PA,KALRAY,Technology
+ALBON.PA,LEBON,Financials
+ALPDX.PA,PISCINES DESJOYAUX,Consumer Discretionary
+ALAFY.PA,AFYREN,Basic Materials
+CROS.PA,CROSSWOOD,Real Estate
+ALSOG.PA,SOGECLAIR,Industrials
+ALUNI.PA,UNIFY GROUP,Technology
+ALCRB.PA,CARBIOS,Basic Materials
+ALIEV.PA,IEVA GROUP,Consumer Staples
+DKUPL.PA,DEKUPLE,Consumer Discretionary
+LHYFE.PA,LHYFE,Energy
+GBT.PA,GUERBET,Health Care
+ALECR.PA,EUROFINS CEREP,Health Care
+LACR.PA,LACROIX GROUP,Industrials
+POMRY.PA,MAISON POMMERY,Consumer Staples
+ALFLE.PA,FLEURY MICHON,Consumer Staples
+ALBKK.PA,BAIKOWSKI,Basic Materials
+DPAM.PA,DOCK.PETR.AMBES AM,Industrials
+ALCJ.PA,CROSSJECT,Health Care
+DPT.PA,ST DUPONT,Consumer Staples
+ALATI.PA,ACTIA GROUP,Industrials
+EAPI.PA,EUROAPI,Health Care
+GEA.PA,GEA GRENOBL.ELECT.,Industrials
+ADOC.PA,ADOCIA,Health Care
+SPEL.PA,FONCIERE VOLTA,Real Estate
+ALDEL.PA,DELFINGEN,Consumer Discretionary
+ABNX.PA,ABIONYX PHARMA,Health Care
+ALVAZ.PA,VAZIVA,Industrials
+ALBI.PA,GASCOGNE,Industrials
+ALATA.PA,ATARI,Consumer Discretionary
+ALWEC.PA,WE.CONNECT,Consumer Discretionary
+ALFER.PA,SERGEFERRARI GROUP,Industrials
+SACI.PA,FIDUCIAL OFF.SOL.,Consumer Discretionary
+VTR.PA,VITURA,Real Estate
+OSE.PA,OSE IMMUNO,Health Care
+CO.PA,CASINO GUICHARD,Consumer Staples
+ALLDL.PA,GROUPE LDLC,Technology
+AAA.PA,ALAN ALLMAN,Financials
+ALODC.PA,OMER-DECUGIS & CIE,Consumer Staples
+HCO.PA,HIGH CO,Consumer Discretionary
+AB.PA,AB SCIENCE,Health Care
+ABEO.PA,ABEO,Consumer Discretionary
+ALHGR.PA,HOFFMANN,Industrials
+ALICA.PA,ICAPE HOLDING,Technology
+ALMOU.PA,MOULINVEST,Basic Materials
+EKI.PA,EKINOPS,Telecommunications
+PIG.PA,HAULOTTE GROUP,Industrials
+GUI.PA,GUILLEMOT,Technology
+ALAVI.PA,ADVINI,Consumer Staples
+ALPUL.PA,PULLUP ENTERTAIN,Consumer Discretionary
+SABE.PA,SAINT JEAN GROUPE,Consumer Staples
+ALLEX.PA,LEXIBOOK LINGUIST.,Consumer Discretionary
+ALMDG.PA,MGI DIGITAL GRAPHI,Industrials
+ALHRG.PA,HERIGE,Industrials
+ALMKS.PA,MAKING SCIENCE,Technology
+S30.PA,SOLUTIONS 30 SE,Technology
+COH.PA,COHERIS,Technology
+ALCAT.PA,CATANA GROUP,Consumer Discretionary
+ALKLN.PA,KALEON,Consumer Discretionary
+ALTHX.PA,THX PHARMA,Health Care
+AURE.PA,AUREA,Utilities
+ALGAE.PA,FERMENTALG,Basic Materials
+MAAT.PA,MAAT PHARMA,Health Care
+ALREB.PA,REBIRTH,Real Estate
+ALBLD.PA,BILENDI,Consumer Discretionary
+ALTHE.PA,THERACLION,Health Care
+ALMIB.PA,AMOEBA,Basic Materials
+ALPHI.PA,FACEPHI,Technology
+ALPJT.PA,POUJOULAT,Industrials
+ALPVL.PA,PLAST. VAL LOIRE,Industrials
+ALSMA.PA,SMAIO,Health Care
+ALKLH.PA,KLEA HOLDING,Health Care
+VANTI.PA,VANTIVA,Telecommunications
+ALHOP.PA,HOPSCOTCH GROUPE,Consumer Discretionary
+ALMRB.PA,MR BRICOLAGE,Consumer Discretionary
+ALENO.PA,ENOGIA,Industrials
+MEMS.PA,MEMSCAP REGPT,Technology
+ABLD.PA,ABL Diagnostics,Health Care
+ALCLA.PA,CLARANOVA,Technology
+ALDNX.PA,DNXCORP,Technology
+PAR.PA,PAREF,Real Estate
+ALCBI.PA,CBI,Consumer Discretionary
+ALCOX.PA,NICOX,Health Care
+ALNOV.PA,NOVACYT,Health Care
+HDF.PA,HDF,Utilities
+FINM.PA,FINANCIERE MARJOS,Consumer Discretionary
+ACAN.PA,ACANTHE DEV.,Real Estate
+ALECP.PA,EUROPACORP,Consumer Discretionary
+ALAUD.PA,AUDACIA,Financials
+ALETC.PA,ENERGY SOLAR,Energy
+ALPRG.PA,PROLOGUE,Technology
+ALUNT.PA,UNITI,Real Estate
+SFCA.PA,SOC FRANC CASINOS,Consumer Discretionary
+ALMKT.PA,MAUNA KEA TECH,Health Care
+ALHYP.PA,HIPAY GROUP,Industrials
+ALGEN.PA,GENOWAY,Health Care
+ALNTG.PA,NETGEM,Telecommunications
+ALODY.PA,ODYSSEE TECHNO,Industrials
+ALMEX.PA,MEXEDIA,Telecommunications
+ALBPK.PA,BROADPEAK,Telecommunications
+ALDRV.PA,DRONE VOLT,Industrials
+TBSO.PA,TBSO,Industrials
+ALMER.PA,SAPMER,Consumer Staples
+ALMIN.PA,MINT,Utilities
+JBOG.PA,JACQUES BOGART,Consumer Staples
+ALVAL.PA,VALBIOTIS,Health Care
+VMX.PA,VERIMATRIX,Technology
+ALDAR.PA,DAMARTEX,Consumer Discretionary
+ALXIL.PA,XILAM ANIMATION,Consumer Discretionary
+ALDLS.PA,D.L.S.I.,Industrials
+ALNSC.PA,NSC GROUPE,Industrials
+ALVIR.PA,VIRTUALWARE,Technology
+ALTOU.PA,TOUAX,Industrials
+ALDMS.PA,DIAGNOSTIC MEDICAL,Health Care
+ALITL.PA,IT LINK,Technology
+PRC.PA,ARTMARKET COM,Consumer Discretionary
+ALHUN.PA,HUNYVERS,Consumer Discretionary
+ALTAI.PA,LIGHTON,Technology
+GRVO.PA,GRAINES VOLTZ,Consumer Discretionary
+ARTE.PA,ARTEA,Real Estate
+SIGHT.PA,GENSIGHT BIOLOGICS,Health Care
+ALFOR.PA,FORSEE POWER,Industrials
+ALIMP.PA,IMPLANET,Health Care
+ALEAC.PA,EDILIZIACROBATICA,Industrials
+ALHRS.PA,HYDROGEN REFUELING,Energy
+ALHIT.PA,HITECHPROS,Technology
+ALCOG.PA,COGRA,Basic Materials
+ALISP.PA,ISPD,Consumer Discretionary
+ALIKO.PA,IKONISYS,Health Care
+ALWTR.PA,WATERA,Utilities
+ALU10.PA,U10 CORP,Consumer Discretionary
+ALLOG.PA,LOGIC INSTRUMENT,Technology
+ALTD.PA,TONNER DRONES,Industrials
+ALMCE.PA,MON COURTIER ENERG,Industrials
+ALPWG.PA,PRODWAYS GROUP,Industrials
+ALPAS.PA,PASSAT,Consumer Discretionary
+FIPP.PA,FIPP,Financials
+ALCWE.PA,CHARWOOD ENERGY,Utilities
+ALTUV.PA,BIO-UV GROUP,Industrials
+ALTRI.PA,TRILOGIQ,Industrials
+ALGID.PA,EGIDE,Industrials
+ALTAO.PA,ATON,Health Care
+ALROC.PA,ROCTOOL,Industrials
+ALBIO.PA,BIOSYNEX,Health Care
+ALFUM.PA,FILL UP MEDIA,Consumer Discretionary
+ALLLN.PA,LLEIDA,Technology
+ALGIR.PA,SIGNAUX GIROD,Industrials
+ALJXR.PA,ARCHOS,Telecommunications
+ALWIT.PA,WITBE,Technology
+ALBIZ.PA,OBIZ,Consumer Discretionary
+ALEMV.PA,EMOVA GROUP,Consumer Discretionary
+ALGLD.PA,GOLD BY GOLD,Basic Materials
+ALCPA.PA,MACOMPTA.FR,Technology
+ALTRA.PA,TRACTIAL,Technology
+ALSEC.PA,SODITECH,Industrials
+ALSAS.PA,STRADIM ESPAC.FIN,Real Estate
+ALEMG.PA,LABO EUROMEDIS,Health Care
+ALCUR.PA,ARCURE,Industrials
+OREGE.PA,OREGE,Utilities
+HDP.PA,HOTELS DE PARIS,Consumer Discretionary
+ALINS.PA,INTRASENSE,Health Care
+AELIS.PA,AELIS FARMA,Health Care
+ALDVI.PA,ADVICENNE,Health Care
+ALAGP.PA,AGRIPOWER,Energy
+ALPRI.PA,PRISMAFLEX INTL,Consumer Discretionary
+ALMGI.PA,MG INTERNATIONAL,Consumer Discretionary
+ALKKO.PA,KKO INTERNATIONAL,Consumer Staples
+ALLSF.PA,LE SLIP FRANCAIS,Consumer Discretionary
+ALPET.PA,PET SERVICE,Consumer Discretionary
+ALRGR.PA,ROUGIER S.A.,Basic Materials
+ALECO.PA,ECOMIAM,Consumer Staples
+POXEL.PA,POXEL,Health Care
+ALNXT.PA,NEXTEDIA,Technology
+ALBOA.PA,BOA CONCEPT,Industrials
+ALNRG.PA,ENERGISME,Technology
+PROAC.PA,PROACTIS SA,Technology
+ALHF.PA,HF COMPANY,Telecommunications
+ALNFL.PA,NFL BIOSCIENCES,Health Care
+ALTME.PA,TME PHARMA,Health Care
+ALTXC.PA,TXCOM,Telecommunications
+ALVGO.PA,VOGO,Technology
+ALMLB.PA,MILIBOO,Consumer Discretionary
+EEM.PA,ELECT. MADAGASCAR,Real Estate
+EFI.PA,EURASIA FONC INV,Real Estate
+ALCOF.PA,COFIDUR,Industrials
+ALAGR.PA,AGROGENERATION,Consumer Staples
+ALKOM.PA,KOMPUESTOS,Industrials
+ALI2S.PA,I2S,Industrials
+ALSGD.PA,SPINEGUARD,Health Care
+ALGTR.PA,GROUPE TERA,Industrials
+ALVIN.PA,VINPAI,Consumer Staples
+ALCBX.PA,CIBOX INTER A CTIV,Technology
+ALBPS.PA,BIOPHYTIS,Health Care
+ALGRO.PA,GROLLEAU,Industrials
+ALFLO.PA,FLORENTAISE,Basic Materials
+ALEUA.PA,EURASIA GROUPE,Real Estate
+ALNN6.PA,ENENSYS,Technology
+ALERO.PA,EUROLAND CORPORATE,Financials
+ALQWA.PA,QWAMPLIFY,Consumer Discretionary
+ALAGO.PA,E PANGO,Utilities
+NACON.PA,NACON,Consumer Discretionary
+ALVAP.PA,KUMULUS VAPE,Consumer Discretionary
+ALAMA.PA,AMA CORPORATION,Industrials
+ALWF.PA,WINFARM,Consumer Staples
+ALKLK.PA,KERLINK,Telecommunications
+ALAIR.PA,AIRWELL,Consumer Discretionary
+ALDV.PA,ADC SIIC,Real Estate
+ALDBL.PA,BERNARD LOISEAU,Consumer Discretionary
+ALUPG.PA,UPERGY,Consumer Discretionary
+COUR.PA,COURTOIS,Real Estate
+ALINN.PA,INNELEC MULTIMEDIA,Technology
+ALINV.PA,INVIBES ADVERTSING,Consumer Discretionary
+ALDUX.PA,ADUX,Consumer Discretionary
+FPG.PA,UNION TECH.INFOR.,Technology
+ALWIN.PA,WINAMP GROUP,Consumer Discretionary
+ALOKW.PA,GROUPE OKWIND,Utilities
+ALIBR.PA,CALIBRE,Consumer Discretionary
+ALNLF.PA,NEOLIFE,Industrials
+ALUVI.PA,UV GERMI,Industrials
+ALEO2.PA,EO2,Energy
+AUGR.PA,AUGROS COSMETIC,Industrials
+ALCOI.PA,COIL,Basic Materials
+ALEFA.PA,EDUFORM ACTION,Financials
+ALDUB.PA,ENCRES DUBUIT,Basic Materials
+AVT.PA,AVENIR TELECOM,Telecommunications
+ALAQU.PA,AQUILA,Industrials
+ALMET.PA,METHANOR,Utilities
+ALSEI.PA,SEIF SPA,Consumer Discretionary
+ALLGO.PA,LARGO,Technology
+ALORA.PA,ALTHEORA,Industrials
+ALESA.PA,ECOSLOPS,Energy
+ALPAU.PA,PAULIC MEUNERIE,Consumer Staples
+ALDNE.PA,DONTNOD,Consumer Discretionary
+ALEXP.PA,ONE EXPERIENCE,Industrials
+ALQGC.PA,QUANTUM GENOMICS,Health Care
+ALPAT.PA,PLANT ADVANCED,Health Care
+ALPRE.PA,PREDILIFE,Health Care
+ALBLU.PA,BLUELINEA,Health Care
+ALSPT.PA,SPARTOO,Consumer Discretionary
+GJAJ.PA,GROUPE JAJ,Consumer Discretionary
+ALOPM.PA,ONCODESIGN PM,Health Care
+ALSPW.PA,SPINEWAY,Health Care
+ALMAR.PA,MARE NOSTRUM,Industrials
+ALMUN.PA,MUNIC,Technology
+ALARF.PA,ADEUNIS,Industrials
+ALVIA.PA,VIALIFE,Consumer Discretionary
+CHSR.PA,CHAUSSERIA,Consumer Discretionary
+MHM.PA,MYHOTELMATCH,Consumer Discretionary
+NR21.PA,NR21,Consumer Discretionary
+ALORD.PA,ORDISSIMO,Technology
+ALKLA.PA,KLARSEN,Consumer Discretionary
+ALDEV.PA,DEVERNOIS,Consumer Discretionary
+ALIMR.PA,IMMERSION,Technology
+EOS.PA,ACTEOS,Technology
+EGR.PA,EVERGREEN,Technology
+ALDOL.PA,DOLFINES,Energy
+ALGEC.PA,GECI INTL,Technology
+BIG.PA,BIGBEN INTERACTIVE,Consumer Discretionary
+ITXT.PA,INTEXA,Consumer Discretionary
+ALENT.PA,ETHERO,Technology
+ALREA.PA,REALITES,Real Estate
+ALDBT.PA,DBT,Industrials
+BUI.PA,BARBARA BUI,Consumer Discretionary
+CFI.PA,CFI,Real Estate
+SLCO.PA,SELCODIS,Industrials
+ALNMG.PA,NETMEDIA GROUP,Consumer Discretionary
+ALHPI.PA,HOPIUM,Consumer Discretionary
+ALLPL.PA,LEPERMISLIBRE,Consumer Discretionary
+ALEUP.PA,EUROPLASMA,Utilities
+ALNMR.PA,NAMR,Technology
+ALSRS.PA,SIRIUS MEDIA,Consumer Discretionary
+ALTHO.PA,METAVISIO,Technology
+ALINT.PA,INTEGRAGEN,Health Care
+ALMAS.PA,MASTRAD,Consumer Discretionary
+ALUCI.PA,LUCIBEL,Industrials
+LEBL.PA,FONCIERE 7 INVEST,Industrials
+ALALO.PA,ACHETER-LOUER.FR,Technology
+ALSAF.PA,SAFE,Health Care
+ALBOO.PA,BOOSTHEAT,Energy
+ALADO.PA,ADOMOS,Real Estate
+ALTOO.PA,TOOSLA,Consumer Discretionary
+ALNEV.PA,NEOVACS,Health Care
+ML.PA,MICHELIN,Consumer Discretionary
+ALO.PA,ALSTOM,Industrials
+CDI.PA,CHRISTIAN DIOR,Consumer Discretionary
+BNBS.PA,DRONE VOLT BS28,Industrials
+ENX.PA,EURONEXT,Financials
+MONT.PA,MONTEA,Real Estate
+ALPG.PA,PREATONI GROUP,Real Estate
+PUB.PA,PUBLICIS GROUPE SA,Consumer Discretionary
+RCO.PA,REMY COINTREAU,Consumer Staples
+CBR.PA,ROBERTET CDV 87,Basic Materials
+UBI.PA,UBISOFT ENTERTAIN,Consumer Discretionary
