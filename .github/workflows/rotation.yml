@@ -40,9 +40,13 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add */rotation.md */sector_history.csv
-          git diff --staged --quiet || git commit -m "rotation: semaine du $(date -u +%Y-%m-%d)"
-          git push
+          git add -A                     # alert.txt est exclu par .gitignore
+          if git diff --staged --quiet; then
+            echo "Rien à committer (aucun rapport généré ?)"
+          else
+            git commit -m "rotation: semaine du $(date -u +%Y-%m-%d)"
+            git push
+          fi
 
       - name: Alertes (une issue par marché avec un nouveau signal)
         env:

@@ -96,24 +96,46 @@ def load_universe(path):
     return df.drop_duplicates("ticker")[["ticker", "sector"]]
 
 
-def download_closes(tickers):
+def download_closes(tickers, chunk=150, passes=3):
+    """Téléchargement par paquets avec reprises : Yahoo limite fortement le débit
+    depuis les serveurs GitHub, un seul appel de 1 000 tickers échoue souvent."""
+    import time
     import yfinance as yf
 
     def _dl(tks):
-        data = yf.download(tks, period=PERIOD, interval="1d", auto_adjust=True,
-                           progress=False, threads=True, group_by="column")
-        close = data["Close"] if isinstance(data.columns, pd.MultiIndex) else data[["Close"]]
-        if not isinstance(data.columns, pd.MultiIndex):
-            close.columns = tks
-        return close
+        try:
+            data = yf.download(tks, period=PERIOD, interval="1d", auto_adjust=True,
+                               progress=False, threads=False, group_by="column")
+        except Exception as e:  # rate limit, réseau...
+            print(f"    paquet en erreur : {type(e).__name__}: {e}")
+            return pd.DataFrame()
+        if data is None or data.empty:
+            return pd.DataFrame()
+        if isinstance(data.columns, pd.MultiIndex):
+            return data["Close"]
+        return data[["Close"]].set_axis(tks, axis=1)
 
-    close = _dl(tickers)
-    missing = [t for t in tickers if t not in close.columns or close[t].notna().sum() == 0]
-    if missing:  # une seconde passe : yfinance perd souvent quelques tickers en batch
-        print(f"  Nouvel essai sur {len(missing)} tickers manquants...")
-        retry = _dl(missing)
-        close = close.drop(columns=[c for c in missing if c in close.columns]).join(retry, how="outer")
-    return close.dropna(axis=1, how="all").sort_index()
+    frames, todo = [], list(tickers)
+    for p in range(1, passes + 1):
+        if not todo:
+            break
+        print(f"  Passe {p} : {len(todo)} tickers")
+        for i in range(0, len(todo), chunk):
+            part = _dl(todo[i:i + chunk])
+            if not part.empty:
+                frames.append(part.dropna(axis=1, how="all"))
+            time.sleep(2 * p)
+        got = set().union(*(f.columns for f in frames)) if frames else set()
+        todo = [t for t in tickers if t not in got]
+
+    if not frames:
+        return pd.DataFrame()
+    close = pd.concat(frames, axis=1)
+    close = close.loc[:, ~close.columns.duplicated()]
+    close.index = pd.to_datetime(close.index)
+    if close.index.tz is not None:
+        close.index = close.index.tz_localize(None)
+    return close.sort_index()
 
 
 # ======================
@@ -311,6 +333,8 @@ def main():
     print(f"Univers : {len(tickers)} tickers")
 
     close = download_closes(tickers)
+    if close.empty:
+        sys.exit("ÉCHEC : aucun cours téléchargé (Yahoo inaccessible ou limite de débit).")
     coverage = close.shape[1] / len(tickers)
     last_date = close.index.max()
     stale = (pd.Timestamp.now().normalize() - last_date.normalize()).days
