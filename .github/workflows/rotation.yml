@@ -1,0 +1,59 @@
+name: Rotation sectorielle
+
+on:
+  schedule:
+    - cron: "0 7 * * 6"      # samedi 07:00 UTC (09:00 Paris) — semaine close
+  workflow_dispatch:          # bouton "Run workflow" pour un lancement manuel
+
+permissions:
+  contents: write             # commit des rapports
+  issues: write               # issue = notification e-mail quand un signal apparaît
+
+jobs:
+  rotation:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Dépendances
+        run: pip install yfinance pandas numpy
+
+      # Chaque dossier contenant un universe.csv est un marché (US, puis FR...).
+      # Un marché en échec n'empêche pas les autres de tourner.
+      - name: Calcul
+        run: |
+          status=0
+          for f in */universe.csv; do
+            m=$(dirname "$f")
+            echo "::group::$m"
+            python rotation.py "$m" || { echo "::error::$m en échec"; status=1; }
+            echo "::endgroup::"
+          done
+          echo "FAILED=$status" >> "$GITHUB_ENV"
+
+      - name: Commit des rapports
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add */rotation.md */sector_history.csv
+          git diff --staged --quiet || git commit -m "rotation: semaine du $(date -u +%Y-%m-%d)"
+          git push
+
+      - name: Alertes (une issue par marché avec un nouveau signal)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          for a in */alert.txt; do
+            [ -f "$a" ] || continue
+            m=$(dirname "$a")
+            gh issue create --title "$(head -n1 "$a")" --body-file "$m/rotation.md"
+          done
+
+      - name: Échec signalé
+        if: env.FAILED == '1'
+        run: exit 1
