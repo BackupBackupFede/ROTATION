@@ -53,12 +53,12 @@ _61 titres dans le secteur ; les 15 plus faibles — à surveiller si tu en dét
 | MPT | Medical Properties Trust | −22,0 pts | · | · | −36 % |
 | CCI | Crown Castle | −14,7 pts | · | · | −22 % |
 | GLPI | Gaming and Leisure Properties | −11,4 pts | · | · | −15 % |
-| VICI | Vici Properties | −11,4 pts | · | · | −23 % |
 | BRX | Brixmor Property Group | −10,5 pts | · | · | −14 % |
 | LINE | Lineage, Inc. | −10,5 pts | · | · | −15 % |
 | WY | Weyerhaeuser | −10,3 pts | · | · | −18 % |
 | UDR | UDR, Inc. | −10,0 pts | · | · | −16 % |
 | MAA | Mid-America Apartment Communitie | −9,7 pts | · | · | −14 % |
+| VICI | Vici Properties | −9,7 pts | · | · | −22 % |
 | WPC | W. P. Carey | −9,7 pts | · | · | −13 % |
 | CPT | Camden Property Trust | −9,2 pts | · | · | −14 % |
 | KIM | Kimco Realty | −8,9 pts | · | · | −13 % |
@@ -240,7 +240,7 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 | WDAY | Workday, Inc. | +54,8 pts | ✓ | ✓ | −20 % |
 | S | SentinelOne | +53,7 pts | ✓ | ✓ | −3 % |
 | ZS | Zscaler | +52,4 pts | ✓ | · | −41 % |
-| CRM | Salesforce | +48,6 pts | ✓ | ✓ | −8 % |
+| CRM | Salesforce | +48,9 pts | ✓ | ✓ | −8 % |
 | U | Unity Technologies | +47,9 pts | ✓ | ✓ | −15 % |
 | MANH | Manhattan Associates | +47,5 pts | ✓ | ✓ | −6 % |
 | ZBRA | Zebra Technologies | +45,9 pts | ✓ | ✓ | −9 % |
@@ -269,7 +269,7 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 | GDDY | GoDaddy | +27,7 pts | ✓ | ✓ | −34 % |
 | EPAM | EPAM Systems | +27,3 pts | ✓ | · | −47 % |
 | FIG | Figma | +26,8 pts | · | · | −67 % |
-| HPE | Hewlett Packard Enterprise | +25,9 pts | ✓ | ✓ | −2 % |
+| HPE | Hewlett Packard Enterprise | +26,2 pts | ✓ | ✓ | −1 % |
 | MSFT | Microsoft | +25,8 pts | ✓ | ✓ | −7 % |
 | GEN | Gen Digital | +25,3 pts | ✓ | ✓ | −4 % |
 | HUBS | HubSpot | +24,4 pts | · | · | −56 % |
@@ -530,8 +530,8 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 | C | Citigroup | −4,5 pts | · | · | −8 % |
 | KEY | Keycorp | −4,6 pts | · | · | −12 % |
 | AGO | Assured Guaranty | −4,9 pts | · | · | −22 % |
+| HBAN | Huntington Bancshares | −5,0 pts | · | · | −15 % |
 | MS | Morgan Stanley | −5,1 pts | · | · | −10 % |
-| HBAN | Huntington Bancshares | −5,9 pts | · | · | −16 % |
 | AXP | American Express | −5,9 pts | · | · | −18 % |
 | APO | Apollo Global Management | −6,0 pts | · | · | −16 % |
 | FHB | First Hawaiian, Inc. | −6,6 pts | · | · | −14 % |
@@ -729,12 +729,12 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 | KIM | Kimco Realty | −8,9 pts | · | · | −13 % |
 | CPT | Camden Property Trust | −9,2 pts | · | · | −14 % |
 | WPC | W. P. Carey | −9,7 pts | · | · | −13 % |
+| VICI | Vici Properties | −9,7 pts | · | · | −22 % |
 | MAA | Mid-America Apartment Communitie | −9,7 pts | · | · | −14 % |
 | UDR | UDR, Inc. | −10,0 pts | · | · | −16 % |
 | WY | Weyerhaeuser | −10,3 pts | · | · | −18 % |
 | LINE | Lineage, Inc. | −10,5 pts | · | · | −15 % |
 | BRX | Brixmor Property Group | −10,5 pts | · | · | −14 % |
-| VICI | Vici Properties | −11,4 pts | · | · | −23 % |
 | GLPI | Gaming and Leisure Properties | −11,4 pts | · | · | −15 % |
 | CCI | Crown Castle | −14,7 pts | · | · | −22 % |
 | MPT | Medical Properties Trust | −22,0 pts | · | · | −36 % |
@@ -813,9 +813,9 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 | Ticker | Société | Perf. 13 sem. vs marché | > MM50 | MM50 > MM200 | Vs plus haut 52 s. |
 |---|---|---:|:---:|:---:|---:|
 | GPC | Genuine Parts Company | +27,1 pts | ✓ | ✓ | −10 % |
+| BBY | Best Buy | +26,1 pts | ✓ | ✓ | +0 % |
 | HRB | H&R Block | +25,9 pts | · | · | −17 % |
 | SN | SharkNinja | +25,9 pts | · | · | −14 % |
-| BBY | Best Buy | +24,8 pts | ✓ | ✓ | −0 % |
 | W | Wayfair | +24,5 pts | ✓ | ✓ | −14 % |
 | FIVE | Five Below | +23,1 pts | ✓ | ✓ | −10 % |
 | EXPE | Expedia Group | +21,3 pts | · | · | −16 % |
@@ -905,7 +905,7 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 | LVS | Las Vegas Sands | −16,7 pts | · | · | −40 % |
 | NKE | Nike, Inc. | −17,7 pts | · | · | −50 % |
 | RL | Ralph Lauren Corporation | −18,0 pts | · | · | −19 % |
-| RCL | Royal Caribbean Group | −19,4 pts | · | · | −27 % |
+| RCL | Royal Caribbean Group | −18,9 pts | · | · | −27 % |
 | WHR | Whirlpool Corporation | −20,1 pts | · | · | −64 % |
 | MGM | MGM Resorts International | −20,2 pts | · | · | −24 % |
 | WYNN | Wynn Resorts | −20,5 pts | · | · | −37 % |
@@ -1186,4 +1186,4 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 - **Un secteur en rotation n'est pas un achat.** C'est un endroit où chercher : croiser avec les screeners et setups du marché.
 
 ---
-*Dernière séance : 17/09/2026. Généré le 17/09/2026 22:50 UTC. Travail d'analyse quantitative, sans valeur de conseil en investissement.*
+*Dernière séance : 17/09/2026. Généré le 18/09/2026 08:53 UTC. Travail d'analyse quantitative, sans valeur de conseil en investissement.*
