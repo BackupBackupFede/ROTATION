@@ -578,7 +578,7 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 | WBD | Warner Bros. Discovery | +6,9 pts | ✓ | · | −7 % |
 | FWONA | Liberty Formula 1(Series A) | +6,0 pts | · | · | −14 % |
 | DIS | Walt Disney Company (The) | +4,5 pts | · | · | −11 % |
-| OMC | Omnicom Group | +1,3 pts | · | · | −14 % |
+| OMC | Omnicom Group | +2,4 pts | · | · | −13 % |
 | SIRI | SiriusXM | +1,3 pts | · | · | −15 % |
 | CMCSA | Comcast | −0,2 pts | · | · | −28 % |
 | RBLX | Roblox Corporation | −0,7 pts | ✓ | · | −66 % |
@@ -755,8 +755,8 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 | HL | Hecla Mining | +15,6 pts | ✓ | · | −40 % |
 | RGLD | Royal Gold | +15,3 pts | ✓ | · | −18 % |
 | AU | AngloGold Ashanti | +13,0 pts | ✓ | ✓ | −17 % |
+| IFF | International Flavors & Fragranc | +10,0 pts | ✓ | ✓ | −5 % |
 | CCK | Crown Holdings | +9,5 pts | · | · | −10 % |
-| IFF | International Flavors & Fragranc | +9,5 pts | ✓ | ✓ | −6 % |
 | CDE | Coeur Mining | +7,5 pts | ✓ | · | −27 % |
 | CTVA | Corteva | +7,4 pts | · | · | −11 % |
 | AVY | Avery Dennison | +6,6 pts | · | · | −14 % |
@@ -850,8 +850,8 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 | WSM | Williams-Sonoma, Inc. | +1,4 pts | · | · | −11 % |
 | ETSY | Etsy | +1,4 pts | · | · | −17 % |
 | PLNT | Planet Fitness | +0,7 pts | · | · | −56 % |
+| QSR | Restaurant Brands International | −0,4 pts | · | · | −10 % |
 | ROST | Ross Stores | −0,8 pts | · | · | −11 % |
-| QSR | Restaurant Brands International | −1,2 pts | · | · | −11 % |
 | CROX | Crocs | −1,4 pts | · | · | −13 % |
 | BKNG | Booking Holdings | −1,8 pts | · | · | −24 % |
 | NVR | NVR, Inc. | −2,1 pts | · | · | −25 % |
@@ -1084,10 +1084,10 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 | FDX | FedEx | −6,5 pts | · | · | −10 % |
 | TREX | Trex Company, Inc. | −6,6 pts | · | · | −21 % |
 | TT | Trane Technologies | −7,1 pts | · | · | −15 % |
+| SUNB | Sunbelt Rentals | −7,7 pts | · | · | — % |
 | EME | Emcor | −7,7 pts | · | · | −20 % |
 | HXL | Hexcel | −7,9 pts | · | · | −20 % |
 | FTV | Fortive | −7,9 pts | · | · | −14 % |
-| SUNB | Sunbelt Rentals | −8,0 pts | · | · | — % |
 | HEI-A | HEICO(Class A) | −8,1 pts | · | · | −20 % |
 | GE | GE Aerospace | −8,2 pts | · | · | −18 % |
 | ROK | Rockwell Automation | −8,2 pts | · | · | −16 % |
@@ -1186,4 +1186,4 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 - **Un secteur en rotation n'est pas un achat.** C'est un endroit où chercher : croiser avec les screeners et setups du marché.
 
 ---
-*Dernière séance : 18/09/2026. Généré le 18/09/2026 22:32 UTC. Travail d'analyse quantitative, sans valeur de conseil en investissement.*
+*Dernière séance : 18/09/2026. Généré le 21/09/2026 07:55 UTC. Travail d'analyse quantitative, sans valeur de conseil en investissement.*
