@@ -849,7 +849,7 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 | AIT | Applied Industrial Technologies | +0,6 pts | · | · | −8 % |
 | UHAL | U-Haul | +0,5 pts | · | · | −18 % |
 | JCI | Johnson Controls | +0,5 pts | · | · | −5 % |
-| CPRT | Copart | −0,3 pts | · | · | −37 % |
+| CPRT | Copart | −0,2 pts | · | · | −37 % |
 | IR | Ingersoll Rand | −0,3 pts | · | · | −23 % |
 | WM | Waste Management, Inc. | −0,3 pts | · | · | −15 % |
 | UHAL-B | U-Haul(Series N) | −0,4 pts | · | · | −18 % |
@@ -1160,4 +1160,4 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 - **Un secteur en rotation n'est pas un achat.** C'est un endroit où chercher : croiser avec les screeners et setups du marché.
 
 ---
-*Dernière séance : 23/09/2026. Généré le 23/09/2026 22:57 UTC. Travail d'analyse quantitative, sans valeur de conseil en investissement.*
+*Dernière séance : 23/09/2026. Généré le 24/09/2026 07:55 UTC. Travail d'analyse quantitative, sans valeur de conseil en investissement.*
