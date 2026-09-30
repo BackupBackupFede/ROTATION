@@ -1122,9 +1122,9 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 | DUK | Duke Energy | −5,6 pts | · | · | −13 % |
 | PPL | PPL Corporation | −6,6 pts | · | · | −17 % |
 | D | Dominion Energy | −7,1 pts | · | · | −15 % |
+| ES | Eversource Energy | −7,3 pts | · | · | −14 % |
 | PNW | Pinnacle West Capital | −8,1 pts | · | · | −14 % |
 | WEC | WEC Energy Group | −8,3 pts | · | · | −13 % |
-| ES | Eversource Energy | −8,4 pts | · | · | −16 % |
 | AEP | American Electric Power | −8,7 pts | · | · | −13 % |
 | XEL | Xcel Energy | −8,7 pts | · | · | −14 % |
 | SO | Southern Company | −8,7 pts | · | · | −14 % |
@@ -1160,4 +1160,4 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 - **Un secteur en rotation n'est pas un achat.** C'est un endroit où chercher : croiser avec les screeners et setups du marché.
 
 ---
-*Dernière séance : 29/09/2026. Généré le 29/09/2026 23:40 UTC. Travail d'analyse quantitative, sans valeur de conseil en investissement.*
+*Dernière séance : 29/09/2026. Généré le 30/09/2026 07:53 UTC. Travail d'analyse quantitative, sans valeur de conseil en investissement.*
