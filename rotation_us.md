@@ -15,12 +15,12 @@ Largeur du marché : **20 %** des titres au-dessus de leur MM50.
 | 1 | 2 ▲ | Technologie | +13,9 % | 54 % | −8 pts | 4 % | LEADER |
 | 2 | 9 ▲ | Énergie | +12,4 % | 20 % | −34 pts | 0 % | LEADER |
 | 3 | 1 ▼ | Santé | +9,3 % | 46 % | −32 pts | 13 % | LEADER |
-| 4 | 10 ▲ | Communication | −0,2 % | 20 % | −46 pts | 5 % |  |
+| 4 | 10 ▲ | Communication | −0,3 % | 20 % | −46 pts | 5 % |  |
 | 5 | 3 ▼ | Finance | −0,8 % | 6 % | −77 pts | 0 % |  |
-| 6 | 8 ▲ | Matériaux | −2,6 % | 9 % | −54 pts | 0 % |  |
+| 6 | 8 ▲ | Matériaux | −2,7 % | 9 % | −54 pts | 0 % |  |
 | 7 | 5 ▼ | Conso. de base | −3,5 % | 7 % | −61 pts | 0 % |  |
 | 8 | 4 ▼ | Conso. discrétionnaire | −6,5 % | 12 % | −57 pts | 0 % |  |
-| 9 | 7 ▼ | Immobilier | −7,2 % | 2 % | −49 pts | 0 % |  |
+| 9 | 7 ▼ | Immobilier | −6,9 % | 2 % | −49 pts | 0 % |  |
 | 10 | 6 ▼ | Industrie | −7,4 % | 12 % | −52 pts | 0 % |  |
 | 11 | 11 | Services publics | −9,8 % | 2 % | −17 pts | 0 % |  |
 
@@ -109,10 +109,10 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 | AVT | Avnet | +20,2 pts | ✓ | ✓ | −3 % |
 | SMTC | Semtech | +19,9 pts | ✓ | ✓ | −4 % |
 | LITE | Lumentum | +19,7 pts | ✓ | ✓ | −8 % |
+| DOX | Amdocs | +19,2 pts | · | · | −31 % |
 | DLB | Dolby Laboratories | +19,1 pts | · | · | −17 % |
 | AMD | Advanced Micro Devices | +19,1 pts | ✓ | ✓ | −3 % |
 | TRMB | Trimble Inc. | +18,2 pts | · | · | −32 % |
-| DOX | Amdocs | +18,0 pts | · | · | −31 % |
 | GDDY | GoDaddy | +17,7 pts | · | · | −30 % |
 | VRSN | Verisign | +17,7 pts | · | · | −9 % |
 | HUBS | HubSpot | +16,8 pts | · | · | −59 % |
@@ -135,7 +135,7 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 | FORM | FormFactor, Inc. | +9,2 pts | ✓ | ✓ | −7 % |
 | MDB | MongoDB Inc. | +8,8 pts | · | · | −26 % |
 | TOST | Toast, Inc. | +8,6 pts | · | · | −26 % |
-| MPWR | Monolithic Power Systems | +8,4 pts | ✓ | ✓ | −20 % |
+| MPWR | Monolithic Power Systems | +8,6 pts | ✓ | ✓ | −20 % |
 | GSAT | Globalstar | +7,8 pts | ✓ | ✓ | −2 % |
 | ADI | Analog Devices | +7,2 pts | ✓ | ✓ | −11 % |
 | APH | Amphenol | +7,1 pts | ✓ | ✓ | −4 % |
@@ -290,7 +290,7 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 | MEDP | Medpace | +22,4 pts | ✓ | ✓ | −1 % |
 | BDX | Becton Dickinson | +21,7 pts | ✓ | ✓ | −6 % |
 | GH | Guardant Health | +21,7 pts | ✓ | ✓ | −3 % |
-| DHR | Danaher Corporation | +20,6 pts | ✓ | ✓ | −8 % |
+| DHR | Danaher Corporation | +20,8 pts | ✓ | ✓ | −8 % |
 | MCK | McKesson Corporation | +20,0 pts | · | · | −14 % |
 | MRK | Merck & Co. | +18,6 pts | ✓ | ✓ | −7 % |
 | SOLV | Solventum | +18,3 pts | ✓ | ✓ | −5 % |
@@ -303,7 +303,7 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 | BAX | Baxter International | +14,7 pts | · | · | −15 % |
 | INSM | Insmed | +14,6 pts | · | · | −46 % |
 | HCA | HCA Healthcare | +14,6 pts | ✓ | · | −21 % |
-| ENSG | Ensign Group | +14,4 pts | · | · | −20 % |
+| ENSG | Ensign Group | +14,5 pts | · | · | −20 % |
 | BRKR | Bruker | +14,2 pts | ✓ | ✓ | +0 % |
 | BMY | Bristol Myers Squibb | +13,4 pts | · | · | −8 % |
 | EXEL | Exelixis | +13,3 pts | ✓ | ✓ | −1 % |
@@ -334,9 +334,9 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 | TFX | Teleflex | +4,0 pts | · | · | −12 % |
 | HUM | Humana | +3,8 pts | · | · | −7 % |
 | CI | Cigna | +3,7 pts | · | · | −11 % |
+| ZBH | Zimmer Biomet | +3,3 pts | · | · | −14 % |
 | IDXX | Idexx Laboratories | +3,1 pts | · | · | −32 % |
 | JAZZ | Jazz Pharmaceuticals | +3,1 pts | · | · | −12 % |
-| ZBH | Zimmer Biomet | +3,0 pts | · | · | −14 % |
 | CNC | Centene | +1,9 pts | · | · | −11 % |
 | ZTS | Zoetis | +1,7 pts | · | · | −52 % |
 | MDGL | Madrigal Pharmaceuticals | +1,2 pts | · | · | −16 % |
@@ -352,7 +352,7 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 | ASND | Ascendis Pharma | −7,9 pts | · | · | −18 % |
 | ALNY | Alnylam Pharmaceuticals | −10,3 pts | ✓ | · | −50 % |
 | ALGN | Align Technology | −10,5 pts | · | · | −26 % |
-| SYK | Stryker Corporation | −10,8 pts | · | · | −29 % |
+| SYK | Stryker Corporation | −10,5 pts | · | · | −28 % |
 | NBIX | Neurocrine Biosciences | −10,9 pts | · | · | −24 % |
 | CVS | CVS Health | −11,1 pts | · | · | −22 % |
 | PODD | Insulet | −11,6 pts | · | · | −62 % |
@@ -454,8 +454,8 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 | AMP | Ameriprise Financial | +16,2 pts | · | · | −14 % |
 | HOOD | Robinhood Markets | +16,1 pts | ✓ | ✓ | −26 % |
 | MET | Metlife | +15,8 pts | · | · | −6 % |
+| WTW | Willis Towers Watson | +15,3 pts | · | · | −18 % |
 | TW | Tradeweb | +15,3 pts | · | · | −20 % |
-| WTW | Willis Towers Watson | +15,0 pts | · | · | −18 % |
 | ARES | Ares Management | +14,8 pts | · | · | −32 % |
 | OWL | Blue Owl Capital | +14,4 pts | · | · | −43 % |
 | MA | Mastercard | +14,1 pts | · | · | −8 % |
@@ -494,23 +494,23 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 | BX | Blackstone Inc. | +4,2 pts | · | · | −32 % |
 | UNM | Unum | +4,1 pts | · | · | −9 % |
 | AFG | American Financial Group | +4,0 pts | · | · | −7 % |
+| BEN | Franklin Templeton Investments | +3,5 pts | · | · | −9 % |
 | RITM | Rithm Capital | +3,1 pts | · | · | −22 % |
 | NTRS | Northern Trust | +2,9 pts | · | · | −11 % |
 | KNSL | Kinsale Capital Group | +2,9 pts | · | · | −32 % |
 | IBKR | Interactive Brokers | +2,6 pts | · | · | −13 % |
 | MSCI | MSCI | +2,5 pts | · | · | −16 % |
-| BEN | Franklin Templeton Investments | +2,5 pts | · | · | −10 % |
 | EWBC | East West Bancorp | +2,3 pts | · | · | −9 % |
 | NU | Nubank | +2,1 pts | · | · | −33 % |
 | WFC | Wells Fargo | +2,1 pts | · | · | −16 % |
 | WTM | White Mountains Insurance Group | +1,6 pts | · | · | −13 % |
+| USB | U.S. Bancorp | +1,6 pts | · | · | −11 % |
 | COF | Capital One | +1,5 pts | · | · | −24 % |
 | HLI | Houlihan Lokey | +1,2 pts | · | · | −37 % |
 | BRO | Brown & Brown | +1,1 pts | · | · | −36 % |
 | PRI | Primerica | +0,9 pts | · | · | −16 % |
 | WRB | W. R. Berkley Corporation | +0,9 pts | · | · | −12 % |
 | VIRT | Virtu Financial | +0,9 pts | · | · | −19 % |
-| USB | U.S. Bancorp | +0,7 pts | · | · | −12 % |
 | CB | Chubb Limited | +0,7 pts | · | · | −10 % |
 | RLI | RLI Corp. | +0,6 pts | · | · | −17 % |
 | RYAN | Ryan Specialty | +0,5 pts | · | · | −36 % |
@@ -546,33 +546,33 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 | FHN | First Horizon Corporation | −3,7 pts | · | · | −12 % |
 | ORI | Old Republic International | −3,7 pts | · | · | −16 % |
 | COLB | Columbia Banking System | −3,8 pts | · | · | −14 % |
+| FITB | Fifth Third Bancorp | −3,9 pts | · | · | −14 % |
 | FNB | FNB Corporation | −3,9 pts | · | · | −11 % |
 | OMF | OneMain Financial | −4,0 pts | · | · | −18 % |
 | OZK | Bank OZK | −4,5 pts | · | · | −13 % |
-| FITB | Fifth Third Bancorp | −4,6 pts | · | · | −15 % |
 | RF | Regions Financial Corporation | −4,6 pts | · | · | −16 % |
 | AXP | American Express | −4,9 pts | · | · | −20 % |
 | MS | Morgan Stanley | −5,0 pts | · | · | −17 % |
 | FAF | First American Financial Corpora | −5,2 pts | · | · | −23 % |
 | WTFC | Wintrust Financial | −5,6 pts | · | · | −15 % |
 | GS | Goldman Sachs | −5,6 pts | · | · | −21 % |
+| NLY | Annaly Capital Management | −6,8 pts | · | · | −17 % |
 | MKL | Markel | −6,8 pts | · | · | −22 % |
 | KEY | Keycorp | −6,8 pts | · | · | −16 % |
+| AXS | AXIS Capital | −7,0 pts | · | · | −21 % |
 | SLM | Sallie Mae | −7,2 pts | · | · | −25 % |
-| AXS | AXIS Capital | −7,4 pts | · | · | −21 % |
 | EEFT | Euronet Worldwide | −7,4 pts | · | · | −29 % |
 | HBAN | Huntington Bancshares | −7,9 pts | · | · | −18 % |
 | SOFI | SoFi | −7,9 pts | · | · | −51 % |
+| AGNC | AGNC Investment | −8,0 pts | · | · | −18 % |
 | CINF | Cincinnati Financial | −8,2 pts | · | · | −17 % |
 | FIS | Fidelity National Information Se | −8,3 pts | · | · | −50 % |
-| AGNC | AGNC Investment | −9,1 pts | · | · | −19 % |
 | FHB | First Hawaiian, Inc. | −9,4 pts | · | · | −18 % |
 | AGO | Assured Guaranty | −9,5 pts | · | · | −25 % |
+| STWD | Starwood Property Trust | −9,6 pts | · | · | −22 % |
 | AON | Aon plc | −9,6 pts | · | · | −27 % |
-| NLY | Annaly Capital Management | −10,0 pts | · | · | −20 % |
 | CACC | Credit Acceptance | −11,1 pts | · | · | −19 % |
 | FNF | Fidelity National Financial | −12,1 pts | · | · | −31 % |
-| STWD | Starwood Property Trust | −12,4 pts | · | · | −25 % |
 | ALLY | Ally Financial | −14,2 pts | · | · | −20 % |
 | GLXY | Galaxy Digital | −14,6 pts | · | · | −47 % |
 | BHF | Brighthouse Financial | −15,8 pts | · | · | −25 % |
@@ -604,7 +604,7 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 | AVY | Avery Dennison | +10,8 pts | · | · | −12 % |
 | APD | Air Products | +8,8 pts | · | · | −11 % |
 | RS | Reliance, Inc. | +8,7 pts | · | · | −10 % |
-| NUE | Nucor | +8,2 pts | · | · | −15 % |
+| NUE | Nucor | +8,4 pts | · | · | −15 % |
 | DOW | Dow Inc. | +5,4 pts | · | · | −33 % |
 | AMCR | Amcor | +4,6 pts | · | · | −14 % |
 | ECL | Ecolab | +4,5 pts | · | · | −10 % |
@@ -617,7 +617,7 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 | DD | DuPont | +1,8 pts | · | · | −15 % |
 | JHX | James Hardie Industries | +1,5 pts | · | · | −19 % |
 | CCK | Crown Holdings | +0,8 pts | · | · | −13 % |
-| STLD | Steel Dynamics | +0,5 pts | · | · | −21 % |
+| STLD | Steel Dynamics | +0,7 pts | · | · | −21 % |
 | AXTA | Axalta | +0,2 pts | · | · | −16 % |
 | SHW | Sherwin-Williams | −0,2 pts | · | · | −13 % |
 | CTVA | Corteva | −1,0 pts | · | · | −14 % |
@@ -668,8 +668,8 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 | BG | Bunge Global | +4,3 pts | · | · | −18 % |
 | PG | Procter & Gamble | +4,3 pts | · | · | −12 % |
 | COKE | Coca-Cola Consolidated | +4,2 pts | · | · | −13 % |
+| MDLZ | Mondelez International | +3,5 pts | · | · | −10 % |
 | CAG | Conagra Brands | +2,9 pts | · | · | −30 % |
-| MDLZ | Mondelez International | +2,6 pts | · | · | −11 % |
 | CHD | Church & Dwight | +2,2 pts | · | · | −10 % |
 | COST | Costco | +2,0 pts | · | · | −17 % |
 | KHC | Kraft Heinz | +1,1 pts | · | · | −16 % |
@@ -717,7 +717,7 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 
 | Ticker | Société | Perf. 13 sem. vs marché | > MM50 | MM50 > MM200 | Vs plus haut 52 s. |
 |---|---|---:|:---:|:---:|---:|
-| DDS | Dillard's | +30,4 pts | ✓ | ✓ | −4 % |
+| DDS | Dillard's | +30,5 pts | ✓ | ✓ | −4 % |
 | FIVE | Five Below | +28,9 pts | · | · | −16 % |
 | GRMN | Garmin | +28,8 pts | ✓ | ✓ | −8 % |
 | GAP | Gap Inc. | +28,7 pts | ✓ | · | −20 % |
@@ -840,53 +840,53 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 
 | Ticker | Société | Perf. 13 sem. vs marché | > MM50 | MM50 > MM200 | Vs plus haut 52 s. |
 |---|---|---:|:---:|:---:|---:|
-| REXR | Rexford Industrial | +13,1 pts | · | · | −15 % |
+| REXR | Rexford Industrial | +14,3 pts | · | · | −14 % |
 | JAN | Janus Living | +9,0 pts | · | · | — % |
 | HHH | Howard Hughes Holdings | +7,7 pts | ✓ | · | −18 % |
 | WELL | Welltower | +7,2 pts | · | · | −8 % |
-| AHR | American Healthcare REIT | +4,7 pts | · | · | −11 % |
+| AHR | American Healthcare REIT | +5,2 pts | · | · | −11 % |
+| AMT | American Tower | +3,8 pts | · | · | −14 % |
 | JLL | Jones Lang LaSalle | +3,3 pts | · | · | −22 % |
 | OHI | Omega Healthcare Investors | +3,2 pts | · | · | −9 % |
-| AMT | American Tower | +2,7 pts | · | · | −15 % |
-| EPR | EPR Properties | +2,2 pts | · | · | −12 % |
-| EGP | EastGroup Properties | +1,8 pts | · | · | −12 % |
-| VTR | Ventas, Inc. | +1,4 pts | · | · | −15 % |
-| FR | First Industrial Realty Trust | +0,4 pts | · | · | −14 % |
+| EPR | EPR Properties | +2,8 pts | · | · | −11 % |
+| EGP | EastGroup Properties | +2,6 pts | · | · | −11 % |
+| VTR | Ventas, Inc. | +2,0 pts | · | · | −15 % |
+| FR | First Industrial Realty Trust | +1,2 pts | · | · | −13 % |
 | CBRE | CBRE Group | +0,1 pts | · | · | −25 % |
 | PLD | Prologis | −0,1 pts | · | · | −13 % |
+| HST | Host Hotels & Resorts | −0,2 pts | · | · | −12 % |
 | EQIX | Equinix | −0,7 pts | · | · | −9 % |
 | CUBE | CubeSmart | −0,8 pts | · | · | −12 % |
 | CSGP | CoStar Group | −0,9 pts | · | · | −68 % |
-| HST | Host Hotels & Resorts | −1,0 pts | · | · | −12 % |
+| STAG | STAG Industrial | −1,0 pts | · | · | −14 % |
 | LAMR | Lamar Advertising | −1,1 pts | · | · | −11 % |
+| SUI | Sun Communities | −1,2 pts | · | · | −17 % |
+| BXP | BXP, Inc. | −1,2 pts | · | · | −16 % |
 | DLR | Digital Realty | −1,6 pts | · | · | −13 % |
+| ESS | Essex Property Trust | −1,6 pts | · | · | −9 % |
 | DOC | Healthpeak Properties | −1,7 pts | · | · | −12 % |
 | CUZ | Cousins Properties | −1,7 pts | · | · | −14 % |
-| STAG | STAG Industrial | −2,0 pts | · | · | −15 % |
-| SUI | Sun Communities | −2,1 pts | · | · | −18 % |
-| BXP | BXP, Inc. | −2,3 pts | · | · | −17 % |
-| ESS | Essex Property Trust | −2,5 pts | · | · | −10 % |
 | ELS | Equity Lifestyle Properties | −3,3 pts | · | · | −13 % |
+| WPC | W. P. Carey | −4,0 pts | · | · | −14 % |
 | AMH | American Homes 4 Rent | −4,0 pts | · | · | −12 % |
 | SBAC | SBA Communications | −4,5 pts | · | · | −28 % |
 | EXR | Extra Space Storage | −4,6 pts | · | · | −13 % |
+| COLD | Americold | −4,9 pts | · | · | −13 % |
 | REG | Regency Centers | −5,0 pts | · | · | −12 % |
+| KRC | Kilroy Realty | −5,0 pts | · | · | −18 % |
 | SPG | Simon Property Group | −5,2 pts | · | · | −14 % |
-| WPC | W. P. Carey | −5,3 pts | · | · | −16 % |
 | VMRK | Vivmark Residential | −5,4 pts | · | · | −13 % |
 | ZG | Zillow(Class A) | −6,1 pts | · | · | −63 % |
+| ADC | Agree Realty | −6,2 pts | · | · | −17 % |
 | PSA | Public Storage | −6,3 pts | · | · | −14 % |
-| COLD | Americold | −6,3 pts | · | · | −14 % |
 | NNN | NNN Reit | −6,4 pts | · | · | −16 % |
-| KRC | Kilroy Realty | −6,5 pts | · | · | −20 % |
-| ADC | Agree Realty | −6,6 pts | · | · | −17 % |
-| O | Realty Income | −7,1 pts | · | · | −18 % |
+| ARE | Alexandria Real Estate Equities | −6,5 pts | · | · | −40 % |
+| O | Realty Income | −6,6 pts | · | · | −17 % |
 | FRT | Federal Realty Investment Trust | −7,2 pts | · | · | −15 % |
 | INVH | Invitation Homes | −7,3 pts | · | · | −13 % |
 | HR | Healthcare Realty Trust | −7,3 pts | · | · | −18 % |
 | KIM | Kimco Realty | −7,3 pts | · | · | −15 % |
 | BRX | Brixmor Property Group | −7,8 pts | · | · | −16 % |
-| ARE | Alexandria Real Estate Equities | −7,8 pts | · | · | −41 % |
 | Z | Zillow(Class C) | −7,9 pts | · | · | −65 % |
 | VICI | Vici Properties | −8,2 pts | · | · | −25 % |
 | IRM | Iron Mountain | −8,3 pts | · | · | −16 % |
@@ -895,11 +895,11 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 | VNO | Vornado Realty Trust | −8,6 pts | · | · | −17 % |
 | MAA | Mid-America Apartment Communitie | −9,7 pts | · | · | −16 % |
 | UDR | UDR, Inc. | −9,8 pts | · | · | −18 % |
+| CPT | Camden Property Trust | −9,8 pts | · | · | −17 % |
 | GLPI | Gaming and Leisure Properties | −9,9 pts | · | · | −20 % |
-| CPT | Camden Property Trust | −10,7 pts | · | · | −18 % |
 | WY | Weyerhaeuser | −16,2 pts | · | · | −28 % |
+| LINE | Lineage, Inc. | −16,6 pts | · | · | −22 % |
 | MPT | Medical Properties Trust | −17,7 pts | · | · | −39 % |
-| LINE | Lineage, Inc. | −17,8 pts | · | · | −23 % |
 | FRMI | Fermi Inc. | −49,8 pts | · | · | −87 % |
 
 </details>
@@ -928,9 +928,9 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 | J | Jacobs Solutions | +15,2 pts | · | · | −17 % |
 | EMR | Emerson Electric | +14,6 pts | ✓ | ✓ | −5 % |
 | NDSN | Nordson | +14,5 pts | ✓ | ✓ | −2 % |
-| DE | Deere & Company | +13,1 pts | ✓ | ✓ | −5 % |
+| DE | Deere & Company | +13,4 pts | ✓ | ✓ | −5 % |
 | WAB | Wabtec | +12,8 pts | · | · | −6 % |
-| VLTO | Veralto | +12,6 pts | · | · | −12 % |
+| VLTO | Veralto | +12,8 pts | · | · | −11 % |
 | MSM | MSC Industrial Direct | +12,5 pts | ✓ | ✓ | −3 % |
 | ITT | ITT Inc. | +11,9 pts | · | · | −9 % |
 | JCI | Johnson Controls | +11,8 pts | ✓ | ✓ | −4 % |
@@ -949,8 +949,8 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 | AWI | Armstrong World Industries | +7,4 pts | · | · | −20 % |
 | MMM | 3M | +7,2 pts | · | · | −10 % |
 | IEX | IDEX Corporation | +6,9 pts | · | · | −5 % |
+| LECO | Lincoln Electric | +6,4 pts | · | · | −11 % |
 | BE | Bloom Energy | +6,4 pts | ✓ | ✓ | −20 % |
-| LECO | Lincoln Electric | +6,1 pts | · | · | −11 % |
 | UNP | Union Pacific Corporation | +5,9 pts | · | · | −12 % |
 | FLS | Flowserve | +5,8 pts | · | · | −20 % |
 | PAYX | Paychex | +5,4 pts | · | · | −23 % |
@@ -967,9 +967,9 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 | RSG | Republic Services | +3,7 pts | · | · | −9 % |
 | NSC | Norfolk Southern | +3,6 pts | · | · | −12 % |
 | NOC | Northrop Grumman | +3,6 pts | · | · | −36 % |
+| ITW | Illinois Tool Works | +3,1 pts | · | · | −13 % |
 | CSX | CSX Corporation | +2,8 pts | · | · | −12 % |
 | CPRT | Copart | +2,7 pts | · | · | −40 % |
-| ITW | Illinois Tool Works | +2,4 pts | · | · | −13 % |
 | HII | Huntington Ingalls Industries | +2,4 pts | · | · | −41 % |
 | AGCO | AGCO | +1,7 pts | ✓ | · | −18 % |
 | ATI | ATI Inc. | +1,5 pts | · | · | −18 % |
@@ -1079,7 +1079,7 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 | ROL | Rollins, Inc. | −22,7 pts | · | · | −54 % |
 | SPXC | SPX Technologies | −23,2 pts | · | · | −31 % |
 | RKLB | Rocket Lab | −23,2 pts | ✓ | · | −54 % |
-| RRX | Regal Rexnord | −23,7 pts | · | · | −35 % |
+| RRX | Regal Rexnord | −23,5 pts | · | · | −35 % |
 | NXT | Nextpower | −23,9 pts | · | · | −50 % |
 | HONA | Honeywell Aerospace | −24,0 pts | · | · | — % |
 | PNR | Pentair | −24,6 pts | · | · | −52 % |
@@ -1094,7 +1094,7 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 | QXO | QXO, Inc. | −28,7 pts | · | · | −57 % |
 | FTAI | FTAI Aviation | −30,8 pts | · | · | −46 % |
 | BLDR | Builders FirstSource | −31,3 pts | · | · | −56 % |
-| LII | Lennox International | −31,8 pts | · | · | −38 % |
+| LII | Lennox International | −31,5 pts | · | · | −38 % |
 | STRL | Sterling Infrastructure | −33,9 pts | · | · | −51 % |
 | WSC | WillScot Mobile Mini | −34,4 pts | · | · | −41 % |
 | DY | Dycom Industries | −41,2 pts | · | · | −50 % |
@@ -1113,7 +1113,7 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 | WTRG | Essential Utilities | +8,6 pts | · | · | −7 % |
 | AWK | American Water Works | +4,0 pts | · | · | −9 % |
 | CEG | Constellation Energy | +3,8 pts | · | · | −37 % |
-| NFG | National Fuel Gas | +2,9 pts | · | · | −20 % |
+| NFG | National Fuel Gas | +3,6 pts | · | · | −20 % |
 | OGE | OGE Energy | −1,3 pts | · | · | −9 % |
 | ED | Consolidated Edison | −2,6 pts | · | · | −10 % |
 | FE | FirstEnergy | −3,3 pts | · | · | −15 % |
@@ -1146,7 +1146,7 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 | TLN | Talen Energy | −16,0 pts | · | · | −30 % |
 | BEPC | Brookfield Renewable Partners | −17,6 pts | · | · | −34 % |
 | EIX | Edison International | −22,3 pts | · | · | −33 % |
-| PCG | PG&E Corporation | −23,1 pts | · | · | −36 % |
+| PCG | PG&E Corporation | −22,8 pts | · | · | −35 % |
 | OKLO | Oklo Inc. | −24,2 pts | · | · | −79 % |
 | NRG | NRG Energy | −30,0 pts | · | · | −48 % |
 
@@ -1160,4 +1160,4 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 - **Un secteur en rotation n'est pas un achat.** C'est un endroit où chercher : croiser avec les screeners et setups du marché.
 
 ---
-*Dernière séance : 30/09/2026. Généré le 30/09/2026 23:40 UTC. Travail d'analyse quantitative, sans valeur de conseil en investissement.*
+*Dernière séance : 30/09/2026. Généré le 01/10/2026 08:11 UTC. Travail d'analyse quantitative, sans valeur de conseil en investissement.*
