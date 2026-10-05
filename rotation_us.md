@@ -16,7 +16,7 @@ Largeur du marché : **26 %** des titres au-dessus de leur MM50.
 | 2 | 9 ▲ | Énergie | +14,1 % | 29 % | −26 pts | 0 % | LEADER |
 | 3 | 1 ▼ | Santé | +6,8 % | 40 % | −38 pts | 13 % | LEADER |
 | 4 | 3 ▼ | Finance | −1,1 % | 8 % | −76 pts | 0 % |  |
-| 5 | 10 ▲ | Communication | −1,6 % | 20 % | −46 pts | 4 % |  |
+| 5 | 10 ▲ | Communication | −1,7 % | 20 % | −46 pts | 4 % |  |
 | 6 | 5 ▼ | Conso. de base | −4,0 % | 9 % | −59 pts | 0 % |  |
 | 7 | 8 ▲ | Matériaux | −4,1 % | 11 % | −53 pts | 0 % |  |
 | 8 | 6 ▼ | Industrie | −6,6 % | 26 % | −37 pts | 2 % |  |
@@ -156,11 +156,11 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 | OLED | Universal Display Corporation | +2,2 pts | · | · | −46 % |
 | DOCN | DigitalOcean | +1,7 pts | ✓ | ✓ | −23 % |
 | CDW | CDW | +1,6 pts | · | · | −15 % |
+| CSCO | Cisco | +1,5 pts | ✓ | ✓ | −13 % |
 | AKAM | Akamai Technologies | +1,4 pts | · | · | −32 % |
 | IREN | IREN | +1,2 pts | ✓ | · | −45 % |
 | KD | Kyndryl | +1,2 pts | · | · | −62 % |
 | AVGO | Broadcom | +1,2 pts | · | · | −26 % |
-| CSCO | Cisco | +1,1 pts | ✓ | ✓ | −13 % |
 | KVYO | Klaviyo | +0,9 pts | · | · | −53 % |
 | INTC | Intel | −1,2 pts | ✓ | ✓ | −15 % |
 | ONTO | Onto Innovation | −1,9 pts | ✓ | ✓ | −13 % |
@@ -292,12 +292,12 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 | WAT | Waters Corporation | +17,3 pts | ✓ | ✓ | −4 % |
 | AMGN | Amgen | +17,0 pts | · | · | −9 % |
 | SOLV | Solventum | +17,0 pts | · | · | −5 % |
+| BMY | Bristol Myers Squibb | +15,5 pts | · | · | −9 % |
 | DHR | Danaher Corporation | +15,5 pts | ✓ | ✓ | −11 % |
 | MEDP | Medpace | +15,1 pts | · | · | −5 % |
 | RVMD | Revolution Medicines | +15,0 pts | ✓ | ✓ | −7 % |
 | MDT | Medtronic | +14,8 pts | · | · | −15 % |
 | VTRS | Viatris | +14,4 pts | ✓ | ✓ | −4 % |
-| BMY | Bristol Myers Squibb | +14,4 pts | · | · | −10 % |
 | RMD | Resmed | +14,0 pts | · | · | −22 % |
 | LH | Labcorp | +13,7 pts | · | · | −9 % |
 | HCA | HCA Healthcare | +13,5 pts | ✓ | · | −21 % |
@@ -385,8 +385,8 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 | IVZ | Invesco | +19,9 pts | · | · | −8 % |
 | COIN | Coinbase | +19,8 pts | ✓ | · | −53 % |
 | CME | CME Group | +19,3 pts | · | · | −17 % |
+| MORN | Morningstar, Inc. | +18,8 pts | · | · | −19 % |
 | SEIC | SEI Investments Company | +18,6 pts | · | · | −8 % |
-| MORN | Morningstar, Inc. | +18,5 pts | · | · | −19 % |
 | LNC | Lincoln Financial | +17,4 pts | · | · | −14 % |
 | TPG | TPG Inc. | +16,3 pts | · | · | −33 % |
 | HLNE | Hamilton Lane | +16,3 pts | · | · | −42 % |
@@ -493,8 +493,8 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 | ZION | Zions Bancorporation | −5,2 pts | · | · | −13 % |
 | FAF | First American Financial Corpora | −5,6 pts | · | · | −20 % |
 | WTFC | Wintrust Financial | −5,8 pts | · | · | −13 % |
-| FITB | Fifth Third Bancorp | −5,9 pts | · | · | −14 % |
 | OZK | Bank OZK | −5,9 pts | · | · | −12 % |
+| FITB | Fifth Third Bancorp | −5,9 pts | · | · | −14 % |
 | GLXY | Galaxy Digital | −6,0 pts | ✓ | · | −46 % |
 | BRO | Brown & Brown | −6,0 pts | · | · | −37 % |
 | SLM | Sallie Mae | −6,1 pts | · | · | −25 % |
@@ -594,10 +594,10 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 | DAR | Darling Ingredients | +16,1 pts | · | · | −8 % |
 | BJ | BJ's Wholesale Club | +14,5 pts | ✓ | ✓ | −8 % |
 | FRPT | Freshpet | +12,4 pts | · | · | −30 % |
+| PM | Philip Morris International | +11,2 pts | · | · | −6 % |
 | KO | Coca-Cola Company (The) | +10,8 pts | · | · | −6 % |
 | KR | Kroger | +10,5 pts | ✓ | · | −21 % |
 | ADM | Archer Daniels Midland | +10,5 pts | · | · | −9 % |
-| PM | Philip Morris International | +10,3 pts | · | · | −6 % |
 | DG | Dollar General | +8,6 pts | · | · | −23 % |
 | SJM | J.M. Smucker Company (The) | +7,8 pts | · | · | −11 % |
 | BG | Bunge Global | +7,2 pts | · | · | −18 % |
@@ -617,7 +617,7 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 | TAP | Molson Coors | +0,4 pts | · | · | −30 % |
 | USFD | US Foods | −0,0 pts | · | · | −13 % |
 | CAG | Conagra Brands | −0,7 pts | · | · | −31 % |
-| SYY | Sysco | −1,8 pts | · | · | −14 % |
+| SYY | Sysco | −1,1 pts | · | · | −13 % |
 | SEB | Seaboard Corporation | −2,4 pts | · | · | −32 % |
 | DLTR | Dollar Tree | −2,6 pts | · | · | −21 % |
 | KDP | Keurig Dr Pepper | −3,5 pts | · | · | −9 % |
@@ -657,7 +657,7 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 | SCCO | Southern Copper | +28,7 pts | ✓ | ✓ | −6 % |
 | CLF | Cleveland-Cliffs | +25,0 pts | · | · | −30 % |
 | FCX | Freeport-McMoRan | +24,1 pts | ✓ | ✓ | −10 % |
-| RGLD | Royal Gold | +23,2 pts | · | · | −23 % |
+| RGLD | Royal Gold | +23,4 pts | · | · | −22 % |
 | AU | AngloGold Ashanti | +22,9 pts | · | · | −23 % |
 | NEU | NewMarket | +22,9 pts | ✓ | ✓ | −4 % |
 | LYB | LyondellBasell | +17,4 pts | · | · | −27 % |
@@ -755,7 +755,7 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 | VLTO | Veralto | +9,8 pts | · | · | −11 % |
 | GGG | Graco Inc. | +9,5 pts | · | · | −17 % |
 | LYFT | Lyft | +9,1 pts | · | · | −37 % |
-| IEX | IDEX Corporation | +8,7 pts | ✓ | ✓ | −3 % |
+| IEX | IDEX Corporation | +9,1 pts | ✓ | ✓ | −3 % |
 | AIT | Applied Industrial Technologies | +8,4 pts | ✓ | ✓ | −5 % |
 | AWI | Armstrong World Industries | +8,2 pts | · | · | −19 % |
 | FLS | Flowserve | +7,9 pts | · | · | −18 % |
@@ -767,7 +767,7 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 | UNP | Union Pacific Corporation | +5,5 pts | · | · | −10 % |
 | ALSN | Allison Transmission | +5,5 pts | · | · | −13 % |
 | DCI | Donaldson Company | +5,3 pts | · | · | −19 % |
-| ROP | Roper Technologies | +5,0 pts | · | · | −31 % |
+| ROP | Roper Technologies | +5,2 pts | · | · | −31 % |
 | ATI | ATI Inc. | +5,0 pts | · | · | −17 % |
 | NSC | Norfolk Southern | +4,7 pts | · | · | −10 % |
 | BE | Bloom Energy | +4,7 pts | ✓ | ✓ | −16 % |
@@ -775,7 +775,7 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 | AGCO | AGCO | +3,5 pts | ✓ | · | −18 % |
 | CSX | CSX Corporation | +3,2 pts | · | · | −11 % |
 | ITW | Illinois Tool Works | +3,2 pts | · | · | −11 % |
-| RSG | Republic Services | +2,7 pts | · | · | −9 % |
+| RSG | Republic Services | +3,0 pts | · | · | −9 % |
 | PWR | Quanta Services | +2,7 pts | ✓ | ✓ | −14 % |
 | EME | Emcor | +2,7 pts | ✓ | · | −17 % |
 | FERG | Ferguson Enterprises | +2,6 pts | · | · | −16 % |
@@ -876,7 +876,7 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 | PSN | Parsons Corporation | −18,4 pts | · | · | −54 % |
 | CAR | Avis Budget Group | −19,5 pts | · | · | −84 % |
 | MIDD | Middleby | −19,5 pts | · | · | −27 % |
-| ESAB | ESAB | −20,5 pts | · | · | −48 % |
+| ESAB | ESAB | −20,3 pts | · | · | −48 % |
 | SPXC | SPX Technologies | −20,5 pts | · | · | −30 % |
 | POWL | Powell Industries | −21,1 pts | ✓ | · | −39 % |
 | RKLB | Rocket Lab | −21,3 pts | ✓ | · | −51 % |
@@ -1074,12 +1074,12 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 | ELS | Equity Lifestyle Properties | −4,7 pts | · | · | −13 % |
 | BXP | BXP, Inc. | −4,9 pts | · | · | −16 % |
 | KIM | Kimco Realty | −5,4 pts | · | · | −15 % |
+| BRX | Brixmor Property Group | −5,6 pts | · | · | −15 % |
 | FRT | Federal Realty Investment Trust | −5,6 pts | · | · | −15 % |
 | NNN | NNN Reit | −6,1 pts | · | · | −16 % |
 | PSA | Public Storage | −6,4 pts | · | · | −13 % |
 | O | Realty Income | −6,4 pts | · | · | −17 % |
 | COLD | Americold | −6,6 pts | · | · | −13 % |
-| BRX | Brixmor Property Group | −6,6 pts | · | · | −16 % |
 | SBAC | SBA Communications | −6,9 pts | · | · | −28 % |
 | CCI | Crown Castle | −7,1 pts | · | · | −29 % |
 | GLPI | Gaming and Leisure Properties | −7,2 pts | · | · | −20 % |
@@ -1160,4 +1160,4 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 - **Un secteur en rotation n'est pas un achat.** C'est un endroit où chercher : croiser avec les screeners et setups du marché.
 
 ---
-*Dernière séance : 02/10/2026. Généré le 02/10/2026 23:43 UTC. Travail d'analyse quantitative, sans valeur de conseil en investissement.*
+*Dernière séance : 02/10/2026. Généré le 05/10/2026 08:07 UTC. Travail d'analyse quantitative, sans valeur de conseil en investissement.*
