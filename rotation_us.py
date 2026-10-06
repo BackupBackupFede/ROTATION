@@ -261,11 +261,16 @@ def _fmt(x, nd=0, sign=False):
 
 
 TOP_STOCKS = 15   # titres listés d'office pour un secteur en signal
+MONTH_DAYS = 21   # 1 mois de séances, pour le rang de court terme
+RANK_MOVE  = 0.2  # écart 3 m → 1 m (part de l'effectif du secteur, min. 2 places) pour ▲ / ▼
 
 def stock_table(close, sectors, names):
-    """Une ligne par titre : force relative 13 sem., tendance, distance au plus haut."""
-    n13 = MOM_WEEKS * 5
-    perf = close.iloc[-1] / close.iloc[-1 - n13] - 1 if len(close) > n13 else close.iloc[-1] * np.nan
+    """Une ligne par titre : force relative 13 sem., rang dans le secteur sur 3 mois
+    et sur 1 mois, tendance, distance au plus haut."""
+    def _perf(n):
+        return close.iloc[-1] / close.iloc[-1 - n] - 1 if len(close) > n else close.iloc[-1] * np.nan
+    perf = _perf(MOM_WEEKS * 5)
+    perf1m = _perf(MONTH_DAYS)
     rel = (perf - perf.median()) * 100
     ma50 = close.rolling(50, min_periods=50).mean().iloc[-1]
     ma200 = close.rolling(200, min_periods=150).mean().iloc[-1]
@@ -275,19 +280,29 @@ def stock_table(close, sectors, names):
         "sector": sectors,
         "name": names.reindex(sectors.index),
         "rel13": rel.reindex(sectors.index),
+        "perf1m": perf1m.reindex(sectors.index),
         "above50": (last > ma50).reindex(sectors.index),
         "trend": ((last > ma50) & (ma50 > ma200)).reindex(sectors.index),
         "from_high": ((last / hi252 - 1) * 100).reindex(sectors.index),
     })
     t.index.name = "ticker"
+    # Rang dans le secteur (1 = le plus fort) : un titre dont le rang 1 mois est bien
+    # meilleur que son rang 3 mois accélère ; l'inverse, il s'essouffle.
+    by_sec = t.groupby("sector")
+    t["rank3m"] = by_sec["rel13"].rank(ascending=False, method="min")
+    t["rank1m"] = by_sec["perf1m"].rank(ascending=False, method="min")
+    t["move_min"] = (by_sec["rel13"].transform("count") * RANK_MOVE).round().clip(lower=2)
     return t.sort_values("rel13", ascending=False)
 
 
 def _stock_rows(df):
-    rows = ["| Ticker | Société | Perf. 13 sem. vs marché | > MM50 | MM50 > MM200 | Vs plus haut 52 s. |",
-            "|---|---|---:|:---:|:---:|---:|"]
+    rows = ["| Ticker | Société | Perf. 13 sem. vs marché | Rang secteur 3 m → 1 m | > MM50 | MM50 > MM200 | Vs plus haut 52 s. |",
+            "|---|---|---:|:---:|:---:|:---:|---:|"]
     for tk, r in df.iterrows():
+        moved = r.rank3m - r.rank1m   # > 0 : places gagnées sur le dernier mois
+        arrow = "" if pd.isna(moved) or abs(moved) < r.move_min else (" ▲" if moved > 0 else " ▼")
         rows.append(f"| {tk} | {str(r['name'])[:32]} | {_fmt(r.rel13, 1, True)} pts "
+                    f"| {_fmt(r.rank3m)} → {_fmt(r.rank1m)}{arrow} "
                     f"| {'✓' if r.above50 else '·'} | {'✓' if r.trend else '·'} | {_fmt(r.from_high, 0, True)} % |")
     return rows
 
@@ -362,7 +377,9 @@ def build_report(h, last_date, stocks):
 
     # --- Toutes les actions, secteur par secteur (repliées) ---
     L += ["", "## Toutes les actions par secteur", "",
-          "_Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la médiane du marché._", ""]
+          "_Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la médiane du marché._", "",
+          "_Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, puis sur le dernier mois "
+          "(21 séances). ▲ il accélère, ▼ il ralentit (écart d'au moins 20 % de l'effectif du secteur)._", ""]
     for _, r in cur.iterrows():
         st = stocks[stocks["sector"] == r.sector]
         L += ["<details>",
