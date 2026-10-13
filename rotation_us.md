@@ -1188,4 +1188,4 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 - **Un secteur en rotation n'est pas un achat.** C'est un endroit où chercher : croiser avec les screeners et setups du marché.
 
 ---
-*Dernière séance : 12/10/2026. Généré le 13/10/2026 01:59 UTC. Travail d'analyse quantitative, sans valeur de conseil en investissement.*
+*Dernière séance : 12/10/2026. Généré le 13/10/2026 07:55 UTC. Travail d'analyse quantitative, sans valeur de conseil en investissement.*
