@@ -12,7 +12,7 @@ Largeur du marché : **31 %** des titres au-dessus de leur MM50.
 
 | Rang | Il y a 8 sem. | Secteur | RS 13 sem. | % > MM50 | Δ 8 sem. | % plus haut 52 s. | Statut |
 |---:|---:|---|---:|---:|---:|---:|---|
-| 1 | 6 ▲ | Technologie | +12,5 % | 41 % | −11 pts | 6 % | LEADER |
+| 1 | 6 ▲ | Technologie | +12,6 % | 41 % | −11 pts | 6 % | LEADER |
 | 2 | 7 ▲ | Énergie | +12,5 % | 60 % | −29 pts | 26 % | LEADER |
 | 3 | 1 ▼ | Santé | +10,1 % | 53 % | −25 pts | 12 % | LEADER |
 | 4 | 4 | Conso. de base | +0,9 % | 46 % | −29 pts | 5 % |  |
@@ -57,14 +57,14 @@ _155 titres dans le secteur ; les 15 plus faibles — à surveiller si tu en dé
 | GLXY | Galaxy Digital | −21,4 pts | 151 → 151 | · | · | −58 % |
 | EVR | Evercore | −20,9 pts | 150 → 77 ▲ | · | · | −33 % |
 | SOFI | SoFi | −18,8 pts | 149 → 150 | · | · | −56 % |
-| AON | Aon plc | −18,6 pts | 148 → 115 ▲ | · | · | −28 % |
+| AON | Aon plc | −18,6 pts | 148 → 116 ▲ | · | · | −28 % |
 | STWD | Starwood Property Trust | −18,3 pts | 147 → 148 | · | · | −28 % |
-| GS | Goldman Sachs | −18,0 pts | 146 → 118 | · | · | −23 % |
+| GS | Goldman Sachs | −18,0 pts | 146 → 119 | · | · | −23 % |
 | CG | Carlyle Group (The) | −16,2 pts | 145 → 140 | · | · | −45 % |
 | FNF | Fidelity National Financial | −15,8 pts | 144 → 104 ▲ | · | · | −30 % |
 | AGNC | AGNC Investment | −15,7 pts | 143 → 138 | · | · | −22 % |
 | MS | Morgan Stanley | −15,3 pts | 142 → 137 | · | · | −20 % |
-| LAZ | Lazard | −14,6 pts | 141 → 123 | · | · | −38 % |
+| LAZ | Lazard | −14,6 pts | 141 → 124 | · | · | −38 % |
 | ALLY | Ally Financial | −13,9 pts | 140 → 133 | · | · | −22 % |
 
 
@@ -642,12 +642,12 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | ACGL | Arch Capital Group | +0,7 pts | 58 → 28 | ✓ | ✓ | −8 % |
 | MTG | MGIC Investment Corporation | +0,7 pts | 59 → 102 ▼ | · | · | −13 % |
 | RLI | RLI Corp. | +0,6 pts | 60 → 78 | · | · | −13 % |
-| SCHW | Charles Schwab Corporation | +0,6 pts | 61 → 120 ▼ | · | · | −15 % |
+| SCHW | Charles Schwab Corporation | +0,6 pts | 61 → 121 ▼ | · | · | −15 % |
 | HIG | Hartford (The) | +0,5 pts | 62 → 48 | · | · | −9 % |
 | AMP | Ameriprise Financial | +0,4 pts | 63 → 132 ▼ | · | · | −13 % |
 | PFG | Principal Financial Group | +0,3 pts | 64 → 113 ▼ | · | · | −9 % |
 | EWBC | East West Bancorp | +0,1 pts | 65 → 52 | · | · | −9 % |
-| WFC | Wells Fargo | −0,1 pts | 66 → 117 ▼ | · | · | −15 % |
+| WFC | Wells Fargo | −0,1 pts | 66 → 118 ▼ | · | · | −15 % |
 | L | Loews Corporation | −0,1 pts | 67 → 33 ▲ | · | · | −9 % |
 | COF | Capital One | −0,5 pts | 68 → 76 | · | · | −24 % |
 | APO | Apollo Global Management | −0,5 pts | 69 → 125 ▼ | · | · | −25 % |
@@ -666,7 +666,7 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | ORI | Old Republic International | −2,0 pts | 82 → 81 | · | · | −13 % |
 | VIRT | Virtu Financial | −2,0 pts | 83 → 58 | · | · | −18 % |
 | SPGI | S&P Global | −2,2 pts | 84 → 38 ▲ | · | · | −20 % |
-| RITM | Rithm Capital | −2,3 pts | 85 → 122 ▼ | · | · | −25 % |
+| RITM | Rithm Capital | −2,3 pts | 85 → 123 ▼ | · | · | −25 % |
 | TFSL | Third Federal S&L | −2,3 pts | 86 → 68 | · | · | −11 % |
 | OWL | Blue Owl Capital | −2,3 pts | 87 → 144 ▼ | · | · | −45 % |
 | CINF | Cincinnati Financial | −2,4 pts | 88 → 43 ▲ | · | · | −13 % |
@@ -678,7 +678,7 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | OMF | OneMain Financial | −2,8 pts | 94 → 129 ▼ | · | · | −19 % |
 | RYAN | Ryan Specialty | −2,9 pts | 95 → 49 ▲ | · | · | −34 % |
 | MKL | Markel | −3,0 pts | 96 → 31 ▲ | ✓ | · | −18 % |
-| C | Citigroup | −3,2 pts | 97 → 121 | · | · | −16 % |
+| C | Citigroup | −3,2 pts | 97 → 122 | · | · | −16 % |
 | MSCI | MSCI | −3,5 pts | 98 → 16 ▲ | ✓ | · | −13 % |
 | HLI | Houlihan Lokey | −3,8 pts | 99 → 85 | · | · | −37 % |
 | USB | U.S. Bancorp | −4,1 pts | 100 → 101 | · | · | −13 % |
@@ -695,7 +695,7 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | SF | Stifel | −6,3 pts | 111 → 134 | · | · | −23 % |
 | HOOD | Robinhood Markets | −6,4 pts | 112 → 99 | · | · | −31 % |
 | FHN | First Horizon Corporation | −6,7 pts | 113 → 92 | · | · | −13 % |
-| TFC | Truist Financial | −6,9 pts | 114 → 116 | · | · | −16 % |
+| TFC | Truist Financial | −6,9 pts | 114 → 117 | · | · | −16 % |
 | FIS | Fidelity National Information Se | −7,0 pts | 115 → 66 ▲ | · | · | −46 % |
 | ZION | Zions Bancorporation | −7,1 pts | 116 → 109 | · | · | −15 % |
 | KKR | KKR & Co. Inc. | −7,2 pts | 117 → 146 | · | · | −40 % |
@@ -707,9 +707,9 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | NTRS | Northern Trust | −7,9 pts | 123 → 106 | · | · | −15 % |
 | SLM | Sallie Mae | −8,2 pts | 124 → 147 | · | · | −27 % |
 | WTFC | Wintrust Financial | −8,3 pts | 125 → 86 ▲ | · | · | −15 % |
-| TROW | T. Rowe Price | −8,6 pts | 126 → 60 ▲ | · | · | −17 % |
-| AXP | American Express | −8,7 pts | 127 → 67 ▲ | · | · | −19 % |
-| PNC | PNC Financial Services | −9,1 pts | 128 → 124 | · | · | −16 % |
+| PNC | PNC Financial Services | −8,3 pts | 126 → 115 | · | · | −15 % |
+| TROW | T. Rowe Price | −8,6 pts | 127 → 60 ▲ | · | · | −17 % |
+| AXP | American Express | −8,7 pts | 128 → 67 ▲ | · | · | −19 % |
 | FHB | First Hawaiian, Inc. | −9,3 pts | 129 → 74 ▲ | · | · | −19 % |
 | CACC | Credit Acceptance | −9,3 pts | 130 → 131 | · | · | −19 % |
 | BX | Blackstone Inc. | −9,3 pts | 131 → 149 | · | · | −33 % |
@@ -719,17 +719,17 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | AGO | Assured Guaranty | −11,6 pts | 135 → 53 ▲ | · | · | −24 % |
 | FIGR | Figure Technology Solutions | −11,8 pts | 136 → 154 | · | · | −66 % |
 | EEFT | Euronet Worldwide | −12,9 pts | 137 → 107 | · | · | −28 % |
-| JEF | Jefferies Financial Group | −13,5 pts | 138 → 119 | · | · | −32 % |
+| JEF | Jefferies Financial Group | −13,5 pts | 138 → 120 | · | · | −32 % |
 | NLY | Annaly Capital Management | −13,5 pts | 139 → 135 | · | · | −21 % |
 | ALLY | Ally Financial | −13,9 pts | 140 → 133 | · | · | −22 % |
-| LAZ | Lazard | −14,6 pts | 141 → 123 | · | · | −38 % |
+| LAZ | Lazard | −14,6 pts | 141 → 124 | · | · | −38 % |
 | MS | Morgan Stanley | −15,3 pts | 142 → 137 | · | · | −20 % |
 | AGNC | AGNC Investment | −15,7 pts | 143 → 138 | · | · | −22 % |
 | FNF | Fidelity National Financial | −15,8 pts | 144 → 104 ▲ | · | · | −30 % |
 | CG | Carlyle Group (The) | −16,2 pts | 145 → 140 | · | · | −45 % |
-| GS | Goldman Sachs | −18,0 pts | 146 → 118 | · | · | −23 % |
+| GS | Goldman Sachs | −18,0 pts | 146 → 119 | · | · | −23 % |
 | STWD | Starwood Property Trust | −18,3 pts | 147 → 148 | · | · | −28 % |
-| AON | Aon plc | −18,6 pts | 148 → 115 ▲ | · | · | −28 % |
+| AON | Aon plc | −18,6 pts | 148 → 116 ▲ | · | · | −28 % |
 | SOFI | SoFi | −18,8 pts | 149 → 150 | · | · | −56 % |
 | EVR | Evercore | −20,9 pts | 150 → 77 ▲ | · | · | −33 % |
 | GLXY | Galaxy Digital | −21,4 pts | 151 → 151 | · | · | −58 % |
@@ -932,7 +932,7 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | CTAS | Cintas | +18,0 pts | 13 → 24 | ✓ | ✓ | −3 % |
 | ALLE | Allegion | +16,7 pts | 14 → 95 ▼ | · | · | −14 % |
 | DE | Deere & Company | +16,1 pts | 15 → 125 ▼ | · | · | −8 % |
-| GFL | GFL Environmental | +15,7 pts | 16 → 51 | ✓ | ✓ | −8 % |
+| GFL | GFL Environmental | +15,7 pts | 16 → 50 | ✓ | ✓ | −7 % |
 | EXPD | Expeditors International | +14,7 pts | 17 → 61 ▼ | ✓ | ✓ | +0 % |
 | J | Jacobs Solutions | +14,7 pts | 18 → 101 ▼ | · | · | −13 % |
 | VLTO | Veralto | +14,2 pts | 19 → 19 | ✓ | ✓ | −3 % |
@@ -968,7 +968,7 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | KBR | KBR, Inc. | +4,2 pts | 49 → 134 ▼ | · | · | −21 % |
 | ITW | Illinois Tool Works | +4,2 pts | 50 → 64 | · | · | −9 % |
 | NSC | Norfolk Southern | +4,0 pts | 51 → 62 | · | · | −8 % |
-| RHI | Robert Half | +4,0 pts | 52 → 154 ▼ | · | · | −23 % |
+| RHI | Robert Half | +4,0 pts | 52 → 155 ▼ | · | · | −23 % |
 | PH | Parker Hannifin | +3,9 pts | 53 → 36 | · | · | −11 % |
 | ATI | ATI Inc. | +3,7 pts | 54 → 72 | · | · | −19 % |
 | IR | Ingersoll Rand | +3,2 pts | 55 → 8 ▲ | · | · | −21 % |
@@ -1006,7 +1006,7 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | WM | Waste Management, Inc. | −3,0 pts | 87 → 82 | · | · | −11 % |
 | ST | Sensata Technologies | −3,1 pts | 88 → 90 | · | · | −23 % |
 | GXO | GXO Logistics | −3,1 pts | 89 → 98 | · | · | −30 % |
-| MFP | Midera Food Processing | −4,1 pts | 90 → 155 ▼ | · | · | — % |
+| MFP | Midera Food Processing | −4,1 pts | 90 → 156 ▼ | · | · | — % |
 | TDG | TransDigm Group | −4,1 pts | 91 → 43 ▲ | · | · | −23 % |
 | GD | General Dynamics | −4,4 pts | 92 → 136 ▼ | · | · | −15 % |
 | AYI | Acuity Brands | −4,8 pts | 93 → 87 | · | · | −21 % |
@@ -1038,10 +1038,10 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | LOAR | Loar Holdings | −9,5 pts | 119 → 115 | · | · | −25 % |
 | VMI | Valmont Industries | −9,7 pts | 120 → 100 | · | · | −20 % |
 | UPS | United Parcel Service | −9,9 pts | 121 → 137 | · | · | −17 % |
-| ACM | AECOM | −10,3 pts | 122 → 157 | · | · | −56 % |
+| ACM | AECOM | −9,9 pts | 122 → 154 | · | · | −56 % |
 | BA | Boeing | −10,4 pts | 123 → 175 ▼ | · | · | −27 % |
 | XYL | Xylem Inc. | −10,6 pts | 124 → 121 | · | · | −32 % |
-| SNDR | Schneider National | −10,7 pts | 125 → 156 | · | · | −19 % |
+| SNDR | Schneider National | −10,7 pts | 125 → 157 | · | · | −19 % |
 | RBC | RBC Bearings | −10,7 pts | 126 → 38 ▲ | · | · | −23 % |
 | SITE | SiteOne Landscape Supply | −11,0 pts | 127 → 46 ▲ | · | · | −45 % |
 | MWH | SOLV Energy | −11,1 pts | 128 → 132 | · | · | — % |
@@ -1058,7 +1058,7 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | ECG | Everus Construction Group | −13,3 pts | 139 → 31 ▲ | · | · | −33 % |
 | ULS | UL Solutions | −13,5 pts | 140 → 5 ▲ | ✓ | · | −32 % |
 | UHAL | U-Haul | −14,1 pts | 141 → 171 | · | · | −26 % |
-| ODFL | Old Dominion Freight Line | −14,7 pts | 142 → 50 ▲ | · | · | −26 % |
+| ODFL | Old Dominion Freight Line | −14,7 pts | 142 → 51 ▲ | · | · | −26 % |
 | RBA | RB Global | −14,7 pts | 143 → 47 ▲ | ✓ | · | −26 % |
 | TKR | Timken Company | −14,8 pts | 144 → 117 | · | · | −23 % |
 | CAT | Caterpillar Inc. | −15,1 pts | 145 → 120 | · | · | −30 % |
@@ -1188,4 +1188,4 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 - **Un secteur en rotation n'est pas un achat.** C'est un endroit où chercher : croiser avec les screeners et setups du marché.
 
 ---
-*Dernière séance : 14/10/2026. Généré le 14/10/2026 23:11 UTC. Travail d'analyse quantitative, sans valeur de conseil en investissement.*
+*Dernière séance : 14/10/2026. Généré le 15/10/2026 09:09 UTC. Travail d'analyse quantitative, sans valeur de conseil en investissement.*
