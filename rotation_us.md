@@ -273,7 +273,7 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | PFE | Pfizer | +24,0 pts | 26 → 30 | ✓ | ✓ | +0 % |
 | DXCM | Dexcom | +23,9 pts | 27 → 67 ▼ | ✓ | ✓ | −5 % |
 | GILD | Gilead Sciences | +23,4 pts | 28 → 35 | ✓ | ✓ | +0 % |
-| REGN | Regeneron Pharmaceuticals | +23,3 pts | 29 → 55 ▼ | ✓ | ✓ | −7 % |
+| REGN | Regeneron Pharmaceuticals | +23,3 pts | 29 → 56 ▼ | ✓ | ✓ | −7 % |
 | LH | Labcorp | +23,0 pts | 30 → 72 ▼ | ✓ | ✓ | −4 % |
 | MDT | Medtronic | +22,9 pts | 31 → 47 | ✓ | ✓ | −6 % |
 | BIIB | Biogen | +22,6 pts | 32 → 22 | ✓ | ✓ | +0 % |
@@ -281,10 +281,10 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | MEDP | Medpace | +22,0 pts | 34 → 57 ▼ | ✓ | ✓ | −0 % |
 | WAT | Waters Corporation | +21,7 pts | 35 → 42 | ✓ | ✓ | +0 % |
 | MRK | Merck & Co. | +21,4 pts | 36 → 70 ▼ | ✓ | ✓ | −7 % |
-| ABT | Abbott Laboratories | +20,5 pts | 37 → 56 | · | · | −18 % |
-| EHC | Encompass Health | +19,8 pts | 38 → 52 | ✓ | ✓ | +0 % |
-| BAX | Baxter International | +19,6 pts | 39 → 20 | ✓ | ✓ | −9 % |
-| ABBV | AbbVie | +19,4 pts | 40 → 26 | ✓ | ✓ | −0 % |
+| ABT | Abbott Laboratories | +21,3 pts | 37 → 55 | · | · | −18 % |
+| ABBV | AbbVie | +20,1 pts | 38 → 25 | ✓ | ✓ | +0 % |
+| EHC | Encompass Health | +19,8 pts | 39 → 52 | ✓ | ✓ | +0 % |
+| BAX | Baxter International | +19,6 pts | 40 → 20 | ✓ | ✓ | −9 % |
 | DHR | Danaher Corporation | +18,8 pts | 41 → 15 ▲ | ✓ | ✓ | −4 % |
 | COR | Cencora | +18,6 pts | 42 → 31 | ✓ | ✓ | −8 % |
 | EXEL | Exelixis | +16,4 pts | 43 → 18 ▲ | ✓ | ✓ | +0 % |
@@ -323,7 +323,7 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | SHC | Sotera Health | +2,8 pts | 76 → 91 | · | · | −8 % |
 | INCY | Incyte | +1,7 pts | 77 → 96 | · | · | −13 % |
 | IDXX | Idexx Laboratories | +1,5 pts | 78 → 38 ▲ | ✓ | · | −29 % |
-| UNH | UnitedHealth Group | +1,0 pts | 79 → 25 ▲ | ✓ | ✓ | −6 % |
+| UNH | UnitedHealth Group | +1,0 pts | 79 → 26 ▲ | ✓ | ✓ | −6 % |
 | ROIV | Roivant Sciences | +0,8 pts | 80 → 102 ▼ | · | · | −19 % |
 | TFX | Teleflex | +0,8 pts | 81 → 73 | · | · | −10 % |
 | BRKR | Bruker | −0,3 pts | 82 → 92 | · | · | −13 % |
@@ -524,19 +524,19 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | IFF | International Flavors & Fragranc | +23,7 pts | 5 → 3 | ✓ | ✓ | +0 % |
 | NEU | NewMarket | +21,5 pts | 6 → 29 ▼ | · | · | −7 % |
 | AU | AngloGold Ashanti | +19,7 pts | 7 → 46 ▼ | · | · | −26 % |
-| FCX | Freeport-McMoRan | +18,2 pts | 8 → 23 ▼ | · | · | −12 % |
+| FCX | Freeport-McMoRan | +18,4 pts | 8 → 20 ▼ | · | · | −12 % |
 | SCCO | Southern Copper | +16,3 pts | 9 → 5 | ✓ | ✓ | −8 % |
 | AVY | Avery Dennison | +16,1 pts | 10 → 19 | ✓ | ✓ | −9 % |
 | LYB | LyondellBasell | +12,4 pts | 11 → 38 ▼ | ✓ | ✓ | −22 % |
 | ECL | Ecolab | +11,2 pts | 12 → 7 | ✓ | ✓ | −5 % |
 | NUE | Nucor | +11,1 pts | 13 → 36 ▼ | ✓ | ✓ | −7 % |
 | RS | Reliance, Inc. | +7,3 pts | 14 → 14 | ✓ | ✓ | −5 % |
-| AXTA | Axalta | +7,3 pts | 15 → 21 | · | · | −12 % |
+| AXTA | Axalta | +7,3 pts | 15 → 22 | · | · | −12 % |
 | BALL | Ball Corporation | +6,9 pts | 16 → 17 | ✓ | ✓ | −6 % |
 | PKG | Packaging Corporation of America | +6,0 pts | 17 → 24 | · | · | −9 % |
-| STLD | Steel Dynamics | +5,7 pts | 18 → 22 | ✓ | ✓ | −14 % |
+| STLD | Steel Dynamics | +5,7 pts | 18 → 23 | ✓ | ✓ | −14 % |
 | AMCR | Amcor | +5,5 pts | 19 → 10 | · | · | −10 % |
-| CCK | Crown Holdings | +5,5 pts | 20 → 20 | ✓ | ✓ | −7 % |
+| CCK | Crown Holdings | +5,5 pts | 20 → 21 | ✓ | ✓ | −7 % |
 | CF | CF Industries | +5,5 pts | 21 → 48 ▼ | · | · | −14 % |
 | CTVA | Corteva | +5,1 pts | 22 → 8 ▲ | ✓ | ✓ | −11 % |
 | APD | Air Products | +4,9 pts | 23 → 11 ▲ | ✓ | ✓ | −5 % |
@@ -612,10 +612,10 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | SEIC | SEI Investments Company | +10,5 pts | 28 → 43 | · | · | −6 % |
 | MRSH | Marsh McLennan | +10,3 pts | 29 → 16 | ✓ | ✓ | −6 % |
 | CBC | Central Bancompany | +9,8 pts | 30 → 18 | ✓ | ✓ | −0 % |
-| NU | Nubank | +9,4 pts | 31 → 12 | ✓ | · | −21 % |
-| WRB | W. R. Berkley Corporation | +9,3 pts | 32 → 17 | ✓ | ✓ | −3 % |
-| JKHY | Jack Henry & Associates | +9,0 pts | 33 → 68 ▼ | ✓ | ✓ | −18 % |
-| AFG | American Financial Group | +9,0 pts | 34 → 34 | ✓ | ✓ | −1 % |
+| AFG | American Financial Group | +9,7 pts | 31 → 31 | ✓ | ✓ | −0 % |
+| NU | Nubank | +9,4 pts | 32 → 12 | ✓ | · | −21 % |
+| WRB | W. R. Berkley Corporation | +9,3 pts | 33 → 17 | ✓ | ✓ | −3 % |
+| JKHY | Jack Henry & Associates | +9,0 pts | 34 → 68 ▼ | ✓ | ✓ | −18 % |
 | EG | Everest Group | +8,6 pts | 35 → 40 | ✓ | ✓ | −4 % |
 | CB | Chubb Limited | +8,1 pts | 36 → 27 | ✓ | ✓ | −3 % |
 | UNM | Unum | +7,7 pts | 37 → 80 ▼ | ✓ | ✓ | −4 % |
@@ -629,9 +629,9 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | PRU | Prudential Financial | +5,6 pts | 45 → 51 | · | · | −6 % |
 | BRO | Brown & Brown | +5,2 pts | 46 → 28 | ✓ | ✓ | −27 % |
 | FCNCA | First Citizens BancShares | +4,7 pts | 47 → 47 | · | · | −8 % |
-| AJG | Arthur J. Gallagher & Co. | +4,5 pts | 48 → 31 | ✓ | ✓ | −15 % |
+| AJG | Arthur J. Gallagher & Co. | +4,5 pts | 48 → 32 | ✓ | ✓ | −15 % |
 | AMG | Affiliated Managers Group | +4,2 pts | 49 → 3 ▲ | ✓ | ✓ | −1 % |
-| ACGL | Arch Capital Group | +4,1 pts | 50 → 32 | ✓ | ✓ | −7 % |
+| ACGL | Arch Capital Group | +4,1 pts | 50 → 33 | ✓ | ✓ | −7 % |
 | SSB | SouthState Corporation | +4,0 pts | 51 → 79 | · | · | −9 % |
 | ALL | Allstate | +3,7 pts | 52 → 119 ▼ | · | · | −13 % |
 | SYF | Synchrony Financial | +3,7 pts | 53 → 59 | · | · | −15 % |
@@ -664,7 +664,7 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | WFC | Wells Fargo | −1,6 pts | 80 → 110 | · | · | −13 % |
 | VIRT | Virtu Financial | −1,6 pts | 81 → 44 ▲ | · | · | −15 % |
 | PNFP | Pinnacle Financial Partners | −1,7 pts | 82 → 71 | · | · | −13 % |
-| MKL | Markel | −1,8 pts | 83 → 33 ▲ | ✓ | · | −17 % |
+| MKL | Markel | −1,8 pts | 83 → 34 ▲ | ✓ | · | −17 % |
 | BAM | Brookfield Asset Management | −2,0 pts | 84 → 35 ▲ | · | · | −17 % |
 | OWL | Blue Owl Capital | −2,4 pts | 85 → 148 ▼ | · | · | −44 % |
 | BEN | Franklin Templeton Investments | −2,5 pts | 86 → 87 | · | · | −11 % |
@@ -981,7 +981,7 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | DCI | Donaldson Company | +1,9 pts | 62 → 73 | · | · | −20 % |
 | IR | Ingersoll Rand | +1,7 pts | 63 → 9 ▲ | ✓ | · | −21 % |
 | OTIS | Otis Worldwide | +1,4 pts | 64 → 74 | ✓ | · | −24 % |
-| UBER | Uber | +1,3 pts | 65 → 90 | · | · | −29 % |
+| UBER | Uber | +1,3 pts | 65 → 91 | · | · | −29 % |
 | APG | APi Group | +1,2 pts | 66 → 5 ▲ | ✓ | · | −18 % |
 | VRSK | Verisk Analytics | +1,1 pts | 67 → 58 | ✓ | · | −22 % |
 | CSL | Carlisle Companies | +1,1 pts | 68 → 30 ▲ | · | · | −19 % |
@@ -997,7 +997,7 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | FTV | Fortive | −1,1 pts | 78 → 43 | ✓ | · | −10 % |
 | NOC | Northrop Grumman | −1,2 pts | 79 → 148 ▼ | · | · | −34 % |
 | TT | Trane Technologies | −1,3 pts | 80 → 11 ▲ | ✓ | ✓ | −9 % |
-| EME | Emcor | −1,6 pts | 81 → 108 | · | · | −22 % |
+| EME | Emcor | −1,5 pts | 81 → 108 | · | · | −22 % |
 | RHI | Robert Half | −1,8 pts | 82 → 160 ▼ | · | · | −24 % |
 | HON | Honeywell Technologies | −2,0 pts | 83 → 78 | · | · | −18 % |
 | FDX | FedEx | −2,1 pts | 84 → 119 | · | · | −13 % |
@@ -1019,8 +1019,8 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | HEI-A | HEICO(Class A) | −5,4 pts | 100 → 50 ▲ | · | · | −16 % |
 | SNA | Snap-on | −5,5 pts | 101 → 118 | · | · | −12 % |
 | R | Ryder | −5,6 pts | 102 → 86 | · | · | −14 % |
-| FCN | FTI Consulting | −5,8 pts | 103 → 89 | ✓ | · | −22 % |
-| DAL | Delta Air Lines | −5,9 pts | 104 → 92 | · | · | −16 % |
+| DAL | Delta Air Lines | −5,6 pts | 103 → 90 | · | · | −16 % |
+| FCN | FTI Consulting | −5,8 pts | 104 → 89 | ✓ | · | −22 % |
 | AYI | Acuity Brands | −6,4 pts | 105 → 75 | · | · | −20 % |
 | PCAR | Paccar | −6,5 pts | 106 → 153 ▼ | · | · | −20 % |
 | SITE | SiteOne Landscape Supply | −6,8 pts | 107 → 21 ▲ | ✓ | · | −42 % |
@@ -1064,7 +1064,7 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | TKR | Timken Company | −15,5 pts | 145 → 124 | · | · | −22 % |
 | MIDD | Middleby | −15,6 pts | 146 → 125 | · | · | −25 % |
 | DRS | Leonardo DRS | −15,6 pts | 147 → 136 | · | · | −28 % |
-| ECG | Everus Construction Group | −16,1 pts | 148 → 91 ▲ | · | · | −34 % |
+| ECG | Everus Construction Group | −16,1 pts | 148 → 92 ▲ | · | · | −34 % |
 | CAT | Caterpillar Inc. | −16,1 pts | 149 → 150 | · | · | −31 % |
 | MWH | SOLV Energy | −16,3 pts | 150 → 162 | · | · | — % |
 | CMI | Cummins | −16,5 pts | 151 → 85 ▲ | · | · | −27 % |
@@ -1118,12 +1118,12 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 |---|---|---:|:---:|:---:|:---:|---:|
 | CSGP | CoStar Group | +15,6 pts | 1 → 4 | ✓ | · | −59 % |
 | AMT | American Tower | +12,0 pts | 2 → 5 | ✓ | · | −5 % |
-| REXR | Rexford Industrial | +9,7 pts | 3 → 46 ▼ | ✓ | ✓ | −12 % |
+| REXR | Rexford Industrial | +9,7 pts | 3 → 47 ▼ | ✓ | ✓ | −12 % |
 | CCI | Crown Castle | +5,4 pts | 4 → 3 | ✓ | · | −15 % |
-| JAN | Janus Living | +5,1 pts | 5 → 47 ▼ | · | · | — % |
+| JAN | Janus Living | +5,1 pts | 5 → 48 ▼ | · | · | — % |
 | HST | Host Hotels & Resorts | +4,4 pts | 6 → 2 | ✓ | ✓ | −6 % |
 | WELL | Welltower | +4,2 pts | 7 → 19 ▼ | ✓ | ✓ | −7 % |
-| DLR | Digital Realty | +3,0 pts | 8 → 45 ▼ | · | · | −13 % |
+| DLR | Digital Realty | +3,0 pts | 8 → 46 ▼ | · | · | −13 % |
 | SUI | Sun Communities | +2,2 pts | 9 → 8 | · | · | −13 % |
 | SBAC | SBA Communications | +2,1 pts | 10 → 7 | ✓ | · | −17 % |
 | AHR | American Healthcare REIT | +1,6 pts | 11 → 16 | · | · | −8 % |
@@ -1154,17 +1154,17 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | VMRK | Vivmark Residential | −6,0 pts | 36 → 30 | · | · | −12 % |
 | GLPI | Gaming and Leisure Properties | −6,2 pts | 37 → 42 | · | · | −17 % |
 | STAG | STAG Industrial | −6,4 pts | 38 → 39 | · | · | −14 % |
-| FR | First Industrial Realty Trust | −6,8 pts | 39 → 44 | · | · | −14 % |
+| FR | First Industrial Realty Trust | −6,8 pts | 39 → 45 | · | · | −14 % |
 | COLD | Americold | −7,1 pts | 40 → 38 | · | · | −13 % |
-| PLD | Prologis | −7,5 pts | 41 → 51 | · | · | −15 % |
-| CUZ | Cousins Properties | −7,6 pts | 42 → 27 ▲ | · | · | −14 % |
-| O | Realty Income | −7,7 pts | 43 → 35 | · | · | −15 % |
-| CPT | Camden Property Trust | −8,0 pts | 44 → 33 | · | · | −16 % |
-| DOC | Healthpeak Properties | −8,2 pts | 45 → 55 | · | · | −16 % |
-| BRX | Brixmor Property Group | −8,3 pts | 46 → 24 ▲ | · | · | −15 % |
-| ARE | Alexandria Real Estate Equities | −8,5 pts | 47 → 60 ▼ | · | · | −42 % |
-| KRC | Kilroy Realty | −8,5 pts | 48 → 6 ▲ | · | · | −15 % |
-| MAA | Mid-America Apartment Communitie | −8,5 pts | 49 → 49 | · | · | −17 % |
+| MAA | Mid-America Apartment Communitie | −7,3 pts | 41 → 44 | · | · | −16 % |
+| PLD | Prologis | −7,5 pts | 42 → 51 | · | · | −15 % |
+| CUZ | Cousins Properties | −7,6 pts | 43 → 27 ▲ | · | · | −14 % |
+| O | Realty Income | −7,7 pts | 44 → 35 | · | · | −15 % |
+| CPT | Camden Property Trust | −8,0 pts | 45 → 33 ▲ | · | · | −16 % |
+| DOC | Healthpeak Properties | −8,2 pts | 46 → 55 | · | · | −16 % |
+| BRX | Brixmor Property Group | −8,3 pts | 47 → 24 ▲ | · | · | −15 % |
+| ARE | Alexandria Real Estate Equities | −8,5 pts | 48 → 60 ▼ | · | · | −42 % |
+| KRC | Kilroy Realty | −8,5 pts | 49 → 6 ▲ | · | · | −15 % |
 | RYN | Rayonier | −8,6 pts | 50 → 52 | · | · | −20 % |
 | NNN | NNN Reit | −8,8 pts | 51 → 26 ▲ | · | · | −16 % |
 | UDR | UDR, Inc. | −9,0 pts | 52 → 23 ▲ | · | · | −16 % |
@@ -1172,7 +1172,7 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | FRT | Federal Realty Investment Trust | −9,3 pts | 54 → 50 | · | · | −16 % |
 | ADC | Agree Realty | −10,0 pts | 55 → 36 ▲ | · | · | −17 % |
 | HR | Healthcare Realty Trust | −11,6 pts | 56 → 54 | · | · | −20 % |
-| VNO | Vornado Realty Trust | −13,3 pts | 57 → 48 | · | · | −19 % |
+| VNO | Vornado Realty Trust | −13,3 pts | 57 → 49 | · | · | −19 % |
 | WY | Weyerhaeuser | −14,9 pts | 58 → 59 | · | · | −27 % |
 | LINE | Lineage, Inc. | −18,0 pts | 59 → 58 | · | · | −22 % |
 | MPT | Medical Properties Trust | −28,8 pts | 60 → 56 | · | · | −45 % |
@@ -1188,4 +1188,4 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 - **Un secteur en rotation n'est pas un achat.** C'est un endroit où chercher : croiser avec les screeners et setups du marché.
 
 ---
-*Dernière séance : 15/10/2026. Généré le 15/10/2026 23:05 UTC. Travail d'analyse quantitative, sans valeur de conseil en investissement.*
+*Dernière séance : 15/10/2026. Généré le 16/10/2026 07:40 UTC. Travail d'analyse quantitative, sans valeur de conseil en investissement.*
