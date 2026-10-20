@@ -933,7 +933,7 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | TTEK | Tetra Tech | +13,7 pts | 14 → 111 ▼ | · | · | −18 % |
 | WAB | Wabtec | +13,4 pts | 15 → 60 ▼ | · | · | −6 % |
 | LYFT | Lyft | +13,3 pts | 16 → 3 | ✓ | ✓ | −31 % |
-| GGG | Graco Inc. | +12,5 pts | 17 → 20 | ✓ | · | −14 % |
+| GGG | Graco Inc. | +12,9 pts | 17 → 20 | ✓ | · | −14 % |
 | LMT | Lockheed Martin | +12,3 pts | 18 → 54 | ✓ | · | −18 % |
 | EXPD | Expeditors International | +11,5 pts | 19 → 50 | ✓ | ✓ | −1 % |
 | AWI | Armstrong World Industries | +11,4 pts | 20 → 30 | · | · | −17 % |
@@ -1078,8 +1078,8 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | FBIN | Fortune Brands Innovations | −17,6 pts | 159 → 63 ▲ | · | · | −37 % |
 | UHAL | U-Haul | −18,2 pts | 160 → 173 | · | · | −26 % |
 | AAL | American Airlines Group | −18,2 pts | 161 → 158 | · | · | −36 % |
-| NXT | Nextpower | −18,9 pts | 162 → 90 ▲ | · | · | −49 % |
-| OC | Owens Corning | −19,3 pts | 163 → 164 | · | · | −31 % |
+| OC | Owens Corning | −18,8 pts | 162 → 162 | · | · | −30 % |
+| NXT | Nextpower | −18,9 pts | 163 → 90 ▲ | · | · | −49 % |
 | HONA | Honeywell Aerospace | −19,4 pts | 164 → 87 ▲ | ✓ | · | — % |
 | JBHT | J. B. Hunt | −19,4 pts | 165 → 133 | · | · | −25 % |
 | RRX | Regal Rexnord | −19,8 pts | 166 → 17 ▲ | · | · | −34 % |
@@ -1096,7 +1096,7 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | BLDR | Builders FirstSource | −24,9 pts | 177 → 154 | · | · | −59 % |
 | POWL | Powell Industries | −24,9 pts | 178 → 159 | · | · | −48 % |
 | VRT | Vertiv | −25,0 pts | 179 → 183 | · | · | −45 % |
-| QXO | QXO, Inc. | −25,7 pts | 180 → 162 | · | · | −63 % |
+| QXO | QXO, Inc. | −25,7 pts | 180 → 163 | · | · | −63 % |
 | CW | Curtiss-Wright | −25,9 pts | 181 → 168 | · | · | −37 % |
 | AAON | AAON | −28,5 pts | 182 → 102 ▲ | · | · | −49 % |
 | CHRW | C.H. Robinson | −29,3 pts | 183 → 155 | · | · | −33 % |
@@ -1106,7 +1106,7 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | CAR | Avis Budget Group | −32,4 pts | 187 → 172 | · | · | −86 % |
 | DY | Dycom Industries | −33,7 pts | 188 → 171 | · | · | −52 % |
 | PL | Planet Labs | −35,7 pts | 189 → 182 | · | · | −74 % |
-| MTZ | MasTec | −38,2 pts | 190 → 163 | · | · | −56 % |
+| MTZ | MasTec | −38,2 pts | 190 → 164 | · | · | −56 % |
 | WSC | WillScot Mobile Mini | −38,5 pts | 191 → 174 | · | · | −46 % |
 
 </details>
@@ -1158,8 +1158,8 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | STAG | STAG Industrial | −9,3 pts | 40 → 40 | · | · | −14 % |
 | RYN | Rayonier | −9,3 pts | 41 → 51 | · | · | −21 % |
 | CUZ | Cousins Properties | −9,6 pts | 42 → 37 | · | · | −15 % |
-| KRC | Kilroy Realty | −10,3 pts | 43 → 15 ▲ | · | · | −17 % |
-| UDR | UDR, Inc. | −10,4 pts | 44 → 19 ▲ | · | · | −17 % |
+| UDR | UDR, Inc. | −10,0 pts | 43 → 19 ▲ | · | · | −17 % |
+| KRC | Kilroy Realty | −10,3 pts | 44 → 15 ▲ | · | · | −17 % |
 | O | Realty Income | −10,5 pts | 45 → 29 ▲ | · | · | −15 % |
 | WPC | W. P. Carey | −10,9 pts | 46 → 34 ▲ | · | · | −16 % |
 | FR | First Industrial Realty Trust | −11,0 pts | 47 → 47 | · | · | −15 % |
@@ -1168,7 +1168,7 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | BXP | BXP, Inc. | −12,3 pts | 50 → 52 | · | · | −20 % |
 | PLD | Prologis | −12,7 pts | 51 → 54 | · | · | −17 % |
 | NNN | NNN Reit | −12,7 pts | 52 → 30 ▲ | · | · | −17 % |
-| DOC | Healthpeak Properties | −13,2 pts | 53 → 56 | · | · | −19 % |
+| DOC | Healthpeak Properties | −12,8 pts | 53 → 56 | · | · | −18 % |
 | ARE | Alexandria Real Estate Equities | −14,0 pts | 54 → 60 | · | · | −45 % |
 | ADC | Agree Realty | −14,1 pts | 55 → 38 ▲ | · | · | −18 % |
 | HR | Healthcare Realty Trust | −14,3 pts | 56 → 49 | · | · | −20 % |
@@ -1188,4 +1188,4 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 - **Un secteur en rotation n'est pas un achat.** C'est un endroit où chercher : croiser avec les screeners et setups du marché.
 
 ---
-*Dernière séance : 19/10/2026. Généré le 19/10/2026 23:36 UTC. Travail d'analyse quantitative, sans valeur de conseil en investissement.*
+*Dernière séance : 19/10/2026. Généré le 20/10/2026 08:22 UTC. Travail d'analyse quantitative, sans valeur de conseil en investissement.*
