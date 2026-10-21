@@ -19,7 +19,7 @@ Largeur du marché : **45 %** des titres au-dessus de leur MM50.
 | 5 | 4 ▼ | Conso. de base | +2,0 % | 59 % | −5 pts | 4 % |  |
 | 6 | 9 ▲ | Conso. discrétionnaire | −2,1 % | 50 % | +7 pts | 3 % |  |
 | 7 | 2 ▼ | Finance | −2,3 % | 36 % | −27 pts | 6 % | **LEADER ESSOUFFLÉ** |
-| 8 | 5 ▼ | Matériaux | −2,7 % | 47 % | −16 pts | 2 % |  |
+| 8 | 5 ▼ | Matériaux | −2,6 % | 47 % | −16 pts | 2 % |  |
 | 9 | 11 ▲ | Services publics | −8,3 % | 66 % | +51 pts | 0 % |  |
 | 10 | 10 | Industrie | −9,0 % | 31 % | −2 pts | 3 % |  |
 | 11 | 8 ▼ | Immobilier | −9,5 % | 33 % | +10 pts | 0 % |  |
@@ -122,7 +122,7 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | MRVL | Marvell Technology | +25,6 pts | 41 → 95 ▼ | · | · | −24 % |
 | GWRE | Guidewire Software | +25,3 pts | 42 → 4 ▲ | ✓ | ✓ | −28 % |
 | CCC | CCC Intelligent Solutions | +24,1 pts | 43 → 9 ▲ | ✓ | ✓ | −18 % |
-| DELL | Dell Technologies | +23,3 pts | 44 → 138 ▼ | · | · | −22 % |
+| DELL | Dell Technologies | +23,5 pts | 44 → 138 ▼ | · | · | −21 % |
 | CDW | CDW | +22,0 pts | 45 → 40 | ✓ | ✓ | −1 % |
 | DBX | Dropbox | +21,3 pts | 46 → 64 | ✓ | ✓ | −4 % |
 | TYL | Tyler Technologies | +20,9 pts | 47 → 16 ▲ | ✓ | ✓ | −27 % |
@@ -454,7 +454,7 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | Ticker | Société | Perf. 13 sem. vs marché | Rang secteur 3 m → 1 m | > MM50 | MM50 > MM200 | Vs plus haut 52 s. |
 |---|---|---:|:---:|:---:|:---:|---:|
 | ELF | e.l.f. Beauty | +46,3 pts | 1 → 1 | ✓ | ✓ | −13 % |
-| EL | Estée Lauder Companies (The) | +29,5 pts | 2 → 15 ▼ | ✓ | ✓ | −10 % |
+| EL | Estée Lauder Companies (The) | +29,5 pts | 2 → 16 ▼ | ✓ | ✓ | −10 % |
 | COKE | Coca-Cola Consolidated | +19,6 pts | 3 → 5 | ✓ | ✓ | −1 % |
 | SJM | J.M. Smucker Company (The) | +18,6 pts | 4 → 22 ▼ | ✓ | ✓ | −2 % |
 | LW | Lamb Weston | +18,5 pts | 5 → 4 | ✓ | ✓ | −17 % |
@@ -473,11 +473,11 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | MDLZ | Mondelez International | +9,3 pts | 18 → 27 | ✓ | ✓ | −1 % |
 | COST | Costco | +8,7 pts | 19 → 13 | ✓ | · | −9 % |
 | JBS | JBS N.V. | +7,8 pts | 20 → 34 ▼ | · | · | −26 % |
-| WMT | Walmart | +7,5 pts | 21 → 16 | ✓ | · | −12 % |
+| WMT | Walmart | +7,5 pts | 21 → 17 | ✓ | · | −12 % |
 | PM | Philip Morris International | +6,9 pts | 22 → 24 | ✓ | ✓ | −3 % |
 | KVUE | Kenvue | +6,0 pts | 23 → 19 | ✓ | ✓ | −1 % |
-| SYY | Sysco | +5,6 pts | 24 → 32 | ✓ | ✓ | −7 % |
-| CL | Colgate-Palmolive | +5,1 pts | 25 → 17 | ✓ | ✓ | −3 % |
+| CL | Colgate-Palmolive | +5,7 pts | 24 → 15 | ✓ | ✓ | −3 % |
+| SYY | Sysco | +5,6 pts | 25 → 32 | ✓ | ✓ | −7 % |
 | CELH | Celsius Holdings | +4,1 pts | 26 → 29 | ✓ | · | −54 % |
 | MO | Altria | +3,8 pts | 27 → 21 | ✓ | ✓ | −1 % |
 | KMB | Kimberly-Clark | +3,3 pts | 28 → 12 ▲ | ✓ | ✓ | −6 % |
@@ -833,7 +833,7 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | LPX | Louisiana-Pacific | +4,1 pts | 28 → 3 ▲ | ✓ | · | −26 % |
 | CCK | Crown Holdings | +2,2 pts | 29 → 24 | ✓ | ✓ | −6 % |
 | CTVA | Corteva | +1,5 pts | 30 → 8 ▲ | ✓ | ✓ | −11 % |
-| RPM | RPM International | +0,8 pts | 31 → 32 | · | · | −16 % |
+| RPM | RPM International | +1,3 pts | 31 → 31 | · | · | −15 % |
 | DD | DuPont | +0,6 pts | 32 → 28 | ✓ | · | −13 % |
 | LIN | Linde plc | +0,6 pts | 33 → 4 ▲ | ✓ | · | −8 % |
 | ESI | Element Solutions | +0,3 pts | 34 → 17 ▲ | · | · | −27 % |
@@ -846,19 +846,19 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | AA | Alcoa | −3,8 pts | 41 → 49 | · | · | −51 % |
 | SON | Sonoco | −3,8 pts | 42 → 27 ▲ | · | · | −15 % |
 | VMC | Vulcan Materials | −4,3 pts | 43 → 19 ▲ | ✓ | · | −20 % |
-| MLM | Martin Marietta Materials | −5,9 pts | 44 → 31 ▲ | ✓ | · | −28 % |
+| MLM | Martin Marietta Materials | −5,9 pts | 44 → 32 ▲ | ✓ | · | −28 % |
 | SLGN | Silgan Holdings | −10,7 pts | 45 → 13 ▲ | ✓ | · | −17 % |
 | EXP | Eagle Materials | −12,0 pts | 46 → 38 | · | · | −28 % |
 | CRH | CRH plc | −12,2 pts | 47 → 36 ▲ | · | · | −34 % |
 | MP | MP Materials | −12,3 pts | 48 → 54 | · | · | −53 % |
-| WLK | Westlake Corporation | −15,7 pts | 49 → 45 | · | · | −49 % |
+| WLK | Westlake Corporation | −15,7 pts | 49 → 46 | · | · | −49 % |
 | SMG | Scotts Miracle-Gro Company | −16,3 pts | 50 → 9 ▲ | ✓ | · | −23 % |
 | ALB | Albemarle Corporation | −16,5 pts | 51 → 52 | · | · | −55 % |
 | MOS | Mosaic Company (The) | −17,4 pts | 52 → 56 | · | · | −42 % |
 | VVV | Valvoline | −18,1 pts | 53 → 1 ▲ | ✓ | · | −22 % |
 | GPK | Graphic Packaging | −18,5 pts | 54 → 47 | · | · | −50 % |
 | OLN | Olin Corporation | −28,7 pts | 55 → 48 | · | · | −49 % |
-| CRS | Carpenter Technology Corporation | −30,6 pts | 56 → 46 | · | · | −40 % |
+| CRS | Carpenter Technology Corporation | −30,6 pts | 56 → 45 ▲ | · | · | −40 % |
 | ALM | Almonty Industries | −33,9 pts | 57 → 57 | · | · | −62 % |
 
 </details>
@@ -1188,4 +1188,4 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 - **Un secteur en rotation n'est pas un achat.** C'est un endroit où chercher : croiser avec les screeners et setups du marché.
 
 ---
-*Dernière séance : 20/10/2026. Généré le 20/10/2026 23:09 UTC. Travail d'analyse quantitative, sans valeur de conseil en investissement.*
+*Dernière séance : 20/10/2026. Généré le 21/10/2026 07:49 UTC. Travail d'analyse quantitative, sans valeur de conseil en investissement.*
