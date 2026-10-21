@@ -17,9 +17,9 @@ Largeur du marché : **45 %** des titres au-dessus de leur MM50.
 | 3 | 3 | Énergie | +8,3 % | 71 % | −20 pts | 11 % | LEADER |
 | 4 | 7 ▲ | Communication | +2,8 % | 41 % | −16 pts | 2 % |  |
 | 5 | 4 ▼ | Conso. de base | +2,0 % | 59 % | −5 pts | 4 % |  |
-| 6 | 9 ▲ | Conso. discrétionnaire | −2,1 % | 50 % | +7 pts | 3 % |  |
+| 6 | 9 ▲ | Conso. discrétionnaire | −2,2 % | 50 % | +7 pts | 3 % |  |
 | 7 | 2 ▼ | Finance | −2,3 % | 36 % | −27 pts | 6 % | **LEADER ESSOUFFLÉ** |
-| 8 | 5 ▼ | Matériaux | −2,6 % | 47 % | −16 pts | 2 % |  |
+| 8 | 5 ▼ | Matériaux | −2,7 % | 47 % | −16 pts | 2 % |  |
 | 9 | 11 ▲ | Services publics | −8,3 % | 66 % | +51 pts | 0 % |  |
 | 10 | 10 | Industrie | −9,0 % | 31 % | −2 pts | 3 % |  |
 | 11 | 8 ▼ | Immobilier | −9,5 % | 33 % | +10 pts | 0 % |  |
@@ -1188,4 +1188,4 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 - **Un secteur en rotation n'est pas un achat.** C'est un endroit où chercher : croiser avec les screeners et setups du marché.
 
 ---
-*Dernière séance : 20/10/2026. Généré le 21/10/2026 07:49 UTC. Travail d'analyse quantitative, sans valeur de conseil en investissement.*
+*Dernière séance : 20/10/2026. Généré le 21/10/2026 11:09 UTC. Travail d'analyse quantitative, sans valeur de conseil en investissement.*
