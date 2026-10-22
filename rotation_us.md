@@ -410,7 +410,7 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | NWSA | News Corp(Class A) | +12,9 pts | 8 → 11 | ✓ | ✓ | −2 % |
 | ROKU | Roku, Inc. | +11,4 pts | 9 → 17 | ✓ | ✓ | −1 % |
 | META | Meta Platforms | +10,4 pts | 10 → 33 ▼ | ✓ | ✓ | −10 % |
-| NWS | News Corp(Class B) | +8,9 pts | 11 → 14 | ✓ | ✓ | −6 % |
+| NWS | News Corp(Class B) | +8,9 pts | 11 → 14 | ✓ | ✓ | −5 % |
 | SPOT | Spotify | +8,5 pts | 12 → 10 | ✓ | ✓ | −24 % |
 | MSGS | Madison Square Garden Sports | +6,1 pts | 13 → 12 | ✓ | ✓ | −1 % |
 | OMC | Omnicom Group | +4,7 pts | 14 → 5 ▲ | ✓ | ✓ | −9 % |
@@ -788,14 +788,14 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | MTN | Vail Resorts | +3,3 pts | 41 → 32 | ✓ | ✓ | −7 % |
 | RCL | Royal Caribbean Group | +2,8 pts | 42 → 4 ▲ | ✓ | · | −16 % |
 | RL | Ralph Lauren Corporation | +1,7 pts | 43 → 21 | ✓ | · | −8 % |
-| ROST | Ross Stores | +1,5 pts | 44 → 66 | ✓ | ✓ | −8 % |
+| ROST | Ross Stores | +1,5 pts | 44 → 67 ▼ | ✓ | ✓ | −8 % |
 | ARMK | Aramark | +1,5 pts | 45 → 71 ▼ | · | · | −11 % |
 | ADT | ADT Inc. | +1,5 pts | 46 → 47 | · | · | −21 % |
 | CHDN | Churchill Downs Incorporated | +1,3 pts | 47 → 46 | · | · | −30 % |
 | M | Macy's, Inc. | +1,3 pts | 48 → 55 | ✓ | ✓ | −10 % |
 | CHWY | Chewy | +1,2 pts | 49 → 30 | ✓ | · | −42 % |
 | DASH | DoorDash | +0,1 pts | 50 → 86 ▼ | · | · | −31 % |
-| LOW | Lowe's | −0,8 pts | 51 → 67 | · | · | −31 % |
+| LOW | Lowe's | −0,2 pts | 51 → 66 | · | · | −30 % |
 | DHI | D. R. Horton | −0,9 pts | 52 → 83 ▼ | · | · | −17 % |
 | LEN-B | Lennar(Class B) | −1,4 pts | 53 → 87 ▼ | · | · | −37 % |
 | CZR | Caesars Entertainment | −1,8 pts | 54 → 77 ▼ | · | · | −5 % |
@@ -971,8 +971,8 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | HII | Huntington Ingalls Industries | +4,4 pts | 52 → 85 | · | · | −39 % |
 | AOS | A. O. Smith | +4,1 pts | 53 → 68 | ✓ | · | −25 % |
 | EFX | Equifax | +3,8 pts | 54 → 10 ▲ | ✓ | · | −24 % |
-| PAYX | Paychex | +3,5 pts | 55 → 111 ▼ | · | · | −12 % |
-| CPRT | Copart | +3,5 pts | 56 → 133 ▼ | · | · | −40 % |
+| CPRT | Copart | +3,5 pts | 55 → 133 ▼ | · | · | −40 % |
+| PAYX | Paychex | +3,5 pts | 56 → 111 ▼ | · | · | −12 % |
 | OTIS | Otis Worldwide | +3,2 pts | 57 → 26 | ✓ | · | −22 % |
 | FERG | Ferguson Enterprises | +3,0 pts | 58 → 57 | ✓ | · | −14 % |
 | TT | Trane Technologies | +2,6 pts | 59 → 18 ▲ | ✓ | ✓ | −6 % |
@@ -1188,4 +1188,4 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 - **Un secteur en rotation n'est pas un achat.** C'est un endroit où chercher : croiser avec les screeners et setups du marché.
 
 ---
-*Dernière séance : 21/10/2026. Généré le 21/10/2026 23:13 UTC. Travail d'analyse quantitative, sans valeur de conseil en investissement.*
+*Dernière séance : 21/10/2026. Généré le 22/10/2026 08:33 UTC. Travail d'analyse quantitative, sans valeur de conseil en investissement.*
