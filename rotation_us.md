@@ -18,7 +18,7 @@ Largeur du marché : **53 %** des titres au-dessus de leur MM50.
 | 4 | 4 | Conso. de base | +3,8 % | 75 % | +11 pts | 18 % |  |
 | 5 | 7 ▲ | Communication | +2,5 % | 41 % | −16 pts | 7 % |  |
 | 6 | 2 ▼ | Finance | −0,9 % | 49 % | −13 pts | 13 % |  |
-| 7 | 9 ▲ | Conso. discrétionnaire | −1,8 % | 60 % | +16 pts | 7 % |  |
+| 7 | 9 ▲ | Conso. discrétionnaire | −1,8 % | 60 % | +17 pts | 7 % |  |
 | 8 | 5 ▼ | Matériaux | −3,5 % | 53 % | −11 pts | 2 % |  |
 | 9 | 11 ▲ | Services publics | −7,0 % | 83 % | +68 pts | 7 % |  |
 | 10 | 8 ▼ | Immobilier | −9,1 % | 48 % | +25 pts | 0 % |  |
@@ -58,11 +58,11 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | CAI | Caris Life Sciences | +107,7 pts | 2 → 78 ▼ | ✓ | ✓ | −2 % |
 | VEEV | Veeva Systems | +76,3 pts | 3 → 4 | ✓ | ✓ | +0 % |
 | DOCS | Doximity | +65,9 pts | 4 → 1 | ✓ | ✓ | −51 % |
-| HALO | Halozyme | +61,6 pts | 5 → 25 | ✓ | ✓ | −0 % |
+| HALO | Halozyme | +61,6 pts | 5 → 26 ▼ | ✓ | ✓ | −0 % |
 | AVTR | Avantor | +58,1 pts | 6 → 6 | ✓ | ✓ | −1 % |
 | CRL | Charles River Laboratories | +56,8 pts | 7 → 2 | ✓ | ✓ | −2 % |
 | NTRA | Natera | +53,4 pts | 8 → 67 ▼ | ✓ | ✓ | −6 % |
-| RVTY | Revvity | +43,9 pts | 9 → 26 | ✓ | ✓ | +0 % |
+| RVTY | Revvity | +43,9 pts | 9 → 27 | ✓ | ✓ | +0 % |
 | ILMN | Illumina, Inc. | +42,7 pts | 10 → 50 ▼ | ✓ | ✓ | −8 % |
 | IQV | IQVIA | +41,7 pts | 11 → 57 ▼ | ✓ | ✓ | +0 % |
 | THC | Tenet Healthcare | +40,1 pts | 12 → 49 ▼ | ✓ | ✓ | −4 % |
@@ -83,7 +83,7 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | MCK | McKesson Corporation | +26,0 pts | 27 → 9 | ✓ | ✓ | −2 % |
 | MEDP | Medpace | +25,4 pts | 28 → 48 | ✓ | ✓ | −1 % |
 | QGEN | Qiagen | +25,3 pts | 29 → 10 | ✓ | ✓ | −9 % |
-| AMGN | Amgen | +24,4 pts | 30 → 30 | ✓ | ✓ | +0 % |
+| AMGN | Amgen | +24,4 pts | 30 → 31 | ✓ | ✓ | +0 % |
 | WAT | Waters Corporation | +24,4 pts | 31 → 42 | ✓ | ✓ | −0 % |
 | GILD | Gilead Sciences | +22,8 pts | 32 → 59 ▼ | ✓ | ✓ | −0 % |
 | MDT | Medtronic | +20,4 pts | 33 → 35 | ✓ | ✓ | −5 % |
@@ -106,13 +106,13 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | ZBH | Zimmer Biomet | +13,2 pts | 50 → 36 | ✓ | ✓ | −4 % |
 | CI | Cigna | +13,0 pts | 51 → 5 ▲ | ✓ | ✓ | +0 % |
 | UTHR | United Therapeutics | +12,5 pts | 52 → 3 ▲ | ✓ | · | −2 % |
-| STE | Steris | +12,1 pts | 53 → 27 ▲ | ✓ | · | −13 % |
+| STE | Steris | +12,1 pts | 53 → 28 ▲ | ✓ | · | −13 % |
 | ZTS | Zoetis | +12,1 pts | 54 → 12 ▲ | ✓ | · | −43 % |
 | WST | West Pharmaceutical Services | +11,5 pts | 55 → 53 | ✓ | ✓ | +0 % |
 | DXCM | Dexcom | +11,2 pts | 56 → 98 ▼ | · | · | −15 % |
 | VTRS | Viatris | +11,0 pts | 57 → 46 | ✓ | ✓ | −1 % |
-| RPRX | Royalty Pharma | +10,5 pts | 58 → 28 ▲ | ✓ | ✓ | −0 % |
-| GMED | Globus Medical | +9,7 pts | 59 → 29 ▲ | ✓ | · | −16 % |
+| RPRX | Royalty Pharma | +10,5 pts | 58 → 29 ▲ | ✓ | ✓ | −0 % |
+| GMED | Globus Medical | +9,7 pts | 59 → 30 ▲ | ✓ | · | −16 % |
 | CNC | Centene | +9,6 pts | 60 → 11 ▲ | ✓ | ✓ | +0 % |
 | GH | Guardant Health | +9,6 pts | 61 → 94 ▼ | · | · | −13 % |
 | ROIV | Roivant Sciences | +8,8 pts | 62 → 70 | ✓ | ✓ | −10 % |
@@ -146,7 +146,7 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | ALGN | Align Technology | −8,3 pts | 90 → 52 ▲ | ✓ | · | −21 % |
 | ELAN | Elanco | −8,9 pts | 91 → 77 | · | · | −15 % |
 | INSM | Insmed | −9,3 pts | 92 → 103 | · | · | −55 % |
-| CVS | CVS Health | −10,5 pts | 93 → 31 ▲ | ✓ | ✓ | −14 % |
+| CVS | CVS Health | −9,9 pts | 93 → 25 ▲ | ✓ | ✓ | −13 % |
 | COO | Cooper Companies (The) | −11,0 pts | 94 → 32 ▲ | · | · | −27 % |
 | JAZZ | Jazz Pharmaceuticals | −12,8 pts | 95 → 96 | · | · | −18 % |
 | ALNY | Alnylam Pharmaceuticals | −13,3 pts | 96 → 95 | · | · | −53 % |
@@ -333,11 +333,11 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | Ticker | Société | Perf. 13 sem. vs marché | Rang secteur 3 m → 1 m | > MM50 | MM50 > MM200 | Vs plus haut 52 s. |
 |---|---|---:|:---:|:---:|:---:|---:|
 | MPC | Marathon Petroleum | +47,3 pts | 1 → 1 | ✓ | ✓ | −5 % |
-| VLO | Valero Energy | +39,2 pts | 2 → 5 | ✓ | ✓ | −7 % |
-| APA | APA Corporation | +38,2 pts | 3 → 6 | ✓ | ✓ | −1 % |
+| VLO | Valero Energy | +39,2 pts | 2 → 6 | ✓ | ✓ | −7 % |
+| APA | APA Corporation | +38,9 pts | 3 → 4 | ✓ | ✓ | −0 % |
 | DINO | HF Sinclair | +37,0 pts | 4 → 3 | ✓ | ✓ | −5 % |
 | PSX | Phillips 66 | +36,9 pts | 5 → 10 | ✓ | ✓ | −4 % |
-| COP | ConocoPhillips | +24,9 pts | 6 → 4 | ✓ | ✓ | −1 % |
+| COP | ConocoPhillips | +24,9 pts | 6 → 5 | ✓ | ✓ | −1 % |
 | CVX | Chevron Corporation | +20,0 pts | 7 → 13 | ✓ | ✓ | −0 % |
 | XOM | ExxonMobil | +17,7 pts | 8 → 12 | ✓ | ✓ | −0 % |
 | OVV | Ovintiv | +16,6 pts | 9 → 2 ▲ | ✓ | ✓ | −1 % |
@@ -588,7 +588,7 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | MTG | MGIC Investment Corporation | −2,4 pts | 94 → 133 ▼ | · | · | −12 % |
 | FIS | Fidelity National Information Se | −2,9 pts | 95 → 26 ▲ | ✓ | · | −41 % |
 | ZION | Zions Bancorporation | −3,1 pts | 96 → 59 ▲ | ✓ | ✓ | −9 % |
-| RJF | Raymond James Financial | −3,4 pts | 97 → 103 | · | · | −12 % |
+| RJF | Raymond James Financial | −3,4 pts | 97 → 104 | · | · | −12 % |
 | IVZ | Invesco | −3,4 pts | 98 → 137 ▼ | · | · | −14 % |
 | VIRT | Virtu Financial | −3,7 pts | 99 → 58 ▲ | · | · | −17 % |
 | WTFC | Wintrust Financial | −3,7 pts | 100 → 72 | ✓ | · | −10 % |
@@ -601,7 +601,7 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | C | Citigroup | −5,4 pts | 107 → 138 ▼ | · | · | −15 % |
 | FITB | Fifth Third Bancorp | −5,4 pts | 108 → 75 ▲ | ✓ | ✓ | −10 % |
 | RF | Regions Financial Corporation | −5,5 pts | 109 → 78 ▲ | · | · | −11 % |
-| TFSL | Third Federal S&L | −5,6 pts | 110 → 104 | · | · | −9 % |
+| TFSL | Third Federal S&L | −5,6 pts | 110 → 103 | · | · | −9 % |
 | COLB | Columbia Banking System | −5,8 pts | 111 → 80 ▲ | ✓ | ✓ | −10 % |
 | KEY | Keycorp | −5,8 pts | 112 → 69 ▲ | ✓ | · | −11 % |
 | HOOD | Robinhood Markets | −6,0 pts | 113 → 151 ▼ | · | · | −34 % |
@@ -663,7 +663,7 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | HRB | H&R Block | +29,3 pts | 6 → 13 | ✓ | ✓ | −7 % |
 | ABNB | Airbnb | +27,0 pts | 7 → 14 | ✓ | ✓ | −8 % |
 | GRMN | Garmin | +24,8 pts | 8 → 74 ▼ | ✓ | ✓ | −5 % |
-| DDS | Dillard's | +23,7 pts | 9 → 30 | · | · | +0 % |
+| DDS | Dillard's | +23,7 pts | 9 → 30 | ✓ | ✓ | +0 % |
 | LOPE | Grand Canyon Education | +22,5 pts | 10 → 35 ▼ | ✓ | · | −25 % |
 | TSCO | Tractor Supply Company | +20,6 pts | 11 → 47 ▼ | ✓ | · | −37 % |
 | DUOL | Duolingo | +19,8 pts | 12 → 98 ▼ | · | · | −55 % |
@@ -1163,4 +1163,4 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 - **Un secteur en rotation n'est pas un achat.** C'est un endroit où chercher : croiser avec les screeners et setups du marché.
 
 ---
-*Dernière séance : 22/10/2026. Généré le 22/10/2026 23:15 UTC. Travail d'analyse quantitative, sans valeur de conseil en investissement.*
+*Dernière séance : 22/10/2026. Généré le 23/10/2026 07:48 UTC. Travail d'analyse quantitative, sans valeur de conseil en investissement.*
