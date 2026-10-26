@@ -56,7 +56,7 @@ _155 titres dans le secteur ; les 15 plus faibles — à surveiller si tu en dé
 | EVR | Evercore | −23,0 pts | 152 → 119 ▲ | · | · | −34 % |
 | FIGR | Figure Technology Solutions | −19,1 pts | 151 → 153 | · | · | −69 % |
 | STWD | Starwood Property Trust | −18,7 pts | 150 → 144 | · | · | −27 % |
-| SLM | Sallie Mae | −17,8 pts | 149 → 149 | · | · | −36 % |
+| SLM | Sallie Mae | −17,7 pts | 149 → 149 | · | · | −36 % |
 | JEF | Jefferies Financial Group | −17,3 pts | 148 → 125 | · | · | −31 % |
 | GS | Goldman Sachs | −16,6 pts | 147 → 134 | · | · | −24 % |
 | AGO | Assured Guaranty | −15,5 pts | 146 → 86 ▲ | · | · | −24 % |
@@ -88,7 +88,7 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | AVTR | Avantor | +53,9 pts | 7 → 14 | ✓ | ✓ | +0 % |
 | CRL | Charles River Laboratories | +52,2 pts | 8 → 4 | ✓ | ✓ | +0 % |
 | TEM | Tempus AI | +48,5 pts | 9 → 100 ▼ | · | · | −26 % |
-| RVTY | Revvity | +41,8 pts | 10 → 49 ▼ | ✓ | ✓ | +0 % |
+| RVTY | Revvity | +41,9 pts | 10 → 49 ▼ | ✓ | ✓ | +0 % |
 | ILMN | Illumina, Inc. | +38,4 pts | 11 → 79 ▼ | ✓ | ✓ | −8 % |
 | ISRG | Intuitive Surgical | +37,8 pts | 12 → 12 | ✓ | · | −24 % |
 | THC | Tenet Healthcare | +36,4 pts | 13 → 41 ▼ | ✓ | ✓ | −4 % |
@@ -312,7 +312,7 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | DDOG | Datadog | +11,9 pts | 76 → 55 | ✓ | ✓ | −8 % |
 | OLED | Universal Display Corporation | +11,8 pts | 77 → 19 ▲ | ✓ | · | −41 % |
 | MRVL | Marvell Technology | +10,7 pts | 78 → 107 | · | · | −28 % |
-| AAPL | Apple Inc. | +9,7 pts | 79 → 59 | ✓ | ✓ | −0 % |
+| AAPL | Apple Inc. | +9,8 pts | 79 → 59 | ✓ | ✓ | −0 % |
 | SMCI | Supermicro | +7,1 pts | 80 → 130 ▼ | · | · | −37 % |
 | ORCL | Oracle Corporation | +7,0 pts | 81 → 98 | · | · | −55 % |
 | GSAT | Globalstar | +5,8 pts | 82 → 72 | · | · | −2 % |
@@ -403,7 +403,7 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | ELF | e.l.f. Beauty | +51,6 pts | 1 → 8 | ✓ | ✓ | −13 % |
 | EL | Estée Lauder Companies (The) | +38,0 pts | 2 → 7 | ✓ | ✓ | −8 % |
 | CART | Maplebear Inc. | +34,3 pts | 3 → 1 | ✓ | ✓ | +0 % |
-| ACI | Albertsons | +25,4 pts | 4 → 4 | ✓ | · | −24 % |
+| ACI | Albertsons | +27,0 pts | 4 → 4 | ✓ | · | −23 % |
 | KR | Kroger | +22,1 pts | 5 → 10 | ✓ | · | −11 % |
 | KDP | Keurig Dr Pepper | +19,3 pts | 6 → 12 | ✓ | ✓ | −1 % |
 | BJ | BJ's Wholesale Club | +17,5 pts | 7 → 6 | ✓ | ✓ | −1 % |
@@ -411,21 +411,21 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | BF-B | Brown–Forman(Class B) | +17,0 pts | 9 → 13 | ✓ | ✓ | −3 % |
 | KO | Coca-Cola Company (The) | +16,5 pts | 10 → 37 ▼ | ✓ | ✓ | −3 % |
 | TGT | Target Corporation | +16,0 pts | 11 → 54 ▼ | · | · | −10 % |
-| COKE | Coca-Cola Consolidated | +15,6 pts | 12 → 30 ▼ | ✓ | ✓ | −6 % |
+| COKE | Coca-Cola Consolidated | +15,8 pts | 12 → 30 ▼ | ✓ | ✓ | −6 % |
 | SJM | J.M. Smucker Company (The) | +14,9 pts | 13 → 31 ▼ | ✓ | ✓ | −3 % |
 | FRPT | Freshpet | +14,7 pts | 14 → 22 | · | · | −25 % |
-| WMT | Walmart | +12,4 pts | 15 → 15 | ✓ | · | −10 % |
-| PG | Procter & Gamble | +11,9 pts | 16 → 19 | ✓ | ✓ | −3 % |
+| PG | Procter & Gamble | +12,7 pts | 15 → 16 | ✓ | ✓ | −2 % |
+| WMT | Walmart | +12,4 pts | 16 → 15 | ✓ | · | −10 % |
 | LW | Lamb Weston | +11,8 pts | 17 → 3 ▲ | ✓ | ✓ | −17 % |
 | CHD | Church & Dwight | +11,2 pts | 18 → 21 | ✓ | ✓ | −3 % |
 | COST | Costco | +10,1 pts | 19 → 14 | ✓ | · | −8 % |
 | STZ | Constellation Brands | +9,7 pts | 20 → 2 ▲ | ✓ | · | −16 % |
 | MDLZ | Mondelez International | +8,7 pts | 21 → 35 ▼ | ✓ | ✓ | −2 % |
 | DLTR | Dollar Tree | +8,1 pts | 22 → 20 | ✓ | ✓ | −11 % |
-| KVUE | Kenvue | +7,5 pts | 23 → 16 | ✓ | ✓ | −2 % |
+| KVUE | Kenvue | +7,5 pts | 23 → 17 | ✓ | ✓ | −2 % |
 | USFD | US Foods | +7,1 pts | 24 → 29 | ✓ | ✓ | −9 % |
 | PM | Philip Morris International | +6,8 pts | 25 → 38 ▼ | ✓ | ✓ | −3 % |
-| CL | Colgate-Palmolive | +6,5 pts | 26 → 18 | ✓ | ✓ | −3 % |
+| CL | Colgate-Palmolive | +6,5 pts | 26 → 19 | ✓ | ✓ | −3 % |
 | CELH | Celsius Holdings | +6,3 pts | 27 → 49 ▼ | · | · | −55 % |
 | MO | Altria | +6,3 pts | 28 → 27 | ✓ | ✓ | −2 % |
 | CAG | Conagra Brands | +6,1 pts | 29 → 46 ▼ | ✓ | · | −23 % |
@@ -433,7 +433,7 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | KMB | Kimberly-Clark | +5,4 pts | 31 → 11 ▲ | ✓ | ✓ | −4 % |
 | JBS | JBS N.V. | +3,9 pts | 32 → 23 | · | · | −27 % |
 | PEP | PepsiCo | +3,2 pts | 33 → 33 | ✓ | · | −18 % |
-| TSN | Tyson Foods | +2,4 pts | 34 → 17 ▲ | ✓ | · | −16 % |
+| TSN | Tyson Foods | +2,4 pts | 34 → 18 ▲ | ✓ | · | −16 % |
 | PPC | Pilgrim's Pride | +2,3 pts | 35 → 42 | · | · | −36 % |
 | SYY | Sysco | +1,8 pts | 36 → 40 | ✓ | ✓ | −9 % |
 | KHC | Kraft Heinz | +0,9 pts | 37 → 41 | ✓ | ✓ | −9 % |
@@ -665,7 +665,7 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | AGO | Assured Guaranty | −15,5 pts | 146 → 86 ▲ | · | · | −24 % |
 | GS | Goldman Sachs | −16,6 pts | 147 → 134 | · | · | −24 % |
 | JEF | Jefferies Financial Group | −17,3 pts | 148 → 125 | · | · | −31 % |
-| SLM | Sallie Mae | −17,8 pts | 149 → 149 | · | · | −36 % |
+| SLM | Sallie Mae | −17,7 pts | 149 → 149 | · | · | −36 % |
 | STWD | Starwood Property Trust | −18,7 pts | 150 → 144 | · | · | −27 % |
 | FIGR | Figure Technology Solutions | −19,1 pts | 151 → 153 | · | · | −69 % |
 | EVR | Evercore | −23,0 pts | 152 → 119 ▲ | · | · | −34 % |
@@ -1039,7 +1039,7 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | JCI | Johnson Controls | +2,3 pts | 51 → 99 ▼ | · | · | −9 % |
 | ITW | Illinois Tool Works | +1,8 pts | 52 → 81 | ✓ | ✓ | −7 % |
 | FCN | FTI Consulting | +1,4 pts | 53 → 6 ▲ | ✓ | · | −16 % |
-| APG | APi Group | +1,3 pts | 54 → 61 | · | · | −20 % |
+| APG | APi Group | +1,3 pts | 54 → 62 | · | · | −20 % |
 | AME | Ametek | +1,2 pts | 55 → 116 ▼ | · | · | −7 % |
 | FERG | Ferguson Enterprises | +1,1 pts | 56 → 71 | ✓ | · | −15 % |
 | FTV | Fortive | +1,1 pts | 57 → 38 | ✓ | · | −6 % |
@@ -1071,7 +1071,7 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | AIT | Applied Industrial Technologies | −6,2 pts | 83 → 126 ▼ | · | · | −12 % |
 | GXO | GXO Logistics | −6,3 pts | 84 → 35 ▲ | ✓ | · | −26 % |
 | HUBB | Hubbell Incorporated | −6,4 pts | 85 → 122 | · | · | −19 % |
-| GD | General Dynamics | −6,5 pts | 86 → 60 | · | · | −11 % |
+| GD | General Dynamics | −6,5 pts | 86 → 61 | · | · | −11 % |
 | RTX | RTX Corporation | −6,8 pts | 87 → 84 | · | · | −15 % |
 | WAB | Wabtec | −7,0 pts | 88 → 133 ▼ | · | · | −11 % |
 | HEI-A | HEICO(Class A) | −7,3 pts | 89 → 100 | · | · | −18 % |
@@ -1081,12 +1081,12 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | WSO | Watsco | −7,7 pts | 93 → 82 | ✓ | · | −28 % |
 | AGCO | AGCO | −7,7 pts | 94 → 148 ▼ | · | · | −24 % |
 | MSM | MSC Industrial Direct | −8,0 pts | 95 → 130 | · | · | −14 % |
-| HON | Honeywell Technologies | −8,4 pts | 96 → 59 | ✓ | · | −14 % |
+| HON | Honeywell Technologies | −8,4 pts | 96 → 60 | ✓ | · | −14 % |
 | BA | Boeing | −8,4 pts | 97 → 124 | · | · | −25 % |
 | UPS | United Parcel Service | −8,5 pts | 98 → 34 ▲ | ✓ | · | −13 % |
-| ACM | AECOM | −8,6 pts | 99 → 64 | · | · | −54 % |
-| PH | Parker Hannifin | −8,9 pts | 100 → 150 ▼ | · | · | −18 % |
-| PNR | Pentair | −9,0 pts | 101 → 62 ▲ | · | · | −49 % |
+| PNR | Pentair | −8,5 pts | 99 → 57 ▲ | · | · | −49 % |
+| ACM | AECOM | −8,6 pts | 100 → 64 | · | · | −54 % |
+| PH | Parker Hannifin | −8,9 pts | 101 → 150 ▼ | · | · | −18 % |
 | AAL | American Airlines Group | −9,1 pts | 102 → 149 ▼ | · | · | −33 % |
 | KEX | Kirby Corporation | −9,1 pts | 103 → 79 | · | · | −13 % |
 | VMI | Valmont Industries | −9,3 pts | 104 → 135 | · | · | −25 % |
@@ -1104,7 +1104,7 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | OSK | Oshkosh Corporation | −11,5 pts | 116 → 88 | · | · | −25 % |
 | FBIN | Fortune Brands Innovations | −11,6 pts | 117 → 21 ▲ | ✓ | · | −32 % |
 | GGG | Graco Inc. | −12,0 pts | 118 → 160 ▼ | · | · | −29 % |
-| MIDD | Middleby | −12,2 pts | 119 → 57 ▲ | ✓ | · | −22 % |
+| MIDD | Middleby | −12,2 pts | 119 → 58 ▲ | ✓ | · | −22 % |
 | MLI | Mueller Industries | −12,5 pts | 120 → 151 | · | · | −23 % |
 | XPO | XPO, Inc. | −12,9 pts | 121 → 63 ▲ | · | · | −20 % |
 | AXON | Axon Enterprise | −13,0 pts | 122 → 128 | · | · | −45 % |
@@ -1126,10 +1126,10 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | BLDR | Builders FirstSource | −17,9 pts | 138 → 112 | · | · | −56 % |
 | ESAB | ESAB | −18,3 pts | 139 → 101 ▲ | · | · | −50 % |
 | LSTR | Landstar | −18,5 pts | 140 → 94 ▲ | · | · | −26 % |
-| ODFL | Old Dominion Freight Line | −19,1 pts | 141 → 58 ▲ | · | · | −26 % |
+| ODFL | Old Dominion Freight Line | −19,1 pts | 141 → 59 ▲ | · | · | −26 % |
 | RBC | RBC Bearings | −19,2 pts | 142 → 134 | · | · | −27 % |
-| NVT | nVent Electric | −19,4 pts | 143 → 181 ▼ | · | · | −32 % |
-| GEV | GE Vernova | −19,4 pts | 144 → 166 | · | · | −31 % |
+| NVT | nVent Electric | −19,2 pts | 143 → 181 ▼ | · | · | −32 % |
+| GEV | GE Vernova | −19,4 pts | 144 → 167 | · | · | −31 % |
 | UHAL-B | U-Haul(Series N) | −19,8 pts | 145 → 143 | · | · | −25 % |
 | ATI | ATI Inc. | −19,9 pts | 146 → 170 | · | · | −32 % |
 | JBHT | J. B. Hunt | −20,2 pts | 147 → 103 ▲ | · | · | −24 % |
@@ -1154,7 +1154,7 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | BWXT | BWX Technologies | −26,3 pts | 166 → 145 | · | · | −46 % |
 | PRIM | Primoris Services Corporation | −26,6 pts | 167 → 152 | · | · | −68 % |
 | DRS | Leonardo DRS | −26,6 pts | 168 → 144 | · | · | −30 % |
-| MWH | SOLV Energy | −27,0 pts | 169 → 167 | · | · | — % |
+| MWH | SOLV Energy | −27,0 pts | 169 → 166 | · | · | — % |
 | FTAI | FTAI Aviation | −27,1 pts | 170 → 157 | · | · | −50 % |
 | FDXF | FedEx Freight | −27,4 pts | 171 → 117 ▲ | · | · | — % |
 | LII | Lennox International | −28,3 pts | 172 → 74 ▲ | ✓ | · | −34 % |
@@ -1188,4 +1188,4 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 - **Un secteur en rotation n'est pas un achat.** C'est un endroit où chercher : croiser avec les screeners et setups du marché.
 
 ---
-*Dernière séance : 23/10/2026. Généré le 23/10/2026 23:07 UTC. Travail d'analyse quantitative, sans valeur de conseil en investissement.*
+*Dernière séance : 23/10/2026. Généré le 26/10/2026 08:38 UTC. Travail d'analyse quantitative, sans valeur de conseil en investissement.*
