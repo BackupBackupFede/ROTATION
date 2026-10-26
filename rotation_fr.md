@@ -6,22 +6,22 @@ Classement des 10 secteurs — Euronext Paris + Growth, industries ICB — **à 
 
 - Aucun nouveau signal. C'est le cas normal la plupart des semaines.
 
-Largeur du marché : **34 %** des titres au-dessus de leur MM50.
+Largeur du marché : **32 %** des titres au-dessus de leur MM50.
 
 ## Classement
 
 | Rang | Il y a 8 sem. | Secteur | RS 13 sem. | % > MM50 | Δ 8 sem. | % plus haut 52 s. | Statut |
 |---:|---:|---|---:|---:|---:|---:|---|
-| 1 | 1 | Énergie | +22,5 % | 62 % | −12 pts | 0 % | LEADER |
-| 2 | 9 ▲ | Technologie | +5,9 % | 47 % | −5 pts | 5 % | LEADER |
-| 3 | 4 ▲ | Conso. de base | +4,2 % | 50 % | +17 pts | 0 % | LEADER |
-| 4 | 8 ▲ | Matériaux de base | +0,6 % | 40 % | +0 pts | 0 % |  |
-| 5 | 6 ▲ | Industrie | +0,2 % | 27 % | −3 pts | 3 % |  |
-| 6 | 3 ▼ | Finance | −0,2 % | 31 % | −46 pts | 0 % |  |
-| 7 | 2 ▼ | Santé | −1,8 % | 35 % | −8 pts | 4 % |  |
-| 8 | 7 ▼ | Conso. discrétionnaire | −2,9 % | 31 % | −8 pts | 3 % |  |
-| 9 | 5 ▼ | Immobilier | −10,1 % | 0 % | −22 pts | 0 % |  |
-| 10 | 10 | Services publics | −14,6 % | 33 % | +33 pts | 0 % |  |
+| 1 | 1 | Énergie | +22,3 % | 50 % | −25 pts | 0 % | LEADER |
+| 2 | 9 ▲ | Technologie | +7,1 % | 53 % | +0 pts | 5 % | LEADER |
+| 3 | 4 ▲ | Conso. de base | +3,4 % | 50 % | +17 pts | 0 % | LEADER |
+| 4 | 8 ▲ | Matériaux de base | +0,8 % | 40 % | +0 pts | 0 % |  |
+| 5 | 6 ▲ | Industrie | +0,3 % | 24 % | −6 pts | 6 % |  |
+| 6 | 3 ▼ | Finance | −0,3 % | 31 % | −46 pts | 0 % |  |
+| 7 | 2 ▼ | Santé | −1,7 % | 35 % | −8 pts | 4 % |  |
+| 8 | 7 ▼ | Conso. discrétionnaire | −3,3 % | 28 % | −11 pts | 6 % |  |
+| 9 | 5 ▼ | Immobilier | −10,5 % | 0 % | −22 pts | 0 % |  |
+| 10 | 10 | Services publics | −14,9 % | 33 % | +33 pts | 0 % |  |
 
 ## Signaux des 12 derniers mois
 
@@ -49,14 +49,14 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 
 | Ticker | Société | Perf. 13 sem. vs marché | Rang secteur 3 m → 1 m | > MM50 | MM50 > MM200 | Vs plus haut 52 s. |
 |---|---|---:|:---:|:---:|:---:|---:|
-| ALHAF.PA | HAFFNER ENERGY | +186,5 pts | 1 → 6 ▼ | ✓ | ✓ | −18 % |
-| TTE.PA | TOTALENERGIES | +22,9 pts | 2 → 2 | ✓ | ✓ | −0 % |
-| NAE.PA | North Atlantic En. | +22,7 pts | 3 → 8 ▼ | · | · | −33 % |
-| VIRI.PA | VIRIDIEN | +19,8 pts | 4 → 3 | ✓ | · | −40 % |
-| MAU.PA | MAUREL ET PROM | +13,3 pts | 5 → 4 | ✓ | · | −26 % |
-| GTT.PA | GTT | +1,4 pts | 6 → 7 | · | · | −23 % |
-| TE.PA | TECHNIP ENERGIES | −0,7 pts | 7 → 1 ▲ | ✓ | · | −23 % |
-| VK.PA | VALLOUREC | −6,9 pts | 8 → 5 ▲ | · | · | −34 % |
+| ALHAF.PA | HAFFNER ENERGY | +192,9 pts | 1 → 6 ▼ | ✓ | ✓ | −16 % |
+| TTE.PA | TOTALENERGIES | +21,5 pts | 2 → 2 | ✓ | ✓ | −1 % |
+| NAE.PA | North Atlantic En. | +20,8 pts | 3 → 8 ▼ | · | · | −34 % |
+| VIRI.PA | VIRIDIEN | +20,5 pts | 4 → 3 | ✓ | · | −39 % |
+| MAU.PA | MAUREL ET PROM | +12,2 pts | 5 → 4 | · | · | −26 % |
+| GTT.PA | GTT | +1,2 pts | 6 → 7 | · | · | −22 % |
+| TE.PA | TECHNIP ENERGIES | −1,3 pts | 7 → 1 ▲ | ✓ | · | −23 % |
+| VK.PA | VALLOUREC | −7,0 pts | 8 → 5 ▲ | · | · | −33 % |
 
 </details>
 
@@ -65,25 +65,25 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 
 | Ticker | Société | Perf. 13 sem. vs marché | Rang secteur 3 m → 1 m | > MM50 | MM50 > MM200 | Vs plus haut 52 s. |
 |---|---|---:|:---:|:---:|:---:|---:|
-| ATE.PA | ALTEN | +51,0 pts | 1 → 2 | ✓ | ✓ | +0 % |
-| CAP.PA | CAPGEMINI | +40,2 pts | 2 → 1 | ✓ | ✓ | −16 % |
-| PLNW.PA | PLANISWARE | +35,7 pts | 3 → 5 | ✓ | ✓ | −3 % |
-| QDT.PA | QUADIENT | +31,7 pts | 4 → 3 | ✓ | ✓ | −4 % |
-| LSS.PA | LECTRA | +30,1 pts | 5 → 9 ▼ | ✓ | ✓ | −10 % |
-| DSY.PA | DASSAULT SYSTEMES | +28,8 pts | 6 → 4 | ✓ | ✓ | −0 % |
-| ALCPB.PA | CAPITAL B | +25,4 pts | 7 → 10 | ✓ | · | −45 % |
-| SOP.PA | SOPRA STERIA GROUP | +21,5 pts | 8 → 6 | ✓ | ✓ | −6 % |
-| SOI.PA | SOITEC | +14,1 pts | 9 → 14 ▼ | · | · | −42 % |
-| AL2SI.PA | 2CRSI | +8,9 pts | 10 → 12 | · | · | −54 % |
-| AUB.PA | AUBAY | −1,4 pts | 11 → 11 | · | · | −18 % |
-| ALSEM.PA | SEMCO TECHNOLOGIES | −2,7 pts | 12 → 15 | · | · | −36 % |
-| STMPA.PA | STMICROELECTRONICS | −4,6 pts | 13 → 13 | · | · | −43 % |
-| OVH.PA | OVH | −9,4 pts | 14 → 17 | · | · | −31 % |
-| WAVE.PA | WAVESTONE | −9,5 pts | 15 → 8 ▲ | ✓ | · | −47 % |
-| ATO.PA | ATOS GROUP | −11,0 pts | 16 → 7 ▲ | · | · | −59 % |
-| XFAB.PA | X-FAB | −16,5 pts | 17 → 16 | · | · | −59 % |
-| ALRIB.PA | RIBER | −30,9 pts | 18 → 19 | · | · | −65 % |
-| ALKAL.PA | KALRAY | −43,4 pts | 19 → 18 | · | · | −75 % |
+| ATE.PA | ALTEN | +53,1 pts | 1 → 2 | ✓ | ✓ | +0 % |
+| CAP.PA | CAPGEMINI | +40,9 pts | 2 → 1 | ✓ | ✓ | −15 % |
+| PLNW.PA | PLANISWARE | +34,8 pts | 3 → 7 ▼ | ✓ | ✓ | −3 % |
+| QDT.PA | QUADIENT | +31,9 pts | 4 → 3 | ✓ | ✓ | −4 % |
+| LSS.PA | LECTRA | +30,9 pts | 5 → 9 ▼ | ✓ | ✓ | −9 % |
+| DSY.PA | DASSAULT SYSTEMES | +28,3 pts | 6 → 4 | ✓ | ✓ | −0 % |
+| ALCPB.PA | CAPITAL B | +25,2 pts | 7 → 10 | ✓ | · | −44 % |
+| SOP.PA | SOPRA STERIA GROUP | +22,3 pts | 8 → 6 | ✓ | ✓ | −5 % |
+| SOI.PA | SOITEC | +16,3 pts | 9 → 14 ▼ | · | · | −40 % |
+| AL2SI.PA | 2CRSI | +9,3 pts | 10 → 12 | · | · | −54 % |
+| AUB.PA | AUBAY | −1,4 pts | 11 → 11 | · | · | −17 % |
+| ALSEM.PA | SEMCO TECHNOLOGIES | −2,3 pts | 12 → 16 ▼ | · | · | −36 % |
+| STMPA.PA | STMICROELECTRONICS | −3,2 pts | 13 → 13 | · | · | −42 % |
+| ATO.PA | ATOS GROUP | −7,3 pts | 14 → 5 ▲ | ✓ | · | −57 % |
+| OVH.PA | OVH | −9,2 pts | 15 → 17 | · | · | −30 % |
+| WAVE.PA | WAVESTONE | −9,9 pts | 16 → 8 ▲ | ✓ | · | −47 % |
+| XFAB.PA | X-FAB | −13,7 pts | 17 → 15 | · | · | −57 % |
+| ALRIB.PA | RIBER | −29,6 pts | 18 → 19 | · | · | −64 % |
+| ALKAL.PA | KALRAY | −43,1 pts | 19 → 18 | · | · | −75 % |
 
 </details>
 
@@ -92,12 +92,12 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 
 | Ticker | Société | Perf. 13 sem. vs marché | Rang secteur 3 m → 1 m | > MM50 | MM50 > MM200 | Vs plus haut 52 s. |
 |---|---|---:|:---:|:---:|:---:|---:|
-| RCO.PA | REMY COINTREAU | +23,9 pts | 1 → 1 | ✓ | ✓ | −1 % |
-| BB.PA | BIC | +18,3 pts | 2 → 4 ▼ | · | · | −4 % |
-| RI.PA | PERNOD RICARD | +13,4 pts | 3 → 2 | ✓ | · | −20 % |
-| LOUP.PA | LDC | +1,9 pts | 4 → 5 | · | · | −15 % |
-| BN.PA | DANONE | −2,5 pts | 5 → 3 ▲ | ✓ | · | −19 % |
-| CA.PA | CARREFOUR | −3,8 pts | 6 → 6 | · | · | −18 % |
+| RCO.PA | REMY COINTREAU | +22,5 pts | 1 → 1 | ✓ | ✓ | −2 % |
+| BB.PA | BIC | +17,5 pts | 2 → 4 ▼ | · | · | −4 % |
+| RI.PA | PERNOD RICARD | +12,8 pts | 3 → 2 | ✓ | · | −20 % |
+| LOUP.PA | LDC | +1,4 pts | 4 → 5 | · | · | −15 % |
+| BN.PA | DANONE | −3,7 pts | 5 → 3 ▲ | ✓ | · | −20 % |
+| CA.PA | CARREFOUR | −4,5 pts | 6 → 6 | · | · | −18 % |
 
 </details>
 
@@ -106,11 +106,11 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 
 | Ticker | Société | Perf. 13 sem. vs marché | Rang secteur 3 m → 1 m | > MM50 | MM50 > MM200 | Vs plus haut 52 s. |
 |---|---|---:|:---:|:---:|:---:|---:|
-| NK.PA | IMERYS | +10,0 pts | 1 → 3 ▼ | · | · | −21 % |
-| AI.PA | AIR LIQUIDE | +8,0 pts | 2 → 2 | ✓ | ✓ | −3 % |
-| RBT.PA | ROBERTET | +7,7 pts | 3 → 1 ▲ | ✓ | · | −13 % |
-| AKE.PA | ARKEMA | +7,2 pts | 4 → 4 | · | · | −14 % |
-| ERA.PA | ERAMET | −7,9 pts | 5 → 5 | · | · | −60 % |
+| NK.PA | IMERYS | +10,6 pts | 1 → 4 ▼ | · | · | −20 % |
+| AKE.PA | ARKEMA | +7,9 pts | 2 → 3 | · | · | −13 % |
+| RBT.PA | ROBERTET | +7,8 pts | 3 → 1 ▲ | ✓ | · | −12 % |
+| AI.PA | AIR LIQUIDE | +7,6 pts | 4 → 2 ▲ | ✓ | ✓ | −3 % |
+| ERA.PA | ERAMET | −8,3 pts | 5 → 5 | · | · | −60 % |
 
 </details>
 
@@ -119,39 +119,39 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 
 | Ticker | Société | Perf. 13 sem. vs marché | Rang secteur 3 m → 1 m | > MM50 | MM50 > MM200 | Vs plus haut 52 s. |
 |---|---|---:|:---:|:---:|:---:|---:|
-| TEP.PA | TELEPERFORMANCE | +50,2 pts | 1 → 2 | ✓ | ✓ | −0 % |
-| ALDBT.PA | DBT | +43,3 pts | 2 → 29 ▼ | · | · | −77 % |
-| BVI.PA | BUREAU VERITAS | +17,5 pts | 3 → 4 | ✓ | ✓ | −0 % |
-| PLX.PA | PLUXEE | +17,1 pts | 4 → 8 | · | · | −12 % |
-| WLN.PA | WORLDLINE | +16,7 pts | 5 → 26 ▼ | · | · | −57 % |
+| TEP.PA | TELEPERFORMANCE | +51,4 pts | 1 → 1 | ✓ | ✓ | +0 % |
+| ALDBT.PA | DBT | +43,6 pts | 2 → 28 ▼ | · | · | −76 % |
+| WLN.PA | WORLDLINE | +17,2 pts | 3 → 26 ▼ | · | · | −56 % |
+| BVI.PA | BUREAU VERITAS | +17,1 pts | 4 → 4 | ✓ | ✓ | −0 % |
+| PLX.PA | PLUXEE | +15,6 pts | 5 → 9 | · | · | −13 % |
 | GET.PA | GETLINK SE | +15,1 pts | 6 → 5 | ✓ | ✓ | +0 % |
-| IDL.PA | ID LOGISTICS GROUP | +11,7 pts | 7 → 1 | ✓ | · | −17 % |
-| MRN.PA | MERSEN | +10,5 pts | 8 → 28 ▼ | · | · | −19 % |
-| EXA.PA | EXAIL TECHNOLOGIES | +10,4 pts | 9 → 11 | ✓ | ✓ | −16 % |
-| ALO.PA | ALSTOM | +9,3 pts | 10 → 3 ▲ | ✓ | · | −46 % |
-| ADP.PA | ADP | +8,8 pts | 11 → 14 | ✓ | ✓ | −15 % |
-| AM.PA | DASSAULT AVIATION | +8,3 pts | 12 → 6 | ✓ | · | −13 % |
-| VCT.PA | VICAT | +5,8 pts | 13 → 17 | · | · | −26 % |
-| VRLA.PA | VERALLIA | +5,5 pts | 14 → 7 ▲ | ✓ | · | −20 % |
-| EDEN.PA | EDENRED | +5,4 pts | 15 → 21 | · | · | −15 % |
-| VU.PA | Vusion | +4,5 pts | 16 → 12 | · | · | −48 % |
-| LR.PA | LEGRAND | +4,4 pts | 17 → 23 | · | · | −21 % |
-| HO.PA | THALES | +3,5 pts | 18 → 13 | · | · | −16 % |
-| AIR.PA | AIRBUS | +2,7 pts | 19 → 10 ▲ | · | · | −10 % |
-| DG.PA | VINCI | +1,9 pts | 20 → 15 | · | · | −21 % |
-| FII.PA | LISI | +1,5 pts | 21 → 16 | · | · | −16 % |
-| EXENS.PA | EXOSENS | +1,4 pts | 22 → 24 | · | · | −21 % |
-| SGO.PA | SAINT GOBAIN | −0,1 pts | 23 → 18 | · | · | −23 % |
-| RXL.PA | REXEL | −1,0 pts | 24 → 25 | · | · | −16 % |
-| ELIS.PA | ELIS | −1,8 pts | 25 → 9 ▲ | · | · | −20 % |
-| NEX.PA | NEXANS | −2,1 pts | 26 → 30 | · | · | −30 % |
-| SU.PA | SCHNEIDER ELECTRIC | −2,5 pts | 27 → 32 | · | · | −25 % |
-| EN.PA | BOUYGUES | −3,8 pts | 28 → 20 ▲ | · | · | −23 % |
-| SPIE.PA | SPIE | −4,5 pts | 29 → 19 ▲ | · | · | −21 % |
-| SAF.PA | SAFRAN | −8,0 pts | 30 → 31 | · | · | −24 % |
-| FGR.PA | EIFFAGE | −8,7 pts | 31 → 22 ▲ | · | · | −30 % |
-| THEP.PA | THERMADOR GROUPE | −12,0 pts | 32 → 27 | · | · | −26 % |
-| ALSTI.PA | STIF | −63,0 pts | 33 → 33 | · | · | −78 % |
+| MRN.PA | MERSEN | +12,3 pts | 7 → 27 ▼ | · | · | −17 % |
+| IDL.PA | ID LOGISTICS GROUP | +11,9 pts | 8 → 2 | ✓ | · | −16 % |
+| EXA.PA | EXAIL TECHNOLOGIES | +9,9 pts | 9 → 12 | ✓ | ✓ | −16 % |
+| ALO.PA | ALSTOM | +9,4 pts | 10 → 3 ▲ | ✓ | · | −45 % |
+| AM.PA | DASSAULT AVIATION | +8,0 pts | 11 → 6 | ✓ | · | −13 % |
+| ADP.PA | ADP | +7,9 pts | 12 → 16 | · | · | −15 % |
+| LR.PA | LEGRAND | +5,4 pts | 13 → 22 ▼ | · | · | −19 % |
+| VCT.PA | VICAT | +5,2 pts | 14 → 17 | · | · | −26 % |
+| EDEN.PA | EDENRED | +4,4 pts | 15 → 24 ▼ | · | · | −16 % |
+| VRLA.PA | VERALLIA | +4,3 pts | 16 → 7 ▲ | · | · | −21 % |
+| HO.PA | THALES | +4,0 pts | 17 → 11 | · | · | −15 % |
+| VU.PA | Vusion | +3,8 pts | 18 → 13 | · | · | −48 % |
+| EXENS.PA | EXOSENS | +2,4 pts | 19 → 23 | ✓ | · | −19 % |
+| AIR.PA | AIRBUS | +2,2 pts | 20 → 8 ▲ | · | · | −10 % |
+| FII.PA | LISI | +1,8 pts | 21 → 14 ▲ | · | · | −15 % |
+| DG.PA | VINCI | +1,6 pts | 22 → 15 ▲ | · | · | −21 % |
+| RXL.PA | REXEL | +0,0 pts | 23 → 25 | · | · | −14 % |
+| SGO.PA | SAINT GOBAIN | −0,5 pts | 24 → 18 | · | · | −23 % |
+| NEX.PA | NEXANS | −0,9 pts | 25 → 30 | · | · | −29 % |
+| SU.PA | SCHNEIDER ELECTRIC | −2,3 pts | 26 → 31 | · | · | −24 % |
+| ELIS.PA | ELIS | −2,7 pts | 27 → 10 ▲ | · | · | −21 % |
+| EN.PA | BOUYGUES | −4,1 pts | 28 → 20 ▲ | · | · | −23 % |
+| SPIE.PA | SPIE | −5,1 pts | 29 → 19 ▲ | · | · | −21 % |
+| FGR.PA | EIFFAGE | −8,5 pts | 30 → 21 ▲ | · | · | −29 % |
+| SAF.PA | SAFRAN | −9,6 pts | 31 → 32 | · | · | −25 % |
+| THEP.PA | THERMADOR GROUPE | −12,3 pts | 32 → 29 | · | · | −26 % |
+| ALSTI.PA | STIF | −63,9 pts | 33 → 33 | · | · | −79 % |
 
 </details>
 
@@ -160,19 +160,19 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 
 | Ticker | Société | Perf. 13 sem. vs marché | Rang secteur 3 m → 1 m | > MM50 | MM50 > MM200 | Vs plus haut 52 s. |
 |---|---|---:|:---:|:---:|:---:|---:|
-| ENX.PA | EURONEXT | +26,8 pts | 1 → 1 | ✓ | ✓ | −0 % |
-| RF.PA | EURAZEO | +11,9 pts | 2 → 2 | ✓ | ✓ | −15 % |
-| MF.PA | WENDEL | +11,6 pts | 3 → 3 | ✓ | ✓ | −6 % |
-| AMUN.PA | AMUNDI | +9,0 pts | 4 → 7 ▼ | · | · | −10 % |
-| COFA.PA | COFACE | +7,9 pts | 5 → 9 ▼ | · | · | −12 % |
-| SCR.PA | SCOR SE | +7,9 pts | 6 → 4 | ✓ | ✓ | −4 % |
-| PEUG.PA | PEUGEOT INVEST | +5,2 pts | 7 → 5 | · | · | −30 % |
-| CS.PA | AXA | +2,7 pts | 8 → 8 | · | · | −8 % |
-| TKO.PA | TIKEHAU CAPITAL | −1,5 pts | 9 → 6 ▲ | · | · | −16 % |
-| ACA.PA | CREDIT AGRICOLE | −6,0 pts | 10 → 11 | · | · | −22 % |
-| BNP.PA | BNP PARIBAS ACT.A | −8,9 pts | 11 → 12 | · | · | −22 % |
-| GLE.PA | SOCIETE GENERALE | −11,6 pts | 12 → 13 | · | · | −27 % |
-| CNDF.PA | CRCAM NORD CCI | −12,9 pts | 13 → 10 ▲ | · | · | −38 % |
+| ENX.PA | EURONEXT | +26,0 pts | 1 → 1 | ✓ | ✓ | −0 % |
+| RF.PA | EURAZEO | +12,8 pts | 2 → 2 | ✓ | ✓ | −14 % |
+| MF.PA | WENDEL | +11,5 pts | 3 → 3 | ✓ | ✓ | −5 % |
+| AMUN.PA | AMUNDI | +9,0 pts | 4 → 6 | · | · | −9 % |
+| COFA.PA | COFACE | +7,6 pts | 5 → 9 ▼ | · | · | −11 % |
+| SCR.PA | SCOR SE | +7,0 pts | 6 → 5 | ✓ | ✓ | −4 % |
+| PEUG.PA | PEUGEOT INVEST | +5,2 pts | 7 → 4 ▲ | · | · | −30 % |
+| CS.PA | AXA | +2,7 pts | 8 → 8 | · | · | −7 % |
+| TKO.PA | TIKEHAU CAPITAL | −2,4 pts | 9 → 7 | · | · | −16 % |
+| ACA.PA | CREDIT AGRICOLE | −6,6 pts | 10 → 11 | · | · | −22 % |
+| BNP.PA | BNP PARIBAS ACT.A | −8,7 pts | 11 → 12 | · | · | −21 % |
+| GLE.PA | SOCIETE GENERALE | −11,5 pts | 12 → 13 | · | · | −26 % |
+| CNDF.PA | CRCAM NORD CCI | −12,8 pts | 13 → 10 ▲ | · | · | −37 % |
 
 </details>
 
@@ -181,32 +181,32 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 
 | Ticker | Société | Perf. 13 sem. vs marché | Rang secteur 3 m → 1 m | > MM50 | MM50 > MM200 | Vs plus haut 52 s. |
 |---|---|---:|:---:|:---:|:---:|---:|
-| ALBPS.PA | BIOPHYTIS | +139,7 pts | 1 → 25 ▼ | · | · | −73 % |
-| DIM.PA | SARTORIUS STED BIO | +38,9 pts | 2 → 14 ▼ | ✓ | ✓ | −5 % |
-| ERF.PA | EUROFINS SCIENT. | +37,2 pts | 3 → 6 | ✓ | ✓ | +0 % |
-| BIM.PA | BIOMERIEUX | +35,0 pts | 4 → 3 | ✓ | · | −22 % |
-| VETO.PA | VETOQUINOL | +22,5 pts | 5 → 7 | ✓ | · | −9 % |
-| VLA.PA | VALNEVA | +19,6 pts | 6 → 20 ▼ | · | · | −53 % |
-| EL.PA | ESSILORLUXOTTICA | +18,3 pts | 7 → 1 ▲ | ✓ | · | −43 % |
-| VIRP.PA | VIRBAC | +12,4 pts | 8 → 2 ▲ | ✓ | · | −9 % |
-| MEDCL.PA | MEDINCELL | +9,7 pts | 9 → 4 ▲ | ✓ | · | −32 % |
-| ALMDT.PA | MEDIANTECHNOLOGIES | +8,3 pts | 10 → 8 | ✓ | · | −38 % |
-| IPN.PA | IPSEN | +6,3 pts | 11 → 9 | · | · | −10 % |
-| SAN.PA | SANOFI | +5,8 pts | 12 → 10 | ✓ | · | −13 % |
-| EQS.PA | EQUASENS | −2,4 pts | 13 → 11 | · | · | −31 % |
-| LBIRD.PA | LUMIBIRD | −2,6 pts | 14 → 13 | · | · | −17 % |
-| IVA.PA | INVENTIVA | −8,8 pts | 15 → 5 ▲ | · | · | −46 % |
-| IPH.PA | INNATE PHARMA | −9,4 pts | 16 → 19 | · | · | −40 % |
-| CLARI.PA | CLARIANE | −9,9 pts | 17 → 23 ▼ | · | · | −27 % |
-| NANO.PA | NANOBIOTIX | −14,8 pts | 18 → 17 | · | · | −42 % |
-| DBV.PA | DBV TECHNOLOGIES | −18,3 pts | 19 → 21 | · | · | −59 % |
-| EMEIS.PA | EMEIS | −18,9 pts | 20 → 22 | · | · | −37 % |
-| ABVX.PA | ABIVAX | −19,6 pts | 21 → 15 ▲ | · | · | −41 % |
-| GNFT.PA | GENFIT | −25,1 pts | 22 → 12 ▲ | · | · | −39 % |
-| OSE.PA | OSE IMMUNO | −26,8 pts | 23 → 18 ▲ | · | · | −66 % |
-| ADOC.PA | ADOCIA | −27,6 pts | 24 → 16 ▲ | · | · | −73 % |
-| ALVIO.PA | VALERIO TX | −38,9 pts | 25 → 26 | · | · | −54 % |
-| ALCLS.PA | CELLECTIS | −53,1 pts | 26 → 24 | · | · | −79 % |
+| ALBPS.PA | BIOPHYTIS | +150,1 pts | 1 → 24 ▼ | · | · | −72 % |
+| DIM.PA | SARTORIUS STED BIO | +39,6 pts | 2 → 12 ▼ | ✓ | ✓ | −4 % |
+| ERF.PA | EUROFINS SCIENT. | +37,5 pts | 3 → 6 | ✓ | ✓ | +0 % |
+| BIM.PA | BIOMERIEUX | +34,9 pts | 4 → 3 | ✓ | · | −21 % |
+| VETO.PA | VETOQUINOL | +20,8 pts | 5 → 8 | ✓ | · | −10 % |
+| VLA.PA | VALNEVA | +19,9 pts | 6 → 20 ▼ | · | · | −53 % |
+| EL.PA | ESSILORLUXOTTICA | +16,6 pts | 7 → 1 ▲ | ✓ | · | −43 % |
+| VIRP.PA | VIRBAC | +12,8 pts | 8 → 2 ▲ | ✓ | · | −8 % |
+| MEDCL.PA | MEDINCELL | +10,2 pts | 9 → 4 ▲ | ✓ | · | −32 % |
+| ALMDT.PA | MEDIANTECHNOLOGIES | +7,5 pts | 10 → 7 | ✓ | · | −38 % |
+| IPN.PA | IPSEN | +5,5 pts | 11 → 9 | · | · | −10 % |
+| SAN.PA | SANOFI | +5,1 pts | 12 → 10 | ✓ | · | −13 % |
+| LBIRD.PA | LUMIBIRD | −3,3 pts | 13 → 13 | · | · | −17 % |
+| EQS.PA | EQUASENS | −3,8 pts | 14 → 11 | · | · | −31 % |
+| IPH.PA | INNATE PHARMA | −9,6 pts | 15 → 19 | · | · | −40 % |
+| IVA.PA | INVENTIVA | −9,7 pts | 16 → 5 ▲ | · | · | −47 % |
+| CLARI.PA | CLARIANE | −11,0 pts | 17 → 23 ▼ | · | · | −27 % |
+| NANO.PA | NANOBIOTIX | −12,1 pts | 18 → 17 | · | · | −40 % |
+| DBV.PA | DBV TECHNOLOGIES | −17,1 pts | 19 → 21 | · | · | −58 % |
+| EMEIS.PA | EMEIS | −18,9 pts | 20 → 22 | · | · | −36 % |
+| ABVX.PA | ABIVAX | −21,0 pts | 21 → 15 ▲ | · | · | −41 % |
+| OSE.PA | OSE IMMUNO | −26,2 pts | 22 → 18 | · | · | −66 % |
+| GNFT.PA | GENFIT | −26,4 pts | 23 → 14 ▲ | · | · | −40 % |
+| ADOC.PA | ADOCIA | −26,9 pts | 24 → 16 ▲ | · | · | −72 % |
+| ALVIO.PA | VALERIO TX | −39,9 pts | 25 → 26 | · | · | −55 % |
+| ALCLS.PA | CELLECTIS | −53,7 pts | 26 → 25 | · | · | −79 % |
 
 </details>
 
@@ -215,42 +215,42 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 
 | Ticker | Société | Perf. 13 sem. vs marché | Rang secteur 3 m → 1 m | > MM50 | MM50 > MM200 | Vs plus haut 52 s. |
 |---|---|---:|:---:|:---:|:---:|---:|
-| ITP.PA | INTERPARFUMS | +56,7 pts | 1 → 3 | ✓ | ✓ | −0 % |
-| OR.PA | L'OREAL | +26,4 pts | 2 → 2 | ✓ | ✓ | +0 % |
-| DEC.PA | JCDECAUX | +24,4 pts | 3 → 11 ▼ | ✓ | ✓ | −3 % |
-| PUB.PA | PUBLICIS GROUPE SA | +21,1 pts | 4 → 7 | ✓ | ✓ | −3 % |
-| RUI.PA | RUBIS | +17,6 pts | 5 → 8 | ✓ | ✓ | −3 % |
-| SW.PA | SODEXO | +15,3 pts | 6 → 5 | ✓ | ✓ | −0 % |
-| ALHG.PA | LOUIS HACHETTE | +14,4 pts | 7 → 9 | ✓ | ✓ | −5 % |
-| GLO.PA | GL EVENTS | +13,8 pts | 8 → 1 ▲ | ✓ | · | −8 % |
-| SK.PA | S.E.B. | +9,7 pts | 9 → 23 ▼ | · | · | −12 % |
-| RNO.PA | RENAULT | +9,4 pts | 10 → 12 | · | · | −24 % |
-| CDI.PA | CHRISTIAN DIOR | +8,8 pts | 11 → 10 | ✓ | · | −29 % |
-| AC.PA | ACCOR | +8,3 pts | 12 → 15 | · | · | −12 % |
-| BOL.PA | BOLLORE | +4,3 pts | 13 → 6 ▲ | ✓ | ✓ | −10 % |
-| FRVIA.PA | FORVIA | +3,6 pts | 14 → 21 ▼ | · | · | −45 % |
-| FDJU.PA | FDJ UNITED | +0,3 pts | 15 → 17 | · | · | −16 % |
-| ML.PA | MICHELIN | +0,0 pts | 16 → 22 | · | · | −10 % |
-| IPS.PA | IPSOS | −2,4 pts | 17 → 13 | · | · | −17 % |
-| ELIOR.PA | ELIOR GROUP | −4,4 pts | 18 → 16 | · | · | −40 % |
-| UBI.PA | UBISOFT ENTERTAIN | −4,4 pts | 19 → 32 ▼ | · | · | −42 % |
-| TRI.PA | TRIGANO | −4,6 pts | 20 → 19 | · | · | −27 % |
-| AF.PA | AIR FRANCE -KLM | −4,9 pts | 21 → 31 ▼ | · | · | −27 % |
-| MMT.PA | METROPOLE TV | −5,4 pts | 22 → 27 | · | · | −20 % |
-| TFI.PA | TF1 | −5,7 pts | 23 → 24 | · | · | −23 % |
-| SMCP.PA | SMCP | −6,0 pts | 24 → 36 ▼ | · | · | −40 % |
-| FR.PA | VALEO | −7,0 pts | 25 → 34 ▼ | · | · | −31 % |
-| MC.PA | LVMH | −7,5 pts | 26 → 18 ▲ | · | · | −40 % |
-| CDA.PA | ALPES (COMPAGNIE) | −8,9 pts | 27 → 14 ▲ | · | · | −37 % |
-| VIV.PA | VIVENDI SE | −10,4 pts | 28 → 4 ▲ | ✓ | · | −49 % |
-| AYV.PA | AYVENS | −11,1 pts | 29 → 29 | · | · | −24 % |
-| BEN.PA | BENETEAU | −12,9 pts | 30 → 25 | · | · | −43 % |
-| RMS.PA | HERMES INTL | −13,9 pts | 31 → 20 ▲ | · | · | −43 % |
-| KOF.PA | KAUFMAN ET BROAD | −14,4 pts | 32 → 26 | · | · | −36 % |
-| KER.PA | KERING | −16,2 pts | 33 → 33 | · | · | −43 % |
-| STLAP.PA | STELLANTIS NV | −16,9 pts | 34 → 28 | · | · | −65 % |
-| OPM.PA | OPMOBILITY | −18,8 pts | 35 → 35 | · | · | −46 % |
-| NXI.PA | NEXITY | −24,7 pts | 36 → 30 | · | · | −55 % |
+| ITP.PA | INTERPARFUMS | +56,9 pts | 1 → 3 | ✓ | ✓ | +0 % |
+| OR.PA | L'OREAL | +26,1 pts | 2 → 2 | ✓ | ✓ | +0 % |
+| DEC.PA | JCDECAUX | +24,0 pts | 3 → 11 ▼ | ✓ | ✓ | −3 % |
+| PUB.PA | PUBLICIS GROUPE SA | +20,8 pts | 4 → 6 | ✓ | ✓ | −3 % |
+| RUI.PA | RUBIS | +16,8 pts | 5 → 9 | ✓ | ✓ | −3 % |
+| ALHG.PA | LOUIS HACHETTE | +15,4 pts | 6 → 5 | ✓ | ✓ | −4 % |
+| SW.PA | SODEXO | +13,0 pts | 7 → 8 | ✓ | ✓ | −2 % |
+| GLO.PA | GL EVENTS | +11,6 pts | 8 → 1 ▲ | ✓ | · | −9 % |
+| RNO.PA | RENAULT | +8,9 pts | 9 → 12 | · | · | −24 % |
+| SK.PA | S.E.B. | +8,7 pts | 10 → 23 ▼ | · | · | −13 % |
+| AC.PA | ACCOR | +8,4 pts | 11 → 16 | · | · | −12 % |
+| CDI.PA | CHRISTIAN DIOR | +8,0 pts | 12 → 10 | ✓ | · | −29 % |
+| FRVIA.PA | FORVIA | +7,5 pts | 13 → 18 | · | · | −42 % |
+| BOL.PA | BOLLORE | +2,9 pts | 14 → 7 ▲ | · | · | −10 % |
+| FDJU.PA | FDJ UNITED | +0,3 pts | 15 → 17 | · | · | −15 % |
+| ML.PA | MICHELIN | −0,1 pts | 16 → 22 | · | · | −10 % |
+| IPS.PA | IPSOS | −3,1 pts | 17 → 13 | · | · | −17 % |
+| ELIOR.PA | ELIOR GROUP | −3,8 pts | 18 → 14 | · | · | −39 % |
+| AF.PA | AIR FRANCE -KLM | −4,0 pts | 19 → 29 ▼ | · | · | −26 % |
+| TRI.PA | TRIGANO | −5,0 pts | 20 → 19 | · | · | −27 % |
+| TFI.PA | TF1 | −6,1 pts | 21 → 24 | · | · | −23 % |
+| FR.PA | VALEO | −6,3 pts | 22 → 34 ▼ | · | · | −30 % |
+| MMT.PA | METROPOLE TV | −6,5 pts | 23 → 28 | · | · | −21 % |
+| UBI.PA | UBISOFT ENTERTAIN | −7,8 pts | 24 → 32 ▼ | · | · | −44 % |
+| MC.PA | LVMH | −8,1 pts | 25 → 20 | · | · | −40 % |
+| SMCP.PA | SMCP | −8,9 pts | 26 → 36 ▼ | · | · | −41 % |
+| CDA.PA | ALPES (COMPAGNIE) | −9,4 pts | 27 → 15 ▲ | · | · | −37 % |
+| VIV.PA | VIVENDI SE | −11,7 pts | 28 → 4 ▲ | ✓ | · | −50 % |
+| AYV.PA | AYVENS | −12,6 pts | 29 → 30 | · | · | −25 % |
+| RMS.PA | HERMES INTL | −14,0 pts | 30 → 21 ▲ | · | · | −42 % |
+| BEN.PA | BENETEAU | −14,4 pts | 31 → 26 | · | · | −44 % |
+| KOF.PA | KAUFMAN ET BROAD | −14,9 pts | 32 → 25 ▲ | · | · | −36 % |
+| KER.PA | KERING | −16,7 pts | 33 → 33 | · | · | −43 % |
+| STLAP.PA | STELLANTIS NV | −17,0 pts | 34 → 27 ▲ | · | · | −65 % |
+| OPM.PA | OPMOBILITY | −18,7 pts | 35 → 35 | · | · | −46 % |
+| NXI.PA | NEXITY | −25,5 pts | 36 → 31 | · | · | −56 % |
 
 </details>
 
@@ -259,15 +259,15 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 
 | Ticker | Société | Perf. 13 sem. vs marché | Rang secteur 3 m → 1 m | > MM50 | MM50 > MM200 | Vs plus haut 52 s. |
 |---|---|---:|:---:|:---:|:---:|---:|
-| LI.PA | KLEPIERRE | −0,4 pts | 1 → 5 ▼ | · | · | −12 % |
-| ARG.PA | ARGAN | −2,0 pts | 2 → 4 ▼ | · | · | −12 % |
-| CARM.PA | CARMILA | −2,4 pts | 3 → 3 | · | · | −15 % |
-| URW.PA | UNIBAIL-RODAMCO-WE | −4,2 pts | 4 → 2 ▲ | · | · | −14 % |
-| GFC.PA | GECINA | −4,7 pts | 5 → 1 ▲ | · | · | −16 % |
-| COV.PA | COVIVIO | −7,3 pts | 6 → 6 | · | · | −24 % |
-| MERY.PA | MERCIALYS | −11,4 pts | 7 → 7 | · | · | −22 % |
-| ICAD.PA | ICADE | −14,6 pts | 8 → 9 | · | · | −28 % |
-| ALTA.PA | ALTAREA | −14,9 pts | 9 → 8 | · | · | −38 % |
+| LI.PA | KLEPIERRE | −0,6 pts | 1 → 4 ▼ | · | · | −12 % |
+| CARM.PA | CARMILA | −2,6 pts | 2 → 3 | · | · | −15 % |
+| ARG.PA | ARGAN | −3,1 pts | 3 → 5 ▼ | · | · | −13 % |
+| URW.PA | UNIBAIL-RODAMCO-WE | −4,7 pts | 4 → 2 ▲ | · | · | −14 % |
+| GFC.PA | GECINA | −5,2 pts | 5 → 1 ▲ | · | · | −16 % |
+| COV.PA | COVIVIO | −8,1 pts | 6 → 6 | · | · | −24 % |
+| MERY.PA | MERCIALYS | −11,9 pts | 7 → 7 | · | · | −22 % |
+| ALTA.PA | ALTAREA | −15,5 pts | 8 → 8 | · | · | −38 % |
+| ICAD.PA | ICADE | −15,6 pts | 9 → 9 | · | · | −29 % |
 
 </details>
 
@@ -276,12 +276,12 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 
 | Ticker | Société | Perf. 13 sem. vs marché | Rang secteur 3 m → 1 m | > MM50 | MM50 > MM200 | Vs plus haut 52 s. |
 |---|---|---:|:---:|:---:|:---:|---:|
-| ODET.PA | COMPAGNIE ODET | +8,4 pts | 1 → 2 | ✓ | · | −8 % |
-| VIE.PA | VEOLIA ENVIRON. | −0,7 pts | 2 → 1 | ✓ | · | −14 % |
-| ENGI.PA | ENGIE | −4,8 pts | 3 → 3 | · | · | −18 % |
-| DBG.PA | DERICHEBOURG | −10,2 pts | 4 → 5 | · | · | −28 % |
-| VLTSA.PA | VOLTALIA | −31,4 pts | 5 → 4 | · | · | −53 % |
-| FDE.PA | FRANCAISE ENERGIE | −33,1 pts | 6 → 6 | · | · | −65 % |
+| ODET.PA | COMPAGNIE ODET | +7,7 pts | 1 → 2 | ✓ | · | −8 % |
+| VIE.PA | VEOLIA ENVIRON. | −1,3 pts | 2 → 1 | ✓ | · | −14 % |
+| ENGI.PA | ENGIE | −5,1 pts | 3 → 3 | · | · | −17 % |
+| DBG.PA | DERICHEBOURG | −10,0 pts | 4 → 4 | · | · | −27 % |
+| FDE.PA | FRANCAISE ENERGIE | −31,7 pts | 5 → 6 | · | · | −64 % |
+| VLTSA.PA | VOLTALIA | −34,3 pts | 6 → 5 | · | · | −55 % |
 
 </details>
 
@@ -293,4 +293,4 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 - **Un secteur en rotation n'est pas un achat.** C'est un endroit où chercher : croiser avec les screeners et setups du marché.
 
 ---
-*Dernière séance : 26/10/2026. Généré le 26/10/2026 08:33 UTC. Travail d'analyse quantitative, sans valeur de conseil en investissement.*
+*Dernière séance : 26/10/2026. Généré le 26/10/2026 12:12 UTC. Travail d'analyse quantitative, sans valeur de conseil en investissement.*
