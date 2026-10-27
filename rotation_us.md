@@ -665,7 +665,7 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | WFC | Wells Fargo | −1,3 pts | 82 → 100 | · | · | −13 % |
 | PB | Prosperity Bancshares | −1,5 pts | 83 → 65 | ✓ | ✓ | −7 % |
 | IVZ | Invesco | −1,7 pts | 84 → 139 ▼ | · | · | −14 % |
-| OMF | OneMain Financial | −1,7 pts | 85 → 106 | · | · | −17 % |
+| OMF | OneMain Financial | −1,7 pts | 85 → 107 | · | · | −17 % |
 | ZION | Zions Bancorporation | −1,8 pts | 86 → 63 | ✓ | ✓ | −9 % |
 | WTFC | Wintrust Financial | −2,0 pts | 87 → 61 | ✓ | · | −9 % |
 | TFC | Truist Financial | −2,2 pts | 88 → 69 | ✓ | · | −10 % |
@@ -687,8 +687,8 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | AMP | Ameriprise Financial | −4,0 pts | 104 → 92 | · | · | −14 % |
 | CACC | Credit Acceptance | −4,0 pts | 105 → 121 | · | · | −18 % |
 | TFSL | Third Federal S&L | −4,2 pts | 106 → 98 | · | · | −9 % |
-| FITB | Fifth Third Bancorp | −4,4 pts | 107 → 67 ▲ | ✓ | ✓ | −10 % |
-| BNY | BNY Mellon | −4,7 pts | 108 → 108 | · | · | −11 % |
+| BNY | BNY Mellon | −4,2 pts | 107 → 106 | · | · | −10 % |
+| FITB | Fifth Third Bancorp | −4,4 pts | 108 → 67 ▲ | ✓ | ✓ | −10 % |
 | BX | Blackstone Inc. | −5,1 pts | 109 → 85 | · | · | −25 % |
 | FHN | First Horizon Corporation | −5,2 pts | 110 → 97 | · | · | −10 % |
 | KKR | KKR & Co. Inc. | −5,3 pts | 111 → 128 | · | · | −35 % |
@@ -704,7 +704,7 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | FHB | First Hawaiian, Inc. | −6,6 pts | 121 → 89 ▲ | · | · | −16 % |
 | PNC | PNC Financial Services | −6,8 pts | 122 → 78 ▲ | · | · | −11 % |
 | GL | Globe Life | −7,1 pts | 123 → 134 | · | · | −16 % |
-| TROW | T. Rowe Price | −7,7 pts | 124 → 107 | · | · | −14 % |
+| TROW | T. Rowe Price | −7,7 pts | 124 → 108 | · | · | −14 % |
 | FIS | Fidelity National Information Se | −7,8 pts | 125 → 53 ▲ | · | · | −44 % |
 | MTB | M&T Bank | −8,2 pts | 126 → 90 ▲ | · | · | −12 % |
 | NU | Nubank | −8,3 pts | 127 → 137 | · | · | −33 % |
@@ -923,19 +923,19 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | SAIC | SAIC | +27,5 pts | 5 → 25 | ✓ | ✓ | +0 % |
 | LDOS | Leidos | +27,5 pts | 6 → 23 | ✓ | · | −29 % |
 | BR | Broadridge Financial Solutions | +24,7 pts | 7 → 29 | ✓ | ✓ | −20 % |
-| ADP | Automatic Data Processing | +23,5 pts | 8 → 19 | ✓ | ✓ | −2 % |
+| ADP | Automatic Data Processing | +23,5 pts | 8 → 20 | ✓ | ✓ | −2 % |
 | ROP | Roper Technologies | +22,9 pts | 9 → 1 | ✓ | ✓ | −7 % |
-| LYFT | Lyft | +22,5 pts | 10 → 17 | ✓ | ✓ | −31 % |
+| LYFT | Lyft | +22,5 pts | 10 → 18 | ✓ | ✓ | −31 % |
 | TTEK | Tetra Tech | +19,7 pts | 11 → 33 | ✓ | ✓ | −12 % |
 | ALLE | Allegion | +19,0 pts | 12 → 13 | ✓ | ✓ | −0 % |
-| BAH | Booz Allen Hamilton | +18,2 pts | 13 → 18 | ✓ | · | −17 % |
+| BAH | Booz Allen Hamilton | +18,2 pts | 13 → 19 | ✓ | · | −17 % |
 | GFL | GFL Environmental | +17,5 pts | 14 → 42 | ✓ | ✓ | −2 % |
 | TREX | Trex Company, Inc. | +16,5 pts | 15 → 28 | ✓ | ✓ | −3 % |
 | TTC | Toro Company (The) | +15,3 pts | 16 → 38 | ✓ | ✓ | +0 % |
 | VLTO | Veralto | +14,8 pts | 17 → 48 | ✓ | ✓ | −1 % |
 | FAST | Fastenal | +14,6 pts | 18 → 68 ▼ | ✓ | ✓ | −0 % |
 | EXPD | Expeditors International | +14,4 pts | 19 → 63 ▼ | ✓ | ✓ | −1 % |
-| RSG | Republic Services | +14,0 pts | 20 → 21 | ✓ | ✓ | −0 % |
+| RSG | Republic Services | +14,0 pts | 20 → 22 | ✓ | ✓ | −0 % |
 | BE | Bloom Energy | +12,7 pts | 21 → 186 ▼ | · | · | −41 % |
 | CTAS | Cintas | +12,4 pts | 22 → 24 | ✓ | ✓ | +0 % |
 | SWK | Stanley Black & Decker | +12,2 pts | 23 → 39 | ✓ | ✓ | −4 % |
@@ -947,18 +947,18 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | WTS | Watts Water Technologies | +9,3 pts | 29 → 74 ▼ | ✓ | ✓ | −6 % |
 | R | Ryder | +8,2 pts | 30 → 8 | ✓ | ✓ | +0 % |
 | SUNB | Sunbelt Rentals | +7,7 pts | 31 → 54 | ✓ | ✓ | — % |
-| OTIS | Otis Worldwide | +7,6 pts | 32 → 20 | ✓ | · | −19 % |
+| OTIS | Otis Worldwide | +7,6 pts | 32 → 21 | ✓ | · | −19 % |
 | MSA | MSA Safety | +7,2 pts | 33 → 95 ▼ | · | · | −9 % |
 | NOC | Northrop Grumman | +7,1 pts | 34 → 27 | ✓ | · | −26 % |
 | CLH | Clean Harbors | +6,8 pts | 35 → 82 ▼ | ✓ | ✓ | −3 % |
 | CPRT | Copart | +6,7 pts | 36 → 55 | · | · | −35 % |
-| TRU | TransUnion | +6,6 pts | 37 → 14 | ✓ | ✓ | −9 % |
-| IEX | IDEX Corporation | +6,2 pts | 38 → 88 ▼ | ✓ | ✓ | −4 % |
-| EFX | Equifax | +6,1 pts | 39 → 5 | ✓ | · | −23 % |
-| CSL | Carlisle Companies | +5,7 pts | 40 → 53 | ✓ | · | −17 % |
-| JCI | Johnson Controls | +5,5 pts | 41 → 106 ▼ | ✓ | ✓ | −7 % |
-| LECO | Lincoln Electric | +5,5 pts | 42 → 122 ▼ | · | · | −13 % |
-| PAYX | Paychex | +5,3 pts | 43 → 22 | ✓ | ✓ | −9 % |
+| TRU | TransUnion | +6,6 pts | 37 → 15 | ✓ | ✓ | −9 % |
+| PAYX | Paychex | +6,4 pts | 38 → 14 | ✓ | ✓ | −8 % |
+| IEX | IDEX Corporation | +6,2 pts | 39 → 88 ▼ | ✓ | ✓ | −4 % |
+| EFX | Equifax | +6,1 pts | 40 → 5 | ✓ | · | −23 % |
+| CSL | Carlisle Companies | +5,7 pts | 41 → 53 | ✓ | · | −17 % |
+| JCI | Johnson Controls | +5,5 pts | 42 → 106 ▼ | ✓ | ✓ | −7 % |
+| LECO | Lincoln Electric | +5,5 pts | 43 → 122 ▼ | · | · | −13 % |
 | AWI | Armstrong World Industries | +5,1 pts | 44 → 83 ▼ | · | · | −18 % |
 | AOS | A. O. Smith | +4,8 pts | 45 → 56 | ✓ | · | −22 % |
 | DE | Deere & Company | +4,7 pts | 46 → 140 ▼ | · | · | −9 % |
@@ -978,7 +978,7 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | GWW | W. W. Grainger | +0,7 pts | 60 → 36 | ✓ | ✓ | −3 % |
 | ITW | Illinois Tool Works | +0,6 pts | 61 → 81 | ✓ | ✓ | −6 % |
 | HII | Huntington Ingalls Industries | +0,5 pts | 62 → 49 | ✓ | · | −38 % |
-| AMTM | Amentum | +0,2 pts | 63 → 16 ▲ | ✓ | · | −41 % |
+| AMTM | Amentum | +0,2 pts | 63 → 17 ▲ | ✓ | · | −41 % |
 | VRSK | Verisk Analytics | +0,1 pts | 64 → 11 ▲ | ✓ | · | −16 % |
 | FTV | Fortive | +0,0 pts | 65 → 41 | ✓ | · | −5 % |
 | ITT | ITT Inc. | −0,0 pts | 66 → 144 ▼ | · | · | −14 % |
@@ -1017,7 +1017,7 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | KEX | Kirby Corporation | −7,1 pts | 99 → 66 | · | · | −12 % |
 | HON | Honeywell Technologies | −7,2 pts | 100 → 72 | ✓ | · | −15 % |
 | PWR | Quanta Services | −7,5 pts | 101 → 166 ▼ | · | · | −28 % |
-| ROL | Rollins, Inc. | −7,6 pts | 102 → 15 ▲ | ✓ | · | −47 % |
+| ROL | Rollins, Inc. | −7,6 pts | 102 → 16 ▲ | ✓ | · | −47 % |
 | BA | Boeing | −7,8 pts | 103 → 124 | · | · | −25 % |
 | EME | Emcor | −8,2 pts | 104 → 165 ▼ | · | · | −29 % |
 | ST | Sensata Technologies | −8,4 pts | 105 → 120 | · | · | −24 % |
@@ -1069,14 +1069,14 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 | ODFL | Old Dominion Freight Line | −19,2 pts | 151 → 59 ▲ | · | · | −27 % |
 | TKR | Timken Company | −19,2 pts | 152 → 134 | · | · | −24 % |
 | SARO | StandardAero | −19,5 pts | 153 → 103 ▲ | · | · | −32 % |
-| JBHT | J. B. Hunt | −19,6 pts | 154 → 97 ▲ | · | · | −25 % |
-| KRMN | Karman Holdings | −19,7 pts | 155 → 69 ▲ | · | · | −68 % |
-| UHAL | U-Haul | −19,7 pts | 156 → 150 | · | · | −26 % |
-| CAT | Caterpillar Inc. | −19,8 pts | 157 → 172 | · | · | −35 % |
+| CAT | Caterpillar Inc. | −19,6 pts | 154 → 171 | · | · | −35 % |
+| JBHT | J. B. Hunt | −19,6 pts | 155 → 97 ▲ | · | · | −25 % |
+| KRMN | Karman Holdings | −19,7 pts | 156 → 69 ▲ | · | · | −68 % |
+| UHAL | U-Haul | −19,7 pts | 157 → 150 | · | · | −26 % |
 | SAIA | Saia | −20,5 pts | 158 → 87 ▲ | · | · | −33 % |
 | BLDR | Builders FirstSource | −20,5 pts | 159 → 125 | · | · | −56 % |
 | PRIM | Primoris Services Corporation | −20,7 pts | 160 → 149 | · | · | −67 % |
-| QXO | QXO, Inc. | −21,0 pts | 161 → 171 | · | · | −61 % |
+| QXO | QXO, Inc. | −21,0 pts | 161 → 172 | · | · | −61 % |
 | NXT | Nextpower | −21,2 pts | 162 → 130 | · | · | −51 % |
 | RBA | RB Global | −21,4 pts | 163 → 75 ▲ | ✓ | · | −28 % |
 | ALK | Alaska Air Group | −21,9 pts | 164 → 168 | · | · | −42 % |
@@ -1187,4 +1187,4 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 - **Un secteur en rotation n'est pas un achat.** C'est un endroit où chercher : croiser avec les screeners et setups du marché.
 
 ---
-*Dernière séance : 26/10/2026. Généré le 26/10/2026 23:46 UTC. Travail d'analyse quantitative, sans valeur de conseil en investissement.*
+*Dernière séance : 26/10/2026. Généré le 27/10/2026 09:13 UTC. Travail d'analyse quantitative, sans valeur de conseil en investissement.*
