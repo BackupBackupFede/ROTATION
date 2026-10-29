@@ -6,23 +6,23 @@ Classement des 11 secteurs — Russell 1000, secteurs GICS — **à parts égale
 
 - Aucun nouveau signal. C'est le cas normal la plupart des semaines.
 
-Largeur du marché : **59 %** des titres au-dessus de leur MM50.
+Largeur du marché : **60 %** des titres au-dessus de leur MM50.
 
 ## Classement
 
 | Rang | Il y a 8 sem. | Secteur | RS 13 sem. | % > MM50 | Δ 8 sem. | % plus haut 52 s. | Statut |
 |---:|---:|---|---:|---:|---:|---:|---|
-| 1 | 1 | Santé | +9,8 % | 73 % | +0 pts | 22 % | LEADER |
-| 2 | 3 ▲ | Énergie | +9,7 % | 80 % | −11 pts | 26 % | LEADER |
-| 3 | 5 ▲ | Technologie | +8,4 % | 48 % | −9 pts | 4 % | LEADER |
-| 4 | 6 ▲ | Matériaux | −0,8 % | 56 % | +5 pts | 2 % |  |
-| 5 | 4 ▼ | Conso. de base | −2,1 % | 66 % | +25 pts | 4 % |  |
-| 6 | 2 ▼ | Finance | −2,6 % | 60 % | −5 pts | 3 % | **LEADER ESSOUFFLÉ** |
-| 7 | 7 | Communication | −2,7 % | 34 % | −14 pts | 2 % |  |
-| 8 | 11 ▲ | Services publics | −2,8 % | 83 % | +68 pts | 0 % |  |
-| 9 | 8 ▼ | Conso. discrétionnaire | −3,7 % | 65 % | +30 pts | 5 % |  |
-| 10 | 10 | Industrie | −5,2 % | 55 % | +30 pts | 5 % |  |
-| 11 | 9 ▼ | Immobilier | −8,8 % | 44 % | +26 pts | 2 % |  |
+| 1 | 3 ▲ | Énergie | +9,8 % | 83 % | −9 pts | 26 % | LEADER |
+| 2 | 1 ▼ | Santé | +9,8 % | 75 % | +2 pts | 23 % | LEADER |
+| 3 | 5 ▲ | Technologie | +8,0 % | 47 % | −10 pts | 4 % | LEADER |
+| 4 | 6 ▲ | Matériaux | −0,9 % | 58 % | +7 pts | 4 % |  |
+| 5 | 4 ▼ | Conso. de base | −1,7 % | 70 % | +29 pts | 7 % |  |
+| 6 | 2 ▼ | Finance | −2,6 % | 61 % | −4 pts | 5 % | **LEADER ESSOUFFLÉ** |
+| 7 | 7 | Communication | −2,7 % | 36 % | −11 pts | 2 % |  |
+| 8 | 11 ▲ | Services publics | −3,2 % | 83 % | +68 pts | 0 % |  |
+| 9 | 8 ▼ | Conso. discrétionnaire | −3,3 % | 65 % | +30 pts | 6 % |  |
+| 10 | 10 | Industrie | −5,2 % | 55 % | +30 pts | 6 % |  |
+| 11 | 9 ▼ | Immobilier | −8,4 % | 51 % | +33 pts | 2 % |  |
 
 ## Signaux des 12 derniers mois
 
@@ -32,12 +32,12 @@ _Première semaine de chaque épisode confirmé. Sert à juger si le signal a eu
 |---|---|---|---:|---:|
 | 16/10/2026 | Finance | LEADER ESSOUFFLÉ | 7 | 6 |
 | 11/09/2026 | Immobilier | LEADER ESSOUFFLÉ | 8 | 11 |
-| 10/07/2026 | Santé | ROTATION ENTRANTE | 2 | 1 |
-| 26/06/2026 | Énergie | LEADER ESSOUFFLÉ | 11 | 2 |
+| 10/07/2026 | Santé | ROTATION ENTRANTE | 2 | 2 |
+| 26/06/2026 | Énergie | LEADER ESSOUFFLÉ | 11 | 1 |
 | 29/05/2026 | Services publics | LEADER ESSOUFFLÉ | 10 | 8 |
 | 01/05/2026 | Technologie | ROTATION ENTRANTE | 2 | 3 |
 | 13/02/2026 | Conso. de base | ROTATION ENTRANTE | 4 | 5 |
-| 13/02/2026 | Santé | LEADER ESSOUFFLÉ | 7 | 1 |
+| 13/02/2026 | Santé | LEADER ESSOUFFLÉ | 7 | 2 |
 | 16/01/2026 | Matériaux | ROTATION ENTRANTE | 1 | 4 |
 | 19/12/2025 | Services publics | LEADER ESSOUFFLÉ | 6 | 8 |
 | 14/11/2025 | Conso. discrétionnaire | LEADER ESSOUFFLÉ | 10 | 9 |
@@ -46,25 +46,25 @@ _Première semaine de chaque épisode confirmé. Sert à juger si le signal a eu
 
 ### Finance — LEADER ESSOUFFLÉ
 
-_155 titres dans le secteur ; les 15 plus faibles — à surveiller si tu en détiens. 93 sur 155 au-dessus de leur MM50._
+_155 titres dans le secteur ; les 15 plus faibles — à surveiller si tu en détiens. 94 sur 155 au-dessus de leur MM50._
 
 | Ticker | Société | Perf. 13 sem. vs marché | Rang secteur 3 m → 1 m | > MM50 | MM50 > MM200 | Vs plus haut 52 s. |
 |---|---|---:|:---:|:---:|:---:|---:|
-| BHF | Brighthouse Financial | −29,7 pts | 154 → 147 | · | · | −34 % |
-| SLM | Sallie Mae | −27,9 pts | 153 → 153 | · | · | −40 % |
-| EEFT | Euronet Worldwide | −25,2 pts | 152 → 133 | · | · | −26 % |
-| FNF | Fidelity National Financial | −23,4 pts | 151 → 105 ▲ | · | · | −28 % |
-| STWD | Starwood Property Trust | −22,2 pts | 150 → 146 | · | · | −29 % |
-| FIS | Fidelity National Information Se | −19,4 pts | 149 → 22 ▲ | ✓ | · | −43 % |
-| UWMC | United Wholesale Mortgage | −19,0 pts | 148 → 1 ▲ | ✓ | · | −72 % |
-| NLY | Annaly Capital Management | −16,7 pts | 147 → 138 | · | · | −20 % |
-| FAF | First American Financial Corpora | −16,5 pts | 146 → 89 ▲ | · | · | −18 % |
-| LPLA | LPL Financial | −16,4 pts | 145 → 145 | · | · | −29 % |
-| SF | Stifel | −15,7 pts | 144 → 136 | · | · | −22 % |
-| AGO | Assured Guaranty | −15,5 pts | 143 → 106 ▲ | · | · | −23 % |
-| AON | Aon plc | −14,9 pts | 142 → 13 ▲ | ✓ | · | −17 % |
-| AGNC | AGNC Investment | −14,8 pts | 141 → 135 | · | · | −19 % |
-| BAC | Bank of America | −14,4 pts | 140 → 143 | · | · | −20 % |
+| BHF | Brighthouse Financial | −31,1 pts | 154 → 148 | · | · | −35 % |
+| SLM | Sallie Mae | −28,0 pts | 153 → 152 | · | · | −40 % |
+| EEFT | Euronet Worldwide | −24,9 pts | 152 → 132 | · | · | −25 % |
+| UWMC | United Wholesale Mortgage | −24,2 pts | 151 → 1 ▲ | ✓ | · | −74 % |
+| FNF | Fidelity National Financial | −23,2 pts | 150 → 101 ▲ | · | · | −28 % |
+| STWD | Starwood Property Trust | −21,8 pts | 149 → 144 | · | · | −28 % |
+| FIS | Fidelity National Information Se | −18,9 pts | 148 → 22 ▲ | ✓ | · | −43 % |
+| FAF | First American Financial Corpora | −17,1 pts | 147 → 94 ▲ | · | · | −19 % |
+| LPLA | LPL Financial | −16,6 pts | 146 → 146 | · | · | −29 % |
+| NLY | Annaly Capital Management | −16,2 pts | 145 → 136 | · | · | −19 % |
+| SF | Stifel | −15,6 pts | 144 → 137 | · | · | −22 % |
+| BAC | Bank of America | −15,3 pts | 143 → 143 | · | · | −21 % |
+| AGO | Assured Guaranty | −14,9 pts | 142 → 96 ▲ | · | · | −22 % |
+| AGNC | AGNC Investment | −14,4 pts | 141 → 133 | · | · | −19 % |
+| AON | Aon plc | −13,9 pts | 140 → 9 ▲ | ✓ | · | −15 % |
 
 
 ## Toutes les actions par secteur
@@ -74,157 +74,157 @@ _Cliquer sur un secteur pour déplier. Tri par performance 13 semaines contre la
 _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, puis sur le dernier mois (21 séances). ▲ il accélère, ▼ il ralentit (écart d'au moins 20 % de l'effectif du secteur)._
 
 <details>
-<summary><b>1. Santé</b> — 104 titres — LEADER</summary>
+<summary><b>1. Énergie</b> — 35 titres — LEADER</summary>
 
 | Ticker | Société | Perf. 13 sem. vs marché | Rang secteur 3 m → 1 m | > MM50 | MM50 > MM200 | Vs plus haut 52 s. |
 |---|---|---:|:---:|:---:|:---:|---:|
-| MRNA | Moderna | +300,1 pts | 1 → 15 | ✓ | ✓ | −11 % |
-| CAI | Caris Life Sciences | +131,4 pts | 2 → 7 | ✓ | ✓ | +0 % |
-| TEM | Tempus AI | +88,0 pts | 3 → 92 ▼ | ✓ | ✓ | −13 % |
-| NTRA | Natera | +70,0 pts | 4 → 66 ▼ | ✓ | ✓ | +0 % |
-| CRL | Charles River Laboratories | +62,2 pts | 5 → 1 | ✓ | ✓ | +0 % |
-| HALO | Halozyme | +57,8 pts | 6 → 3 | ✓ | ✓ | +0 % |
-| DOCS | Doximity | +57,2 pts | 7 → 2 | ✓ | ✓ | −49 % |
-| VEEV | Veeva Systems | +51,0 pts | 8 → 38 ▼ | ✓ | ✓ | −3 % |
-| ILMN | Illumina, Inc. | +50,8 pts | 9 → 56 ▼ | ✓ | ✓ | −0 % |
-| RVTY | Revvity | +47,7 pts | 10 → 43 ▼ | ✓ | ✓ | +0 % |
-| RGEN | Repligen | +34,9 pts | 11 → 85 ▼ | ✓ | ✓ | −3 % |
-| A | Agilent Technologies | +30,4 pts | 12 → 61 ▼ | ✓ | ✓ | +0 % |
-| WST | West Pharmaceutical Services | +29,7 pts | 13 → 6 | ✓ | ✓ | +0 % |
-| GH | Guardant Health | +29,3 pts | 14 → 67 ▼ | ✓ | ✓ | −1 % |
-| ISRG | Intuitive Surgical | +27,7 pts | 15 → 29 | ✓ | · | −24 % |
-| WAT | Waters Corporation | +27,3 pts | 16 → 39 ▼ | ✓ | ✓ | +0 % |
-| SMMT | Summit Therapeutics | +26,5 pts | 17 → 90 ▼ | ✓ | · | −39 % |
-| MTD | Mettler Toledo | +24,8 pts | 18 → 11 | ✓ | ✓ | +0 % |
-| TMO | Thermo Fisher Scientific | +23,9 pts | 19 → 63 ▼ | ✓ | ✓ | +0 % |
-| GILD | Gilead Sciences | +22,9 pts | 20 → 47 ▼ | ✓ | ✓ | +0 % |
-| DHR | Danaher Corporation | +21,5 pts | 21 → 55 ▼ | ✓ | ✓ | −1 % |
-| BIIB | Biogen | +21,1 pts | 22 → 22 | ✓ | ✓ | −1 % |
-| QGEN | Qiagen | +21,0 pts | 23 → 10 | ✓ | ✓ | −9 % |
-| AMGN | Amgen | +19,6 pts | 24 → 45 ▼ | ✓ | ✓ | +0 % |
-| BIO | Bio-Rad Laboratories | +19,4 pts | 25 → 71 ▼ | ✓ | ✓ | −0 % |
-| EXEL | Exelixis | +19,0 pts | 26 → 19 | ✓ | ✓ | −1 % |
-| PFE | Pfizer | +18,8 pts | 27 → 65 ▼ | ✓ | ✓ | −2 % |
-| RMD | Resmed | +18,7 pts | 28 → 12 | ✓ | ✓ | −8 % |
-| LH | Labcorp | +18,3 pts | 29 → 8 ▲ | ✓ | ✓ | +0 % |
-| BDX | Becton Dickinson | +17,9 pts | 30 → 34 | ✓ | ✓ | −2 % |
-| REGN | Regeneron Pharmaceuticals | +17,8 pts | 31 → 53 ▼ | ✓ | ✓ | −4 % |
-| MEDP | Medpace | +17,7 pts | 32 → 35 | ✓ | ✓ | −1 % |
-| HCA | HCA Healthcare | +17,2 pts | 33 → 23 | ✓ | · | −12 % |
-| AVTR | Avantor | +16,5 pts | 34 → 28 | ✓ | ✓ | −4 % |
-| EHC | Encompass Health | +15,3 pts | 35 → 52 | ✓ | ✓ | +0 % |
-| MRK | Merck & Co. | +15,1 pts | 36 → 77 ▼ | ✓ | ✓ | −5 % |
-| ROIV | Roivant Sciences | +15,1 pts | 37 → 72 ▼ | ✓ | ✓ | −10 % |
-| UTHR | United Therapeutics | +14,3 pts | 38 → 31 | ✓ | · | −0 % |
-| LLY | Lilly (Eli) | +14,1 pts | 39 → 4 ▲ | ✓ | ✓ | +0 % |
-| HUM | Humana | +14,0 pts | 40 → 46 | ✓ | ✓ | −4 % |
-| ELV | Elevance Health | +13,0 pts | 41 → 48 | ✓ | ✓ | −6 % |
-| IQV | IQVIA | +12,7 pts | 42 → 69 ▼ | ✓ | ✓ | −1 % |
-| MDT | Medtronic | +12,1 pts | 43 → 18 ▲ | ✓ | ✓ | −5 % |
-| VRTX | Vertex Pharmaceuticals | +11,9 pts | 44 → 73 ▼ | ✓ | ✓ | −4 % |
-| RPRX | Royalty Pharma | +11,6 pts | 45 → 20 ▲ | ✓ | ✓ | +0 % |
-| EW | Edwards Lifesciences | +11,2 pts | 46 → 33 | ✓ | ✓ | −0 % |
-| ABBV | AbbVie | +11,1 pts | 47 → 24 ▲ | ✓ | ✓ | +0 % |
-| CNC | Centene | +10,8 pts | 48 → 36 | ✓ | ✓ | −4 % |
-| CAH | Cardinal Health | +9,8 pts | 49 → 17 ▲ | ✓ | ✓ | −3 % |
-| MCK | McKesson Corporation | +9,6 pts | 50 → 14 ▲ | ✓ | ✓ | −6 % |
-| VTRS | Viatris | +8,5 pts | 51 → 51 | ✓ | ✓ | +0 % |
-| SHC | Sotera Health | +8,0 pts | 52 → 78 ▼ | ✓ | ✓ | −4 % |
-| GEHC | GE HealthCare | +7,6 pts | 53 → 5 ▲ | ✓ | · | −13 % |
-| DGX | Quest Diagnostics | +7,5 pts | 54 → 49 | ✓ | ✓ | +0 % |
-| INSM | Insmed | +7,4 pts | 55 → 88 ▼ | · | · | −48 % |
-| DXCM | Dexcom | +6,5 pts | 56 → 98 ▼ | · | · | −14 % |
-| RVMD | Revolution Medicines | +5,3 pts | 57 → 97 ▼ | · | · | −14 % |
-| TFX | Teleflex | +5,3 pts | 58 → 16 ▲ | ✓ | ✓ | −1 % |
-| UHS | Universal Health Services | +4,7 pts | 59 → 82 ▼ | · | · | −28 % |
-| JNJ | Johnson & Johnson | +4,5 pts | 60 → 68 | ✓ | ✓ | −1 % |
-| COR | Cencora | +3,7 pts | 61 → 42 | ✓ | ✓ | −12 % |
-| GMED | Globus Medical | +2,7 pts | 62 → 25 ▲ | ✓ | · | −14 % |
-| OGN | Organon & Co. | +2,7 pts | 63 → 80 | ✓ | ✓ | −0 % |
-| ENSG | Ensign Group | +2,5 pts | 64 → 50 | ✓ | · | −14 % |
-| THC | Tenet Healthcare | +2,0 pts | 65 → 76 | · | · | −7 % |
-| TECH | Bio-Techne | +1,7 pts | 66 → 83 | ✓ | ✓ | −0 % |
-| CI | Cigna | +1,3 pts | 67 → 41 ▲ | ✓ | ✓ | −6 % |
-| BRKR | Bruker | +1,1 pts | 68 → 89 ▼ | ✓ | ✓ | −4 % |
-| IDXX | Idexx Laboratories | +1,0 pts | 69 → 37 ▲ | ✓ | · | −25 % |
-| ZBH | Zimmer Biomet | +0,9 pts | 70 → 40 ▲ | ✓ | ✓ | −5 % |
-| MOH | Molina Healthcare | +0,8 pts | 71 → 62 | · | · | −18 % |
-| ZTS | Zoetis | +0,7 pts | 72 → 21 ▲ | ✓ | · | −45 % |
-| PEN | Penumbra, Inc. | +0,7 pts | 73 → 81 | · | · | −11 % |
-| HSIC | Schein (Henry) | +0,6 pts | 74 → 75 | · | · | −6 % |
-| ASND | Ascendis Pharma | +0,3 pts | 75 → 30 ▲ | ✓ | ✓ | −9 % |
-| CHE | Chemed Corporation | +0,2 pts | 76 → 58 | ✓ | ✓ | −3 % |
-| STE | Steris | −0,7 pts | 77 → 32 ▲ | ✓ | · | −13 % |
-| UNH | UnitedHealth Group | −2,0 pts | 78 → 27 ▲ | ✓ | ✓ | −6 % |
-| ABT | Abbott Laboratories | −2,3 pts | 79 → 60 | ✓ | ✓ | −18 % |
-| BMY | Bristol Myers Squibb | −2,5 pts | 80 → 86 | · | · | −10 % |
-| BAX | Baxter International | −2,9 pts | 81 → 84 | · | · | −16 % |
-| SOLV | Solventum | −5,3 pts | 82 → 94 | · | · | −10 % |
-| CORT | Corcept Therapeutics | −5,9 pts | 83 → 103 | · | · | −30 % |
-| BMRN | BioMarin Pharmaceutical | −6,5 pts | 84 → 93 | · | · | −19 % |
-| BSX | Boston Scientific | −7,7 pts | 85 → 87 | · | · | −60 % |
-| INCY | Incyte | −8,5 pts | 86 → 91 | · | · | −11 % |
-| SYK | Stryker Corporation | −10,5 pts | 87 → 13 ▲ | ✓ | · | −19 % |
-| PODD | Insulet | −10,6 pts | 88 → 9 ▲ | ✓ | · | −56 % |
-| ELAN | Elanco | −11,9 pts | 89 → 70 | · | · | −14 % |
-| ALGN | Align Technology | −12,9 pts | 90 → 54 ▲ | ✓ | · | −21 % |
-| NVST | Envista | −13,0 pts | 91 → 64 ▲ | · | · | −19 % |
-| CVS | CVS Health | −13,5 pts | 92 → 59 ▲ | · | · | −17 % |
-| BBIO | BridgeBio Pharma | −13,6 pts | 93 → 44 ▲ | ✓ | · | −21 % |
-| IONS | Ionis Pharmaceuticals | −16,1 pts | 94 → 79 | · | · | −48 % |
-| COO | Cooper Companies (The) | −16,9 pts | 95 → 57 ▲ | · | · | −29 % |
-| JAZZ | Jazz Pharmaceuticals | −18,5 pts | 96 → 99 | · | · | −21 % |
-| VKTX | Viking Therapeutics | −18,7 pts | 97 → 101 | · | · | −36 % |
-| MDLN | Medline Inc. | −18,8 pts | 98 → 95 | · | · | −35 % |
-| DVA | DaVita | −18,8 pts | 99 → 26 ▲ | ✓ | ✓ | −19 % |
-| NBIX | Neurocrine Biosciences | −18,8 pts | 100 → 74 ▲ | · | · | −22 % |
-| MDGL | Madrigal Pharmaceuticals | −19,8 pts | 101 → 100 | · | · | −28 % |
-| ARWR | Arrowhead Pharmaceuticals | −28,7 pts | 102 → 96 | · | · | −32 % |
-| AXSM | Axsome Therapeutics | −36,2 pts | 103 → 102 | · | · | −44 % |
-| ALNY | Alnylam Pharmaceuticals | −36,5 pts | 104 → 104 | · | · | −63 % |
+| APA | APA Corporation | +41,6 pts | 1 → 2 | ✓ | ✓ | −1 % |
+| MPC | Marathon Petroleum | +41,1 pts | 2 → 25 ▼ | ✓ | ✓ | −11 % |
+| RRC | Range Resources | +35,9 pts | 3 → 1 | ✓ | ✓ | −4 % |
+| PSX | Phillips 66 | +33,6 pts | 4 → 28 ▼ | ✓ | ✓ | −8 % |
+| VLO | Valero Energy | +28,7 pts | 5 → 34 ▼ | · | · | −16 % |
+| COP | ConocoPhillips | +28,5 pts | 6 → 6 | ✓ | ✓ | −1 % |
+| DINO | HF Sinclair | +25,7 pts | 7 → 30 ▼ | ✓ | ✓ | −13 % |
+| PR | Permian Resources | +24,6 pts | 8 → 5 | ✓ | ✓ | −1 % |
+| MTDR | Matador Resources | +24,5 pts | 9 → 10 | ✓ | ✓ | −7 % |
+| LNG | Cheniere Energy | +24,2 pts | 10 → 7 | ✓ | ✓ | +0 % |
+| CVX | Chevron Corporation | +22,3 pts | 11 → 15 | ✓ | ✓ | −1 % |
+| TRGP | Targa Resources | +19,2 pts | 12 → 11 | ✓ | ✓ | +0 % |
+| XOM | ExxonMobil | +18,3 pts | 13 → 18 | ✓ | ✓ | −1 % |
+| OVV | Ovintiv | +17,9 pts | 14 → 3 ▲ | ✓ | ✓ | −1 % |
+| AR | Antero Resources | +17,8 pts | 15 → 4 ▲ | ✓ | ✓ | −9 % |
+| DVN | Devon Energy | +16,4 pts | 16 → 22 | ✓ | ✓ | −1 % |
+| HAL | Halliburton | +16,2 pts | 17 → 16 | ✓ | · | −16 % |
+| CHRD | Chord Energy | +14,2 pts | 18 → 12 | ✓ | ✓ | −3 % |
+| OXY | Occidental Petroleum | +13,6 pts | 19 → 13 | ✓ | ✓ | −4 % |
+| EOG | EOG Resources | +12,5 pts | 20 → 8 ▲ | ✓ | ✓ | −1 % |
+| SLB | Schlumberger | +11,1 pts | 21 → 23 | ✓ | ✓ | −10 % |
+| VNOM | Viper Energy | +10,8 pts | 22 → 9 ▲ | ✓ | ✓ | −5 % |
+| WFRD | Weatherford International | +9,8 pts | 23 → 14 ▲ | ✓ | · | −19 % |
+| OKE | Oneok | +8,3 pts | 24 → 19 | ✓ | ✓ | −2 % |
+| KMI | Kinder Morgan | +8,2 pts | 25 → 17 ▲ | ✓ | ✓ | −1 % |
+| WMB | Williams Companies | +8,1 pts | 26 → 24 | ✓ | ✓ | −4 % |
+| FANG | Diamondback Energy | +4,8 pts | 27 → 21 | ✓ | ✓ | −2 % |
+| EQT | EQT Corporation | +4,7 pts | 28 → 20 ▲ | ✓ | · | −19 % |
+| NOV | NOV Inc. | +2,6 pts | 29 → 31 | · | · | −10 % |
+| AM | Antero Midstream | +1,7 pts | 30 → 26 | ✓ | ✓ | −6 % |
+| EXE | Expand Energy | −1,0 pts | 31 → 27 | · | · | −25 % |
+| DTM | DT Midstream | −5,4 pts | 32 → 29 | ✓ | · | −15 % |
+| FTI | TechnipFMC | −6,0 pts | 33 → 35 | · | · | −16 % |
+| BKR | Baker Hughes | −6,2 pts | 34 → 33 | · | · | −21 % |
+| TPL | Texas Pacific Land Corporation | −15,1 pts | 35 → 32 | · | · | −39 % |
 
 </details>
 
 <details>
-<summary><b>2. Énergie</b> — 35 titres — LEADER</summary>
+<summary><b>2. Santé</b> — 104 titres — LEADER</summary>
 
 | Ticker | Société | Perf. 13 sem. vs marché | Rang secteur 3 m → 1 m | > MM50 | MM50 > MM200 | Vs plus haut 52 s. |
 |---|---|---:|:---:|:---:|:---:|---:|
-| APA | APA Corporation | +40,5 pts | 1 → 3 | ✓ | ✓ | −2 % |
-| MPC | Marathon Petroleum | +37,9 pts | 2 → 28 ▼ | ✓ | ✓ | −13 % |
-| RRC | Range Resources | +37,4 pts | 3 → 1 | ✓ | ✓ | −3 % |
-| PSX | Phillips 66 | +33,2 pts | 4 → 29 ▼ | ✓ | ✓ | −8 % |
-| COP | ConocoPhillips | +27,8 pts | 5 → 6 | ✓ | ✓ | −1 % |
-| VLO | Valero Energy | +27,6 pts | 6 → 35 ▼ | · | · | −17 % |
-| DINO | HF Sinclair | +24,9 pts | 7 → 30 ▼ | · | · | −13 % |
-| PR | Permian Resources | +24,0 pts | 8 → 5 | ✓ | ✓ | −1 % |
-| MTDR | Matador Resources | +23,9 pts | 9 → 10 | ✓ | ✓ | −8 % |
-| LNG | Cheniere Energy | +22,3 pts | 10 → 9 | ✓ | ✓ | +0 % |
-| CVX | Chevron Corporation | +21,7 pts | 11 → 17 | ✓ | ✓ | −1 % |
-| AR | Antero Resources | +18,2 pts | 12 → 2 ▲ | ✓ | ✓ | −8 % |
-| TRGP | Targa Resources | +17,7 pts | 13 → 12 | ✓ | ✓ | +0 % |
-| XOM | ExxonMobil | +17,7 pts | 14 → 19 | ✓ | ✓ | −1 % |
-| OVV | Ovintiv | +16,7 pts | 15 → 4 ▲ | ✓ | ✓ | −2 % |
-| HAL | Halliburton | +16,4 pts | 16 → 16 | ✓ | · | −16 % |
-| DVN | Devon Energy | +15,4 pts | 17 → 24 ▼ | ✓ | ✓ | −2 % |
-| CHRD | Chord Energy | +13,6 pts | 18 → 13 | ✓ | ✓ | −3 % |
-| OXY | Occidental Petroleum | +12,8 pts | 19 → 14 | ✓ | ✓ | −5 % |
-| EOG | EOG Resources | +11,7 pts | 20 → 7 ▲ | ✓ | ✓ | −2 % |
-| SLB | Schlumberger | +11,4 pts | 21 → 21 | ✓ | ✓ | −10 % |
-| WFRD | Weatherford International | +10,8 pts | 22 → 11 ▲ | ✓ | · | −19 % |
-| VNOM | Viper Energy | +10,6 pts | 23 → 8 ▲ | ✓ | ✓ | −5 % |
-| WMB | Williams Companies | +8,3 pts | 24 → 23 | ✓ | ✓ | −4 % |
-| KMI | Kinder Morgan | +7,8 pts | 25 → 18 ▲ | ✓ | ✓ | −2 % |
-| OKE | Oneok | +6,7 pts | 26 → 22 | ✓ | ✓ | −3 % |
-| EQT | EQT Corporation | +5,4 pts | 27 → 15 ▲ | ✓ | · | −19 % |
-| FANG | Diamondback Energy | +4,4 pts | 28 → 20 ▲ | ✓ | ✓ | −3 % |
-| NOV | NOV Inc. | +2,4 pts | 29 → 31 | · | · | −11 % |
-| AM | Antero Midstream | +1,3 pts | 30 → 26 | ✓ | ✓ | −6 % |
-| EXE | Expand Energy | −0,3 pts | 31 → 25 | · | · | −25 % |
-| DTM | DT Midstream | −4,3 pts | 32 → 27 | ✓ | · | −14 % |
-| FTI | TechnipFMC | −5,6 pts | 33 → 34 | · | · | −16 % |
-| BKR | Baker Hughes | −5,8 pts | 34 → 33 | · | · | −21 % |
-| TPL | Texas Pacific Land Corporation | −14,5 pts | 35 → 32 | · | · | −39 % |
+| MRNA | Moderna | +309,4 pts | 1 → 9 | ✓ | ✓ | −9 % |
+| CAI | Caris Life Sciences | +132,4 pts | 2 → 6 | ✓ | ✓ | +0 % |
+| TEM | Tempus AI | +87,9 pts | 3 → 93 ▼ | ✓ | ✓ | −13 % |
+| NTRA | Natera | +72,4 pts | 4 → 62 ▼ | ✓ | ✓ | +0 % |
+| CRL | Charles River Laboratories | +60,8 pts | 5 → 1 | ✓ | ✓ | +0 % |
+| HALO | Halozyme | +58,1 pts | 6 → 3 | ✓ | ✓ | +0 % |
+| DOCS | Doximity | +56,1 pts | 7 → 5 | ✓ | ✓ | −50 % |
+| VEEV | Veeva Systems | +49,8 pts | 8 → 45 ▼ | ✓ | ✓ | −4 % |
+| ILMN | Illumina, Inc. | +49,5 pts | 9 → 59 ▼ | ✓ | ✓ | −1 % |
+| RVTY | Revvity | +46,9 pts | 10 → 48 ▼ | ✓ | ✓ | +0 % |
+| RGEN | Repligen | +34,1 pts | 11 → 85 ▼ | ✓ | ✓ | −3 % |
+| A | Agilent Technologies | +29,9 pts | 12 → 63 ▼ | ✓ | ✓ | −0 % |
+| GH | Guardant Health | +29,2 pts | 13 → 69 ▼ | ✓ | ✓ | −1 % |
+| ISRG | Intuitive Surgical | +27,7 pts | 14 → 34 | ✓ | · | −24 % |
+| SMMT | Summit Therapeutics | +27,1 pts | 15 → 91 ▼ | ✓ | · | −39 % |
+| WAT | Waters Corporation | +27,1 pts | 16 → 43 ▼ | ✓ | ✓ | +0 % |
+| GILD | Gilead Sciences | +26,1 pts | 17 → 25 | ✓ | ✓ | +0 % |
+| MTD | Mettler Toledo | +24,4 pts | 18 → 13 | ✓ | ✓ | +0 % |
+| WST | West Pharmaceutical Services | +24,1 pts | 19 → 21 | ✓ | ✓ | +0 % |
+| TMO | Thermo Fisher Scientific | +23,7 pts | 20 → 65 ▼ | ✓ | ✓ | +0 % |
+| DHR | Danaher Corporation | +21,4 pts | 21 → 55 ▼ | ✓ | ✓ | −2 % |
+| QGEN | Qiagen | +21,0 pts | 22 → 10 | ✓ | ✓ | −9 % |
+| LH | Labcorp | +20,7 pts | 23 → 2 ▲ | ✓ | ✓ | +0 % |
+| EXEL | Exelixis | +20,2 pts | 24 → 14 | ✓ | ✓ | −0 % |
+| AMGN | Amgen | +20,1 pts | 25 → 42 | ✓ | ✓ | +0 % |
+| BIIB | Biogen | +19,9 pts | 26 → 31 | ✓ | ✓ | −2 % |
+| PFE | Pfizer | +19,7 pts | 27 → 66 ▼ | ✓ | ✓ | −2 % |
+| BDX | Becton Dickinson | +19,1 pts | 28 → 28 | ✓ | ✓ | −1 % |
+| RMD | Resmed | +18,9 pts | 29 → 12 | ✓ | ✓ | −8 % |
+| REGN | Regeneron Pharmaceuticals | +18,5 pts | 30 → 52 ▼ | ✓ | ✓ | −4 % |
+| BIO | Bio-Rad Laboratories | +18,0 pts | 31 → 76 ▼ | ✓ | ✓ | −2 % |
+| HCA | HCA Healthcare | +17,9 pts | 32 → 22 | ✓ | · | −12 % |
+| AVTR | Avantor | +16,6 pts | 33 → 27 | ✓ | ✓ | −4 % |
+| MEDP | Medpace | +16,4 pts | 34 → 46 | ✓ | ✓ | −2 % |
+| EHC | Encompass Health | +16,3 pts | 35 → 49 | ✓ | ✓ | +0 % |
+| HUM | Humana | +14,9 pts | 36 → 40 | ✓ | ✓ | −4 % |
+| ROIV | Roivant Sciences | +14,7 pts | 37 → 74 ▼ | ✓ | ✓ | −10 % |
+| LLY | Lilly (Eli) | +14,3 pts | 38 → 4 ▲ | ✓ | ✓ | +0 % |
+| UTHR | United Therapeutics | +13,7 pts | 39 → 39 | ✓ | · | −1 % |
+| MRK | Merck & Co. | +13,5 pts | 40 → 81 ▼ | · | · | −6 % |
+| ELV | Elevance Health | +13,3 pts | 41 → 47 | ✓ | ✓ | −5 % |
+| RPRX | Royalty Pharma | +12,4 pts | 42 → 18 ▲ | ✓ | ✓ | +0 % |
+| MDT | Medtronic | +12,4 pts | 43 → 20 ▲ | ✓ | ✓ | −5 % |
+| VRTX | Vertex Pharmaceuticals | +12,3 pts | 44 → 71 ▼ | ✓ | ✓ | −3 % |
+| ABBV | AbbVie | +11,7 pts | 45 → 24 ▲ | ✓ | ✓ | +0 % |
+| IQV | IQVIA | +11,7 pts | 46 → 75 ▼ | ✓ | ✓ | −2 % |
+| CNC | Centene | +11,6 pts | 47 → 33 | ✓ | ✓ | −4 % |
+| MCK | McKesson Corporation | +11,1 pts | 48 → 11 ▲ | ✓ | ✓ | −5 % |
+| EW | Edwards Lifesciences | +10,7 pts | 49 → 41 | ✓ | ✓ | −1 % |
+| CAH | Cardinal Health | +10,4 pts | 50 → 16 ▲ | ✓ | ✓ | −3 % |
+| VTRS | Viatris | +9,1 pts | 51 → 50 | ✓ | ✓ | +0 % |
+| INSM | Insmed | +8,8 pts | 52 → 88 ▼ | · | · | −47 % |
+| DGX | Quest Diagnostics | +8,5 pts | 53 → 44 | ✓ | ✓ | +0 % |
+| SHC | Sotera Health | +7,3 pts | 54 → 79 ▼ | ✓ | ✓ | −4 % |
+| DXCM | Dexcom | +7,0 pts | 55 → 96 ▼ | · | · | −13 % |
+| GEHC | GE HealthCare | +6,9 pts | 56 → 7 ▲ | ✓ | · | −13 % |
+| TFX | Teleflex | +5,8 pts | 57 → 17 ▲ | ✓ | ✓ | −0 % |
+| RVMD | Revolution Medicines | +5,7 pts | 58 → 95 ▼ | · | · | −14 % |
+| UHS | Universal Health Services | +5,7 pts | 59 → 77 | · | · | −27 % |
+| THC | Tenet Healthcare | +5,6 pts | 60 → 60 | ✓ | ✓ | −4 % |
+| JNJ | Johnson & Johnson | +4,7 pts | 61 → 68 | ✓ | ✓ | −1 % |
+| COR | Cencora | +4,5 pts | 62 → 36 ▲ | ✓ | ✓ | −11 % |
+| ENSG | Ensign Group | +3,1 pts | 63 → 51 | ✓ | · | −14 % |
+| OGN | Organon & Co. | +2,7 pts | 64 → 80 | ✓ | ✓ | +0 % |
+| GMED | Globus Medical | +2,4 pts | 65 → 29 ▲ | ✓ | · | −14 % |
+| CI | Cigna | +1,8 pts | 66 → 37 ▲ | ✓ | ✓ | −6 % |
+| ZTS | Zoetis | +1,7 pts | 67 → 19 ▲ | ✓ | · | −45 % |
+| IDXX | Idexx Laboratories | +1,7 pts | 68 → 35 ▲ | ✓ | · | −25 % |
+| TECH | Bio-Techne | +1,6 pts | 69 → 82 | ✓ | ✓ | +0 % |
+| HSIC | Schein (Henry) | +1,3 pts | 70 → 73 | · | · | −5 % |
+| CHE | Chemed Corporation | +1,2 pts | 71 → 54 | ✓ | ✓ | −2 % |
+| ZBH | Zimmer Biomet | +1,2 pts | 72 → 38 ▲ | ✓ | ✓ | −5 % |
+| PEN | Penumbra, Inc. | +1,2 pts | 73 → 78 | ✓ | · | −10 % |
+| BRKR | Bruker | +1,1 pts | 74 → 92 | ✓ | ✓ | −4 % |
+| ASND | Ascendis Pharma | +1,0 pts | 75 → 26 ▲ | ✓ | ✓ | −9 % |
+| MOH | Molina Healthcare | +0,5 pts | 76 → 64 | · | · | −18 % |
+| STE | Steris | −0,3 pts | 77 → 30 ▲ | ✓ | · | −13 % |
+| UNH | UnitedHealth Group | −1,1 pts | 78 → 23 ▲ | ✓ | ✓ | −5 % |
+| BMY | Bristol Myers Squibb | −1,1 pts | 79 → 84 | · | · | −9 % |
+| ABT | Abbott Laboratories | −2,0 pts | 80 → 57 ▲ | ✓ | ✓ | −18 % |
+| BAX | Baxter International | −4,5 pts | 81 → 86 | · | · | −17 % |
+| SOLV | Solventum | −5,1 pts | 82 → 94 | · | · | −10 % |
+| BMRN | BioMarin Pharmaceutical | −5,7 pts | 83 → 90 | · | · | −18 % |
+| BSX | Boston Scientific | −6,7 pts | 84 → 87 | · | · | −59 % |
+| CORT | Corcept Therapeutics | −7,0 pts | 85 → 103 | · | · | −30 % |
+| INCY | Incyte | −7,5 pts | 86 → 89 | · | · | −10 % |
+| PODD | Insulet | −10,0 pts | 87 → 8 ▲ | ✓ | · | −56 % |
+| SYK | Stryker Corporation | −10,6 pts | 88 → 15 ▲ | ✓ | · | −19 % |
+| ELAN | Elanco | −11,4 pts | 89 → 70 | ✓ | · | −13 % |
+| NVST | Envista | −12,7 pts | 90 → 67 ▲ | · | · | −19 % |
+| CVS | CVS Health | −13,5 pts | 91 → 58 ▲ | · | · | −17 % |
+| ALGN | Align Technology | −14,1 pts | 92 → 61 ▲ | ✓ | · | −22 % |
+| BBIO | BridgeBio Pharma | −14,8 pts | 93 → 53 ▲ | ✓ | · | −22 % |
+| COO | Cooper Companies (The) | −16,8 pts | 94 → 56 ▲ | · | · | −28 % |
+| IONS | Ionis Pharmaceuticals | −17,3 pts | 95 → 83 | · | · | −49 % |
+| JAZZ | Jazz Pharmaceuticals | −18,2 pts | 96 → 99 | · | · | −21 % |
+| NBIX | Neurocrine Biosciences | −18,5 pts | 97 → 72 ▲ | · | · | −21 % |
+| VKTX | Viking Therapeutics | −19,1 pts | 98 → 101 | · | · | −36 % |
+| DVA | DaVita | −19,2 pts | 99 → 32 ▲ | ✓ | ✓ | −20 % |
+| MDLN | Medline Inc. | −19,6 pts | 100 → 98 | · | · | −36 % |
+| MDGL | Madrigal Pharmaceuticals | −20,5 pts | 101 → 100 | · | · | −28 % |
+| ARWR | Arrowhead Pharmaceuticals | −29,3 pts | 102 → 97 | · | · | −32 % |
+| AXSM | Axsome Therapeutics | −36,3 pts | 103 → 102 | · | · | −44 % |
+| ALNY | Alnylam Pharmaceuticals | −38,7 pts | 104 → 104 | · | · | −64 % |
 
 </details>
 
@@ -233,163 +233,163 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 
 | Ticker | Société | Perf. 13 sem. vs marché | Rang secteur 3 m → 1 m | > MM50 | MM50 > MM200 | Vs plus haut 52 s. |
 |---|---|---:|:---:|:---:|:---:|---:|
-| P | Everpure | +101,8 pts | 1 → 50 ▼ | ✓ | ✓ | −11 % |
-| TEAM | Atlassian | +94,8 pts | 2 → 27 | ✓ | ✓ | −11 % |
-| RBRK | Rubrik | +85,1 pts | 3 → 21 | ✓ | ✓ | −2 % |
-| GTLB | GitLab | +66,1 pts | 4 → 14 | ✓ | ✓ | −3 % |
-| OKTA | Okta, Inc. | +60,7 pts | 5 → 60 ▼ | ✓ | ✓ | −6 % |
-| ZS | Zscaler | +59,1 pts | 6 → 8 | ✓ | ✓ | −28 % |
-| PLTR | Palantir Technologies | +58,6 pts | 7 → 63 ▼ | ✓ | ✓ | −7 % |
-| ESTC | Elastic NV | +58,3 pts | 8 → 34 | ✓ | ✓ | −5 % |
-| LITE | Lumentum | +55,6 pts | 9 → 96 ▼ | ✓ | ✓ | −18 % |
-| PAYC | Paycom | +54,9 pts | 10 → 13 | ✓ | ✓ | −5 % |
-| MSTR | MicroStrategy | +54,0 pts | 11 → 103 ▼ | · | · | −48 % |
-| ENTG | Entegris | +52,2 pts | 12 → 56 ▼ | ✓ | ✓ | −12 % |
-| PTC | PTC Inc. | +47,2 pts | 13 → 1 | ✓ | ✓ | −2 % |
-| RNG | RingCentral | +46,2 pts | 14 → 31 | ✓ | ✓ | −3 % |
-| CRWD | CrowdStrike | +44,6 pts | 15 → 91 ▼ | ✓ | ✓ | −7 % |
-| SWKS | Skyworks Solutions | +44,0 pts | 16 → 67 ▼ | ✓ | ✓ | −4 % |
-| ACN | Accenture | +42,9 pts | 17 → 2 | ✓ | ✓ | −13 % |
-| DOCU | DocuSign | +40,2 pts | 18 → 10 | ✓ | ✓ | −5 % |
-| DT | Dynatrace | +38,9 pts | 19 → 58 ▼ | ✓ | ✓ | −7 % |
-| SMTC | Semtech | +37,6 pts | 20 → 142 ▼ | · | · | −28 % |
-| SMCI | Supermicro | +37,0 pts | 21 → 123 ▼ | · | · | −34 % |
-| S | SentinelOne | +36,4 pts | 22 → 53 ▼ | ✓ | ✓ | −4 % |
-| MRVL | Marvell Technology | +36,4 pts | 23 → 126 ▼ | · | · | −30 % |
-| HPE | Hewlett Packard Enterprise | +35,6 pts | 24 → 102 ▼ | ✓ | ✓ | −19 % |
-| SAIL | SailPoint | +35,5 pts | 25 → 55 | ✓ | ✓ | −4 % |
-| MSFT | Microsoft | +35,3 pts | 26 → 69 ▼ | ✓ | ✓ | −3 % |
-| SNDK | SanDisk | +33,9 pts | 27 → 145 ▼ | · | · | −42 % |
-| ZBRA | Zebra Technologies | +33,8 pts | 28 → 78 ▼ | ✓ | ✓ | −4 % |
-| BMNR | Bitmine Immersion Technologies | +33,4 pts | 29 → 130 ▼ | · | · | −56 % |
-| AMD | Advanced Micro Devices | +33,0 pts | 30 → 106 ▼ | ✓ | ✓ | −12 % |
-| DELL | Dell Technologies | +31,8 pts | 31 → 110 ▼ | · | · | −18 % |
-| CRCL | Circle Internet Group | +31,8 pts | 32 → 89 ▼ | · | · | −39 % |
-| IT | Gartner | +31,7 pts | 33 → 19 | ✓ | ✓ | −15 % |
-| SNPS | Synopsys | +31,3 pts | 34 → 29 | ✓ | · | −9 % |
-| NTAP | Netapp | +29,2 pts | 35 → 52 | ✓ | ✓ | −7 % |
-| MU | Micron Technology | +28,3 pts | 36 → 114 ▼ | · | · | −22 % |
-| TWLO | Twilio | +27,5 pts | 37 → 136 ▼ | · | · | −21 % |
-| CCC | CCC Intelligent Solutions | +27,3 pts | 38 → 23 | ✓ | ✓ | −15 % |
-| EPAM | EPAM Systems | +25,2 pts | 39 → 6 ▲ | ✓ | · | −40 % |
-| CRM | Salesforce | +23,4 pts | 40 → 80 ▼ | · | · | −13 % |
-| U | Unity Technologies | +23,4 pts | 41 → 97 ▼ | · | · | −20 % |
-| ADI | Analog Devices | +22,4 pts | 42 → 44 | ✓ | ✓ | −3 % |
-| PCOR | Procore | +21,9 pts | 43 → 15 | ✓ | ✓ | −24 % |
-| MDB | MongoDB Inc. | +21,5 pts | 44 → 32 | ✓ | ✓ | −18 % |
-| FORM | FormFactor, Inc. | +21,2 pts | 45 → 156 ▼ | · | · | −37 % |
-| PANW | Palo Alto Networks | +20,7 pts | 46 → 100 ▼ | ✓ | ✓ | −10 % |
-| DLB | Dolby Laboratories | +20,4 pts | 47 → 51 | ✓ | ✓ | −8 % |
-| NTNX | Nutanix | +19,1 pts | 48 → 82 ▼ | ✓ | ✓ | −5 % |
-| QCOM | Qualcomm | +19,0 pts | 49 → 84 ▼ | ✓ | ✓ | −26 % |
-| ORCL | Oracle Corporation | +18,5 pts | 50 → 76 | · | · | −49 % |
-| MANH | Manhattan Associates | +18,4 pts | 51 → 9 ▲ | ✓ | ✓ | −1 % |
-| UI | Ubiquiti | +18,0 pts | 52 → 46 | ✓ | · | −43 % |
-| ANET | Arista Networks | +17,6 pts | 53 → 109 ▼ | · | · | −15 % |
-| SNOW | Snowflake Inc. | +17,5 pts | 54 → 92 ▼ | · | · | −10 % |
-| ALAB | Astera Labs | +17,1 pts | 55 → 137 ▼ | · | · | −40 % |
-| WDAY | Workday, Inc. | +16,1 pts | 56 → 72 | · | · | −19 % |
-| PCTY | Paylocity | +16,0 pts | 57 → 17 ▲ | ✓ | ✓ | −6 % |
-| HPQ | HP Inc. | +15,4 pts | 58 → 66 | ✓ | ✓ | −9 % |
-| TXN | Texas Instruments | +15,0 pts | 59 → 35 | ✓ | ✓ | −7 % |
-| MCHP | Microchip Technology | +14,2 pts | 60 → 65 | ✓ | · | −21 % |
-| MSI | Motorola Solutions | +13,9 pts | 61 → 36 | ✓ | ✓ | +0 % |
-| IBM | IBM | +13,9 pts | 62 → 22 ▲ | ✓ | · | −22 % |
-| KEYS | Keysight | +13,5 pts | 63 → 108 ▼ | · | · | −14 % |
-| NVDA | Nvidia | +13,1 pts | 64 → 104 ▼ | · | · | −11 % |
+| P | Everpure | +98,7 pts | 1 → 59 ▼ | ✓ | ✓ | −13 % |
+| TEAM | Atlassian | +96,3 pts | 2 → 28 | ✓ | ✓ | −10 % |
+| RBRK | Rubrik | +86,4 pts | 3 → 22 | ✓ | ✓ | −2 % |
+| GTLB | GitLab | +67,0 pts | 4 → 14 | ✓ | ✓ | −2 % |
+| OKTA | Okta, Inc. | +62,6 pts | 5 → 55 ▼ | ✓ | ✓ | −4 % |
+| ZS | Zscaler | +61,7 pts | 6 → 7 | ✓ | ✓ | −26 % |
+| ESTC | Elastic NV | +60,9 pts | 7 → 30 | ✓ | ✓ | −3 % |
+| PLTR | Palantir Technologies | +60,3 pts | 8 → 58 ▼ | ✓ | ✓ | −6 % |
+| PAYC | Paycom | +55,1 pts | 9 → 15 | ✓ | ✓ | −5 % |
+| LITE | Lumentum | +53,2 pts | 10 → 101 ▼ | · | · | −19 % |
+| MSTR | MicroStrategy | +52,3 pts | 11 → 105 ▼ | · | · | −49 % |
+| ENTG | Entegris | +50,2 pts | 12 → 65 ▼ | ✓ | ✓ | −13 % |
+| PTC | PTC Inc. | +47,6 pts | 13 → 1 | ✓ | ✓ | −2 % |
+| SWKS | Skyworks Solutions | +46,7 pts | 14 → 61 ▼ | ✓ | ✓ | −2 % |
+| RNG | RingCentral | +46,2 pts | 15 → 32 | ✓ | ✓ | −3 % |
+| CRWD | CrowdStrike | +46,2 pts | 16 → 85 ▼ | ✓ | ✓ | −6 % |
+| ACN | Accenture | +44,5 pts | 17 → 2 | ✓ | ✓ | −12 % |
+| DOCU | DocuSign | +40,8 pts | 18 → 10 | ✓ | ✓ | −4 % |
+| DT | Dynatrace | +39,5 pts | 19 → 56 ▼ | ✓ | ✓ | −7 % |
+| S | SentinelOne | +39,4 pts | 20 → 45 | ✓ | ✓ | −2 % |
+| SAIL | SailPoint | +39,0 pts | 21 → 47 | ✓ | ✓ | −2 % |
+| SMTC | Semtech | +36,6 pts | 22 → 142 ▼ | · | · | −29 % |
+| MSFT | Microsoft | +36,6 pts | 23 → 68 ▼ | ✓ | ✓ | −2 % |
+| IT | Gartner | +36,4 pts | 24 → 13 | ✓ | ✓ | −12 % |
+| SMCI | Supermicro | +34,5 pts | 25 → 124 ▼ | · | · | −35 % |
+| MRVL | Marvell Technology | +34,2 pts | 26 → 127 ▼ | · | · | −31 % |
+| ZBRA | Zebra Technologies | +33,9 pts | 27 → 76 ▼ | ✓ | ✓ | −3 % |
+| HPE | Hewlett Packard Enterprise | +33,4 pts | 28 → 107 ▼ | · | · | −20 % |
+| AMD | Advanced Micro Devices | +32,4 pts | 29 → 104 ▼ | ✓ | ✓ | −13 % |
+| SNPS | Synopsys | +31,8 pts | 30 → 29 | ✓ | · | −8 % |
+| SNDK | SanDisk | +31,5 pts | 31 → 148 ▼ | · | · | −43 % |
+| BMNR | Bitmine Immersion Technologies | +31,1 pts | 32 → 132 ▼ | · | · | −56 % |
+| CRCL | Circle Internet Group | +30,9 pts | 33 → 90 ▼ | · | · | −40 % |
+| DELL | Dell Technologies | +29,4 pts | 34 → 114 ▼ | · | · | −19 % |
+| TWLO | Twilio | +29,1 pts | 35 → 126 ▼ | · | · | −20 % |
+| CCC | CCC Intelligent Solutions | +27,5 pts | 36 → 24 | ✓ | ✓ | −15 % |
+| MU | Micron Technology | +27,0 pts | 37 → 116 ▼ | · | · | −23 % |
+| NTAP | Netapp | +27,0 pts | 38 → 64 | ✓ | ✓ | −9 % |
+| EPAM | EPAM Systems | +26,6 pts | 39 → 6 ▲ | ✓ | · | −39 % |
+| ADI | Analog Devices | +23,6 pts | 40 → 39 | ✓ | ✓ | −2 % |
+| CRM | Salesforce | +23,4 pts | 41 → 80 ▼ | · | · | −13 % |
+| U | Unity Technologies | +23,1 pts | 42 → 96 ▼ | · | · | −21 % |
+| PCOR | Procore | +22,4 pts | 43 → 17 | ✓ | ✓ | −23 % |
+| PANW | Palo Alto Networks | +21,7 pts | 44 → 97 ▼ | ✓ | ✓ | −9 % |
+| DLB | Dolby Laboratories | +21,0 pts | 45 → 51 | ✓ | ✓ | −8 % |
+| MDB | MongoDB Inc. | +20,5 pts | 46 → 35 | ✓ | ✓ | −18 % |
+| QCOM | Qualcomm | +20,3 pts | 47 → 79 ▼ | ✓ | ✓ | −25 % |
+| ORCL | Oracle Corporation | +19,5 pts | 48 → 72 | · | · | −49 % |
+| NTNX | Nutanix | +19,3 pts | 49 → 81 ▼ | ✓ | ✓ | −5 % |
+| MANH | Manhattan Associates | +18,6 pts | 50 → 11 ▲ | ✓ | ✓ | −1 % |
+| FORM | FormFactor, Inc. | +17,4 pts | 51 → 156 ▼ | · | · | −39 % |
+| SNOW | Snowflake Inc. | +17,3 pts | 52 → 92 ▼ | · | · | −10 % |
+| ANET | Arista Networks | +17,2 pts | 53 → 110 ▼ | · | · | −15 % |
+| WDAY | Workday, Inc. | +16,9 pts | 54 → 70 | ✓ | ✓ | −19 % |
+| PCTY | Paylocity | +16,9 pts | 55 → 18 ▲ | ✓ | ✓ | −5 % |
+| ALAB | Astera Labs | +16,9 pts | 56 → 135 ▼ | · | · | −40 % |
+| UI | Ubiquiti | +16,8 pts | 57 → 52 | ✓ | · | −44 % |
+| TXN | Texas Instruments | +16,5 pts | 58 → 33 | ✓ | ✓ | −5 % |
+| IBM | IBM | +15,5 pts | 59 → 19 ▲ | ✓ | · | −21 % |
+| NET | Cloudflare | +15,3 pts | 60 → 111 ▼ | · | · | −14 % |
+| MCHP | Microchip Technology | +14,9 pts | 61 → 63 | ✓ | · | −21 % |
+| MSI | Motorola Solutions | +14,2 pts | 62 → 36 | ✓ | ✓ | +0 % |
+| HPQ | HP Inc. | +13,7 pts | 63 → 74 | ✓ | ✓ | −10 % |
+| NVDA | Nvidia | +13,2 pts | 64 → 102 ▼ | · | · | −11 % |
 | INTC | Intel | +13,0 pts | 65 → 147 ▼ | · | · | −35 % |
-| CTSH | Cognizant | +12,8 pts | 66 → 40 | ✓ | ✓ | −27 % |
-| TYL | Tyler Technologies | +12,6 pts | 67 → 16 ▲ | ✓ | ✓ | −22 % |
-| MTSI | MACOM Technology Solutions | +12,4 pts | 68 → 111 ▼ | · | · | −38 % |
-| AVT | Avnet | +12,2 pts | 69 → 105 ▼ | · | · | −13 % |
-| TRMB | Trimble Inc. | +12,2 pts | 70 → 25 ▲ | ✓ | · | −22 % |
-| NET | Cloudflare | +12,1 pts | 71 → 118 ▼ | · | · | −17 % |
-| CDW | CDW | +12,0 pts | 72 → 3 ▲ | ✓ | ✓ | −1 % |
-| APH | Amphenol | +11,5 pts | 73 → 85 | ✓ | ✓ | −6 % |
-| VNT | Vontier | +10,9 pts | 74 → 26 ▲ | ✓ | · | −17 % |
-| PEGA | Pegasystems | +10,8 pts | 75 → 70 | · | · | −46 % |
-| DOX | Amdocs | +10,6 pts | 76 → 43 ▲ | ✓ | · | −25 % |
-| RMBS | Rambus | +10,3 pts | 77 → 125 ▼ | · | · | −47 % |
-| APPF | AppFolio | +10,1 pts | 78 → 71 | · | · | −22 % |
-| PATH | UiPath | +9,5 pts | 79 → 49 | · | · | −29 % |
-| ARW | Arrow Electronics | +9,5 pts | 80 → 87 | ✓ | ✓ | −8 % |
-| COHR | Coherent Corp. | +9,3 pts | 81 → 128 ▼ | · | · | −43 % |
-| IOT | Samsara | +8,1 pts | 82 → 39 ▲ | ✓ | ✓ | −8 % |
-| DBX | Dropbox | +8,0 pts | 83 → 54 | ✓ | ✓ | −5 % |
-| AFRM | Affirm Holdings | +7,5 pts | 84 → 42 ▲ | ✓ | ✓ | −13 % |
-| AAOI | Applied Optoelectronics | +7,5 pts | 85 → 134 ▼ | · | · | −63 % |
-| GSAT | Globalstar | +7,1 pts | 86 → 79 | ✓ | ✓ | −1 % |
-| GLW | Corning Inc. | +7,1 pts | 87 → 122 ▼ | · | · | −48 % |
-| CIEN | Ciena | +7,0 pts | 88 → 83 | · | · | −44 % |
-| SITM | SiTime | +7,0 pts | 89 → 150 ▼ | · | · | −45 % |
-| SANM | Sanmina Corporation | +7,0 pts | 90 → 138 ▼ | · | · | −38 % |
-| OLED | Universal Display Corporation | +6,9 pts | 91 → 37 ▲ | ✓ | · | −42 % |
-| BSY | Bentley Systems | +6,6 pts | 92 → 7 ▲ | ✓ | ✓ | −23 % |
-| ZM | Zoom Communications | +6,4 pts | 93 → 47 ▲ | ✓ | ✓ | −13 % |
-| VRSN | Verisign | +5,7 pts | 94 → 45 ▲ | ✓ | ✓ | −1 % |
-| VIAV | Viavi Solutions | +5,6 pts | 95 → 140 ▼ | · | · | −39 % |
-| RAL | Ralliant | +5,6 pts | 96 → 74 | ✓ | ✓ | −5 % |
-| CRWV | CoreWeave | +4,8 pts | 97 → 155 ▼ | · | · | −55 % |
-| KVYO | Klaviyo | +4,5 pts | 98 → 4 ▲ | ✓ | · | −40 % |
-| SNX | TD Synnex | +4,4 pts | 99 → 81 | · | · | −11 % |
-| CGNX | Cognex Corporation | +4,2 pts | 100 → 86 | · | · | −17 % |
-| AAPL | Apple Inc. | +4,2 pts | 101 → 57 ▲ | ✓ | ✓ | +0 % |
-| ONTO | Onto Innovation | +4,0 pts | 102 → 152 ▼ | · | · | −40 % |
-| SSNC | SS&C Technologies | +3,9 pts | 103 → 62 ▲ | · | · | −10 % |
-| CDNS | Cadence Design Systems | +3,6 pts | 104 → 64 ▲ | ✓ | · | −18 % |
-| LRCX | Lam Research | +2,1 pts | 105 → 144 ▼ | · | · | −41 % |
-| JBL | Jabil | +1,6 pts | 106 → 77 | · | · | −25 % |
-| GDDY | GoDaddy | +1,4 pts | 107 → 33 ▲ | ✓ | ✓ | −22 % |
-| BILL | Bill.com | +1,1 pts | 108 → 30 ▲ | ✓ | ✓ | −15 % |
-| IONQ | IonQ | +1,0 pts | 109 → 153 ▼ | · | · | −55 % |
-| LFUS | Littelfuse | +0,8 pts | 110 → 95 | ✓ | ✓ | −16 % |
-| GEN | Gen Digital | +0,4 pts | 111 → 5 ▲ | ✓ | ✓ | −13 % |
-| DDOG | Datadog | −0,1 pts | 112 → 99 | ✓ | ✓ | −11 % |
-| INTU | Intuit | −0,2 pts | 113 → 12 ▲ | ✓ | · | −51 % |
-| Q | Qnity Electronics | −0,3 pts | 114 → 93 | · | · | −30 % |
-| KLAC | KLA Corporation | −0,7 pts | 115 → 121 | · | · | −44 % |
-| ADSK | Autodesk | −1,6 pts | 116 → 24 ▲ | ✓ | · | −23 % |
-| GFS | GlobalFoundries | −1,6 pts | 117 → 98 | · | · | −49 % |
-| TOST | Toast, Inc. | −1,9 pts | 118 → 38 ▲ | · | · | −19 % |
-| AMAT | Applied Materials | −2,0 pts | 119 → 131 | · | · | −41 % |
-| CSCO | Cisco | −2,1 pts | 120 → 73 ▲ | · | · | −16 % |
-| KD | Kyndryl | −2,2 pts | 121 → 11 ▲ | ✓ | · | −53 % |
-| AMKR | Amkor Technology | −2,5 pts | 122 → 143 | · | · | −56 % |
-| MPWR | Monolithic Power Systems | −2,7 pts | 123 → 112 | · | · | −28 % |
-| NOW | ServiceNow | −2,8 pts | 124 → 129 | · | · | −40 % |
-| AEIS | Advanced Energy | −3,2 pts | 125 → 120 | · | · | −38 % |
-| GWRE | Guidewire Software | −3,4 pts | 126 → 28 ▲ | · | · | −33 % |
-| INGM | Ingram Micro | −3,9 pts | 127 → 48 ▲ | ✓ | ✓ | −9 % |
-| ON | ON Semiconductor | −4,1 pts | 128 → 90 ▲ | ✓ | · | −44 % |
-| HUBS | HubSpot | −4,4 pts | 129 → 20 ▲ | ✓ | ✓ | −52 % |
-| IPGP | IPG Photonics | −4,8 pts | 130 → 94 ▲ | · | · | −51 % |
-| DOCN | DigitalOcean | −4,9 pts | 131 → 149 | · | · | −44 % |
-| FFIV | F5, Inc. | −5,2 pts | 132 → 135 | · | · | −24 % |
-| TER | Teradyne | −5,5 pts | 133 → 151 | · | · | −38 % |
-| CRDO | Credo Technology Group | −5,8 pts | 134 → 124 | · | · | −45 % |
-| ADBE | Adobe Inc. | −5,9 pts | 135 → 68 ▲ | · | · | −31 % |
-| AVGO | Broadcom | −6,3 pts | 136 → 88 ▲ | · | · | −28 % |
-| FLEX | Flex Ltd. | −7,4 pts | 137 → 119 | · | · | −42 % |
-| LSCC | Lattice Semiconductor | −7,4 pts | 138 → 132 | · | · | −33 % |
-| IREN | IREN | −7,9 pts | 139 → 157 | · | · | −65 % |
-| AKAM | Akamai Technologies | −8,2 pts | 140 → 107 ▲ | · | · | −39 % |
-| FIG | Figma | −10,4 pts | 141 → 59 ▲ | · | · | −57 % |
-| FSLR | First Solar | −10,4 pts | 142 → 75 ▲ | · | · | −44 % |
-| FTNT | Fortinet | −11,2 pts | 143 → 148 | · | · | −31 % |
-| TTMI | TTM Technologies | −11,4 pts | 144 → 154 | · | · | −60 % |
-| WDC | Western Digital | −13,0 pts | 145 → 116 | · | · | −47 % |
-| FN | Fabrinet | −13,4 pts | 146 → 127 | · | · | −52 % |
-| WULF | TeraWulf | −13,6 pts | 147 → 117 | · | · | −55 % |
-| APLD | Applied Digital | −14,3 pts | 148 → 139 | · | · | −60 % |
-| MKSI | MKS Instruments | −14,4 pts | 149 → 133 | · | · | −51 % |
-| CRUS | Cirrus Logic | −14,8 pts | 150 → 101 ▲ | · | · | −37 % |
-| WU | Western Union | −20,4 pts | 151 → 61 ▲ | · | · | −34 % |
-| ALGM | Allegro MicroSystems | −23,2 pts | 152 → 115 ▲ | · | · | −54 % |
-| AUR | Aurora Innovation | −24,7 pts | 153 → 141 | · | · | −47 % |
-| ENPH | Enphase Energy | −27,2 pts | 154 → 146 | · | · | −65 % |
-| FOUR | Shift4 | −29,5 pts | 155 → 41 ▲ | · | · | −47 % |
-| APP | AppLovin | −34,8 pts | 156 → 113 ▲ | · | · | −65 % |
-| FICO | Fair Isaac | −48,9 pts | 157 → 18 ▲ | · | · | −62 % |
+| CTSH | Cognizant | +12,9 pts | 66 → 40 | ✓ | ✓ | −27 % |
+| CDW | CDW | +12,8 pts | 67 → 4 ▲ | ✓ | ✓ | +0 % |
+| TRMB | Trimble Inc. | +12,8 pts | 68 → 25 ▲ | ✓ | · | −22 % |
+| TYL | Tyler Technologies | +12,7 pts | 69 → 20 ▲ | ✓ | ✓ | −22 % |
+| VNT | Vontier | +12,0 pts | 70 → 26 ▲ | ✓ | · | −16 % |
+| KEYS | Keysight | +11,7 pts | 71 → 109 ▼ | · | · | −15 % |
+| AVT | Avnet | +11,6 pts | 72 → 106 ▼ | · | · | −14 % |
+| APPF | AppFolio | +11,3 pts | 73 → 69 | · | · | −21 % |
+| DOX | Amdocs | +11,2 pts | 74 → 41 ▲ | ✓ | · | −25 % |
+| PEGA | Pegasystems | +11,2 pts | 75 → 71 | · | · | −46 % |
+| MTSI | MACOM Technology Solutions | +10,9 pts | 76 → 113 ▼ | · | · | −38 % |
+| RMBS | Rambus | +10,5 pts | 77 → 120 ▼ | · | · | −47 % |
+| PATH | UiPath | +10,0 pts | 78 → 49 | · | · | −29 % |
+| APH | Amphenol | +10,0 pts | 79 → 89 | ✓ | ✓ | −7 % |
+| DBX | Dropbox | +9,5 pts | 80 → 50 | ✓ | ✓ | −4 % |
+| ARW | Arrow Electronics | +8,4 pts | 81 → 91 | ✓ | ✓ | −9 % |
+| BSY | Bentley Systems | +8,1 pts | 82 → 8 ▲ | ✓ | ✓ | −21 % |
+| IOT | Samsara | +8,1 pts | 83 → 38 ▲ | ✓ | ✓ | −8 % |
+| COHR | Coherent Corp. | +7,4 pts | 84 → 129 ▼ | · | · | −44 % |
+| AFRM | Affirm Holdings | +7,3 pts | 85 → 46 ▲ | ✓ | ✓ | −13 % |
+| OLED | Universal Display Corporation | +7,2 pts | 86 → 37 ▲ | ✓ | · | −42 % |
+| GSAT | Globalstar | +6,9 pts | 87 → 78 | ✓ | ✓ | −1 % |
+| CIEN | Ciena | +6,4 pts | 88 → 84 | · | · | −44 % |
+| ZM | Zoom Communications | +6,3 pts | 89 → 48 ▲ | ✓ | ✓ | −13 % |
+| SANM | Sanmina Corporation | +6,2 pts | 90 → 137 ▼ | · | · | −39 % |
+| SITM | SiTime | +6,2 pts | 91 → 150 ▼ | · | · | −46 % |
+| VRSN | Verisign | +6,1 pts | 92 → 44 ▲ | ✓ | ✓ | −1 % |
+| KVYO | Klaviyo | +6,1 pts | 93 → 3 ▲ | ✓ | · | −39 % |
+| RAL | Ralliant | +6,0 pts | 94 → 73 | ✓ | ✓ | −5 % |
+| GLW | Corning Inc. | +4,7 pts | 95 → 125 | · | · | −50 % |
+| AAOI | Applied Optoelectronics | +4,1 pts | 96 → 138 ▼ | · | · | −65 % |
+| VIAV | Viavi Solutions | +4,0 pts | 97 → 141 ▼ | · | · | −40 % |
+| SSNC | SS&C Technologies | +3,9 pts | 98 → 62 ▲ | · | · | −10 % |
+| AAPL | Apple Inc. | +3,8 pts | 99 → 60 ▲ | ✓ | ✓ | +0 % |
+| CDNS | Cadence Design Systems | +3,6 pts | 100 → 66 ▲ | ✓ | · | −18 % |
+| SNX | TD Synnex | +3,3 pts | 101 → 83 | · | · | −12 % |
+| GEN | Gen Digital | +3,1 pts | 102 → 5 ▲ | ✓ | ✓ | −10 % |
+| BILL | Bill.com | +2,8 pts | 103 → 27 ▲ | ✓ | ✓ | −14 % |
+| CGNX | Cognex Corporation | +2,7 pts | 104 → 93 | · | · | −18 % |
+| ONTO | Onto Innovation | +2,2 pts | 105 → 153 ▼ | · | · | −41 % |
+| LRCX | Lam Research | +1,5 pts | 106 → 146 ▼ | · | · | −41 % |
+| GDDY | GoDaddy | +1,3 pts | 107 → 34 ▲ | ✓ | ✓ | −22 % |
+| DDOG | Datadog | +1,2 pts | 108 → 94 | ✓ | ✓ | −9 % |
+| JBL | Jabil | +0,8 pts | 109 → 82 | · | · | −25 % |
+| INTU | Intuit | +0,5 pts | 110 → 12 ▲ | ✓ | · | −50 % |
+| CRWV | CoreWeave | +0,4 pts | 111 → 155 ▼ | · | · | −57 % |
+| KD | Kyndryl | +0,1 pts | 112 → 9 ▲ | ✓ | · | −52 % |
+| Q | Qnity Electronics | +0,1 pts | 113 → 88 | ✓ | · | −30 % |
+| IONQ | IonQ | −0,3 pts | 114 → 152 ▼ | · | · | −56 % |
+| LFUS | Littelfuse | −0,8 pts | 115 → 99 | · | · | −17 % |
+| ADSK | Autodesk | −0,9 pts | 116 → 23 ▲ | ✓ | · | −22 % |
+| KLAC | KLA Corporation | −0,9 pts | 117 → 119 | · | · | −44 % |
+| GFS | GlobalFoundries | −1,8 pts | 118 → 98 | · | · | −49 % |
+| CSCO | Cisco | −2,5 pts | 119 → 75 ▲ | · | · | −16 % |
+| AMAT | Applied Materials | −2,7 pts | 120 → 128 | · | · | −42 % |
+| TOST | Toast, Inc. | −2,8 pts | 121 → 42 ▲ | · | · | −19 % |
+| AMKR | Amkor Technology | −2,8 pts | 122 → 143 | · | · | −56 % |
+| MPWR | Monolithic Power Systems | −3,3 pts | 123 → 112 | · | · | −29 % |
+| GWRE | Guidewire Software | −3,7 pts | 124 → 31 ▲ | · | · | −33 % |
+| ON | ON Semiconductor | −4,0 pts | 125 → 87 ▲ | ✓ | · | −44 % |
+| HUBS | HubSpot | −4,0 pts | 126 → 21 ▲ | ✓ | ✓ | −52 % |
+| INGM | Ingram Micro | −4,2 pts | 127 → 53 ▲ | ✓ | ✓ | −9 % |
+| AEIS | Advanced Energy | −4,4 pts | 128 → 121 | · | · | −38 % |
+| NOW | ServiceNow | −4,7 pts | 129 → 133 | · | · | −41 % |
+| IPGP | IPG Photonics | −5,0 pts | 130 → 95 ▲ | · | · | −51 % |
+| ADBE | Adobe Inc. | −5,2 pts | 131 → 67 ▲ | · | · | −31 % |
+| FFIV | F5, Inc. | −5,5 pts | 132 → 134 | · | · | −24 % |
+| DOCN | DigitalOcean | −5,8 pts | 133 → 149 | · | · | −45 % |
+| AVGO | Broadcom | −6,1 pts | 134 → 86 ▲ | · | · | −28 % |
+| CRDO | Credo Technology Group | −6,3 pts | 135 → 122 | · | · | −45 % |
+| TER | Teradyne | −6,6 pts | 136 → 151 | · | · | −39 % |
+| AKAM | Akamai Technologies | −6,9 pts | 137 → 103 ▲ | · | · | −38 % |
+| LSCC | Lattice Semiconductor | −8,2 pts | 138 → 131 | · | · | −34 % |
+| FTNT | Fortinet | −8,6 pts | 139 → 145 | · | · | −29 % |
+| FLEX | Flex Ltd. | −9,1 pts | 140 → 123 | · | · | −43 % |
+| FIG | Figma | −9,3 pts | 141 → 54 ▲ | · | · | −56 % |
+| IREN | IREN | −9,9 pts | 142 → 157 | · | · | −66 % |
+| FSLR | First Solar | −10,6 pts | 143 → 77 ▲ | · | · | −44 % |
+| TTMI | TTM Technologies | −13,3 pts | 144 → 154 | · | · | −60 % |
+| WDC | Western Digital | −13,8 pts | 145 → 117 | · | · | −47 % |
+| CRUS | Cirrus Logic | −14,6 pts | 146 → 100 ▲ | · | · | −36 % |
+| WULF | TeraWulf | −14,9 pts | 147 → 118 | · | · | −56 % |
+| FN | Fabrinet | −15,3 pts | 148 → 130 | · | · | −53 % |
+| MKSI | MKS Instruments | −15,4 pts | 149 → 136 | · | · | −51 % |
+| APLD | Applied Digital | −15,8 pts | 150 → 139 | · | · | −61 % |
+| WU | Western Union | −19,9 pts | 151 → 57 ▲ | · | · | −34 % |
+| ALGM | Allegro MicroSystems | −21,2 pts | 152 → 108 ▲ | · | · | −53 % |
+| ENPH | Enphase Energy | −25,7 pts | 153 → 144 | · | · | −64 % |
+| AUR | Aurora Innovation | −25,8 pts | 154 → 140 | · | · | −48 % |
+| FOUR | Shift4 | −29,4 pts | 155 → 43 ▲ | · | · | −47 % |
+| APP | AppLovin | −35,6 pts | 156 → 115 ▲ | · | · | −65 % |
+| FICO | Fair Isaac | −47,8 pts | 157 → 16 ▲ | · | · | −62 % |
 | QRVO | Qorvo | — pts | — → — | · | · | — % |
 
 </details>
@@ -399,63 +399,63 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 
 | Ticker | Société | Perf. 13 sem. vs marché | Rang secteur 3 m → 1 m | > MM50 | MM50 > MM200 | Vs plus haut 52 s. |
 |---|---|---:|:---:|:---:|:---:|---:|
-| AUGO | Aura Minerals | +45,4 pts | 1 → 40 ▼ | · | · | −27 % |
-| CLF | Cleveland-Cliffs | +24,6 pts | 2 → 1 | ✓ | ✓ | −7 % |
-| NEM | Newmont | +22,7 pts | 3 → 44 ▼ | · | · | −18 % |
-| RGLD | Royal Gold | +22,6 pts | 4 → 39 ▼ | · | · | −21 % |
+| AUGO | Aura Minerals | +45,6 pts | 1 → 40 ▼ | · | · | −27 % |
+| CLF | Cleveland-Cliffs | +25,9 pts | 2 → 1 | ✓ | ✓ | −6 % |
+| NEM | Newmont | +23,2 pts | 3 → 44 ▼ | · | · | −17 % |
+| RGLD | Royal Gold | +22,0 pts | 4 → 39 ▼ | · | · | −22 % |
 | IFF | International Flavors & Fragranc | +15,2 pts | 5 → 22 ▼ | ✓ | ✓ | −4 % |
-| SOLS | Solstice Advanced Materials | +12,9 pts | 6 → 17 ▼ | ✓ | · | −29 % |
-| SCCO | Southern Copper | +11,9 pts | 7 → 48 ▼ | · | · | −13 % |
-| MP | MP Materials | +11,5 pts | 8 → 51 ▼ | · | · | −42 % |
-| DOW | Dow Inc. | +11,2 pts | 9 → 3 | ✓ | · | −19 % |
-| AU | AngloGold Ashanti | +11,1 pts | 10 → 50 ▼ | · | · | −31 % |
-| FCX | Freeport-McMoRan | +11,0 pts | 11 → 49 ▼ | · | · | −17 % |
-| CE | Celanese | +10,5 pts | 12 → 21 | ✓ | · | −30 % |
-| NEU | NewMarket | +10,4 pts | 13 → 46 ▼ | · | · | −10 % |
-| LYB | LyondellBasell | +9,2 pts | 14 → 8 | ✓ | · | −19 % |
-| AVY | Avery Dennison | +9,0 pts | 15 → 29 ▼ | ✓ | ✓ | −7 % |
-| RS | Reliance, Inc. | +8,7 pts | 16 → 10 | ✓ | ✓ | −1 % |
-| NUE | Nucor | +7,8 pts | 17 → 4 ▲ | ✓ | ✓ | −0 % |
-| PPG | PPG Industries | +7,5 pts | 18 → 7 ▲ | ✓ | · | −8 % |
-| APD | Air Products | +6,8 pts | 19 → 14 | ✓ | ✓ | −1 % |
-| ECL | Ecolab | +6,2 pts | 20 → 20 | ✓ | ✓ | −2 % |
-| AMCR | Amcor | +3,9 pts | 21 → 15 | ✓ | ✓ | −4 % |
-| HL | Hecla Mining | +3,5 pts | 22 → 53 ▼ | · | · | −54 % |
-| JHX | James Hardie Industries | +3,5 pts | 23 → 27 | · | · | −13 % |
-| ESI | Element Solutions | +3,1 pts | 24 → 41 ▼ | ✓ | · | −27 % |
-| PKG | Packaging Corporation of America | +2,7 pts | 25 → 18 | ✓ | ✓ | −1 % |
-| DD | DuPont | +2,5 pts | 26 → 24 | ✓ | · | −8 % |
-| EMN | Eastman Chemical Company | +2,1 pts | 27 → 35 | ✓ | · | −14 % |
-| VMC | Vulcan Materials | +1,2 pts | 28 → 5 ▲ | ✓ | · | −13 % |
-| STLD | Steel Dynamics | +0,2 pts | 29 → 9 ▲ | ✓ | ✓ | −11 % |
-| LPX | Louisiana-Pacific | +0,1 pts | 30 → 12 ▲ | ✓ | · | −25 % |
-| CCK | Crown Holdings | −1,0 pts | 31 → 16 ▲ | ✓ | ✓ | −4 % |
-| LIN | Linde plc | −1,4 pts | 32 → 30 | ✓ | · | −8 % |
-| BALL | Ball Corporation | −1,9 pts | 33 → 6 ▲ | ✓ | ✓ | −5 % |
-| AXTA | Axalta | −2,3 pts | 34 → 31 | · | · | −11 % |
-| CDE | Coeur Mining | −3,3 pts | 35 → 55 ▼ | · | · | −48 % |
-| ATR | AptarGroup | −3,5 pts | 36 → 25 ▲ | ✓ | · | −10 % |
-| SHW | Sherwin-Williams | −3,7 pts | 37 → 37 | · | · | −11 % |
-| MLM | Martin Marietta Materials | −4,3 pts | 38 → 13 ▲ | ✓ | · | −23 % |
-| RPM | RPM International | −4,7 pts | 39 → 34 | ✓ | · | −14 % |
-| AA | Alcoa | −4,9 pts | 40 → 45 | · | · | −52 % |
-| CF | CF Industries | −6,7 pts | 41 → 36 | · | · | −16 % |
-| SLGN | Silgan Holdings | −6,9 pts | 42 → 11 ▲ | ✓ | · | −18 % |
-| CRH | CRH plc | −8,0 pts | 43 → 19 ▲ | ✓ | · | −30 % |
-| WLK | Westlake Corporation | −8,4 pts | 44 → 33 ▲ | · | · | −46 % |
-| SW | Smurfit Westrock | −11,8 pts | 45 → 47 | · | · | −18 % |
-| SMG | Scotts Miracle-Gro Company | −12,2 pts | 46 → 2 ▲ | ✓ | · | −17 % |
-| EXP | Eagle Materials | −12,6 pts | 47 → 28 ▲ | ✓ | · | −24 % |
-| ALM | Almonty Industries | −13,0 pts | 48 → 57 | · | · | −60 % |
-| IP | International Paper | −14,2 pts | 49 → 23 ▲ | ✓ | · | −24 % |
-| SON | Sonoco | −14,6 pts | 50 → 38 ▲ | · | · | −17 % |
-| CTVA | Corteva | −15,6 pts | 51 → 42 | · | · | −21 % |
-| ALB | Albemarle Corporation | −16,9 pts | 52 → 52 | · | · | −56 % |
-| MOS | Mosaic Company (The) | −18,4 pts | 53 → 54 | · | · | −41 % |
-| VVV | Valvoline | −18,4 pts | 54 → 26 ▲ | ✓ | · | −20 % |
-| GPK | Graphic Packaging | −21,2 pts | 55 → 43 ▲ | · | · | −47 % |
-| OLN | Olin Corporation | −25,3 pts | 56 → 32 ▲ | · | · | −45 % |
-| CRS | Carpenter Technology Corporation | −41,7 pts | 57 → 56 | · | · | −51 % |
+| SOLS | Solstice Advanced Materials | +13,1 pts | 6 → 17 ▼ | ✓ | · | −29 % |
+| DOW | Dow Inc. | +12,3 pts | 7 → 3 | ✓ | · | −18 % |
+| SCCO | Southern Copper | +11,8 pts | 8 → 48 ▼ | · | · | −13 % |
+| FCX | Freeport-McMoRan | +11,1 pts | 9 → 47 ▼ | · | · | −17 % |
+| CE | Celanese | +10,6 pts | 10 → 21 ▼ | ✓ | · | −30 % |
+| AU | AngloGold Ashanti | +10,5 pts | 11 → 49 ▼ | · | · | −31 % |
+| AVY | Avery Dennison | +10,1 pts | 12 → 27 ▼ | ✓ | ✓ | −6 % |
+| MP | MP Materials | +9,9 pts | 13 → 52 ▼ | · | · | −43 % |
+| RS | Reliance, Inc. | +9,8 pts | 14 → 9 | ✓ | ✓ | +0 % |
+| LYB | LyondellBasell | +9,8 pts | 15 → 11 | ✓ | · | −19 % |
+| PPG | PPG Industries | +8,6 pts | 16 → 6 | ✓ | · | −7 % |
+| NUE | Nucor | +8,4 pts | 17 → 4 ▲ | ✓ | ✓ | +0 % |
+| APD | Air Products | +7,2 pts | 18 → 13 | ✓ | ✓ | −0 % |
+| ECL | Ecolab | +6,9 pts | 19 → 19 | ✓ | ✓ | −2 % |
+| AMCR | Amcor | +4,9 pts | 20 → 14 | ✓ | ✓ | −3 % |
+| JHX | James Hardie Industries | +3,4 pts | 21 → 28 | · | · | −13 % |
+| PKG | Packaging Corporation of America | +3,3 pts | 22 → 18 | ✓ | ✓ | −0 % |
+| NEU | NewMarket | +2,9 pts | 23 → 50 ▼ | · | · | −16 % |
+| EMN | Eastman Chemical Company | +2,8 pts | 24 → 32 | ✓ | · | −13 % |
+| DD | DuPont | +2,8 pts | 25 → 24 | ✓ | · | −8 % |
+| HL | Hecla Mining | +2,7 pts | 26 → 53 ▼ | · | · | −55 % |
+| ESI | Element Solutions | +2,6 pts | 27 → 42 ▼ | ✓ | · | −28 % |
+| STLD | Steel Dynamics | +1,3 pts | 28 → 8 ▲ | ✓ | ✓ | −10 % |
+| LPX | Louisiana-Pacific | +0,8 pts | 29 → 10 ▲ | ✓ | · | −25 % |
+| CCK | Crown Holdings | −0,4 pts | 30 → 15 ▲ | ✓ | ✓ | −3 % |
+| VMC | Vulcan Materials | −0,5 pts | 31 → 7 ▲ | ✓ | · | −15 % |
+| LIN | Linde plc | −0,7 pts | 32 → 30 | ✓ | · | −8 % |
+| BALL | Ball Corporation | −1,1 pts | 33 → 5 ▲ | ✓ | ✓ | −4 % |
+| AXTA | Axalta | −2,9 pts | 34 → 33 | · | · | −12 % |
+| ATR | AptarGroup | −3,2 pts | 35 → 25 | ✓ | · | −10 % |
+| SHW | Sherwin-Williams | −3,2 pts | 36 → 38 | ✓ | · | −11 % |
+| CDE | Coeur Mining | −3,5 pts | 37 → 55 ▼ | · | · | −48 % |
+| RPM | RPM International | −4,6 pts | 38 → 34 | ✓ | · | −14 % |
+| MLM | Martin Marietta Materials | −5,5 pts | 39 → 16 ▲ | ✓ | · | −24 % |
+| AA | Alcoa | −6,0 pts | 40 → 46 | · | · | −52 % |
+| CF | CF Industries | −6,2 pts | 41 → 36 | · | · | −15 % |
+| SLGN | Silgan Holdings | −6,4 pts | 42 → 12 ▲ | ✓ | · | −18 % |
+| WLK | Westlake Corporation | −7,4 pts | 43 → 31 ▲ | · | · | −46 % |
+| CRH | CRH plc | −8,2 pts | 44 → 20 ▲ | ✓ | · | −30 % |
+| SMG | Scotts Miracle-Gro Company | −10,5 pts | 45 → 2 ▲ | ✓ | · | −15 % |
+| SW | Smurfit Westrock | −10,5 pts | 46 → 45 | · | · | −16 % |
+| EXP | Eagle Materials | −12,7 pts | 47 → 29 ▲ | ✓ | · | −24 % |
+| IP | International Paper | −14,0 pts | 48 → 23 ▲ | ✓ | · | −24 % |
+| SON | Sonoco | −14,0 pts | 49 → 37 ▲ | · | · | −17 % |
+| ALM | Almonty Industries | −14,5 pts | 50 → 57 | · | · | −60 % |
+| CTVA | Corteva | −14,8 pts | 51 → 41 | · | · | −21 % |
+| ALB | Albemarle Corporation | −17,2 pts | 52 → 51 | · | · | −56 % |
+| VVV | Valvoline | −17,8 pts | 53 → 26 ▲ | ✓ | · | −20 % |
+| MOS | Mosaic Company (The) | −18,1 pts | 54 → 54 | · | · | −41 % |
+| GPK | Graphic Packaging | −20,8 pts | 55 → 43 ▲ | · | · | −46 % |
+| OLN | Olin Corporation | −26,3 pts | 56 → 35 ▲ | · | · | −46 % |
+| CRS | Carpenter Technology Corporation | −43,1 pts | 57 → 56 | · | · | −52 % |
 
 </details>
 
@@ -464,62 +464,62 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 
 | Ticker | Société | Perf. 13 sem. vs marché | Rang secteur 3 m → 1 m | > MM50 | MM50 > MM200 | Vs plus haut 52 s. |
 |---|---|---:|:---:|:---:|:---:|---:|
-| ELF | e.l.f. Beauty | +40,3 pts | 1 → 12 ▼ | ✓ | ✓ | −11 % |
+| ELF | e.l.f. Beauty | +40,2 pts | 1 → 15 ▼ | ✓ | ✓ | −11 % |
 | EL | Estée Lauder Companies (The) | +30,4 pts | 2 → 3 | ✓ | ✓ | −8 % |
-| CART | Maplebear Inc. | +25,9 pts | 3 → 1 | ✓ | ✓ | −6 % |
-| KDP | Keurig Dr Pepper | +12,9 pts | 4 → 5 | ✓ | ✓ | −0 % |
-| KR | Kroger | +11,0 pts | 5 → 11 | ✓ | · | −12 % |
-| PG | Procter & Gamble | +10,3 pts | 6 → 21 ▼ | ✓ | ✓ | −3 % |
-| COKE | Coca-Cola Consolidated | +9,5 pts | 7 → 19 ▼ | ✓ | ✓ | −3 % |
-| ACI | Albertsons | +7,2 pts | 8 → 20 ▼ | ✓ | · | −29 % |
-| WMT | Walmart | +6,9 pts | 9 → 4 | ✓ | · | −10 % |
-| FRPT | Freshpet | +6,4 pts | 10 → 8 | ✓ | ✓ | −23 % |
-| CHD | Church & Dwight | +6,1 pts | 11 → 14 | ✓ | ✓ | −4 % |
-| BJ | BJ's Wholesale Club | +5,4 pts | 12 → 9 | ✓ | ✓ | −2 % |
-| PM | Philip Morris International | +5,4 pts | 13 → 25 ▼ | ✓ | ✓ | +0 % |
-| KO | Coca-Cola Company (The) | +5,0 pts | 14 → 31 ▼ | ✓ | ✓ | −3 % |
-| TGT | Target Corporation | +4,9 pts | 15 → 52 ▼ | · | · | −11 % |
-| MO | Altria | +3,2 pts | 16 → 10 | ✓ | ✓ | −1 % |
-| COST | Costco | +2,3 pts | 17 → 27 | ✓ | · | −9 % |
-| DLTR | Dollar Tree | +2,0 pts | 18 → 7 ▲ | ✓ | ✓ | −7 % |
-| DG | Dollar General | +1,5 pts | 19 → 28 | ✓ | ✓ | −16 % |
-| SJM | J.M. Smucker Company (The) | +1,1 pts | 20 → 36 ▼ | ✓ | ✓ | −6 % |
-| KVUE | Kenvue | +0,9 pts | 21 → 24 | ✓ | ✓ | −2 % |
-| STZ | Constellation Brands | +0,2 pts | 22 → 6 ▲ | ✓ | · | −21 % |
-| LW | Lamb Weston | +0,1 pts | 23 → 2 ▲ | ✓ | ✓ | −13 % |
-| CL | Colgate-Palmolive | +0,0 pts | 24 → 26 | ✓ | ✓ | −5 % |
-| USFD | US Foods | −0,1 pts | 25 → 22 | ✓ | ✓ | −8 % |
-| CELH | Celsius Holdings | −1,9 pts | 26 → 44 ▼ | · | · | −54 % |
-| KMB | Kimberly-Clark | −2,0 pts | 27 → 13 ▲ | ✓ | ✓ | −5 % |
-| SYY | Sysco | −2,6 pts | 28 → 34 | ✓ | ✓ | −8 % |
-| MDLZ | Mondelez International | −3,0 pts | 29 → 30 | ✓ | ✓ | −5 % |
-| ADM | Archer Daniels Midland | −4,0 pts | 30 → 53 ▼ | · | · | −14 % |
-| MNST | Monster Beverage | −4,4 pts | 31 → 16 ▲ | ✓ | ✓ | −8 % |
-| BF-B | Brown–Forman(Class B) | −4,6 pts | 32 → 35 | ✓ | ✓ | −8 % |
-| INGR | Ingredion | −5,3 pts | 33 → 49 ▼ | · | · | −19 % |
-| PEP | PepsiCo | −5,8 pts | 34 → 41 | · | · | −20 % |
-| DAR | Darling Ingredients | −6,3 pts | 35 → 55 ▼ | · | · | −20 % |
-| TAP | Molson Coors | −7,0 pts | 36 → 32 | ✓ | · | −26 % |
-| TSN | Tyson Foods | −7,3 pts | 37 → 23 ▲ | ✓ | · | −18 % |
-| REYN | Reynolds Consumer Products | −7,6 pts | 38 → 29 | ✓ | · | −13 % |
-| CPB | Campbell Soup Company | −8,2 pts | 39 → 38 | · | · | −31 % |
-| CLX | Clorox | −8,2 pts | 40 → 18 ▲ | ✓ | · | −28 % |
-| BG | Bunge Global | −8,6 pts | 41 → 54 ▼ | · | · | −26 % |
-| CAG | Conagra Brands | −8,8 pts | 42 → 43 | · | · | −28 % |
-| MKC | McCormick & Company | −9,1 pts | 43 → 47 | · | · | −33 % |
-| PPC | Pilgrim's Pride | −9,1 pts | 44 → 48 | · | · | −38 % |
-| HSY | Hershey Company (The) | −10,5 pts | 45 → 45 | · | · | −30 % |
-| GIS | General Mills | −10,7 pts | 46 → 42 | · | · | −29 % |
-| KHC | Kraft Heinz | −11,3 pts | 47 → 39 | · | · | −12 % |
-| SEB | Seaboard Corporation | −14,5 pts | 48 → 51 | · | · | −35 % |
-| PRMB | Primo Brands | −15,0 pts | 49 → 46 | · | · | −24 % |
-| JBS | JBS N.V. | −15,1 pts | 50 → 33 ▲ | · | · | −30 % |
-| POST | Post Holdings | −16,6 pts | 51 → 17 ▲ | ✓ | · | −30 % |
-| PFGC | Performance Food Group | −16,8 pts | 52 → 40 ▲ | ✓ | · | −17 % |
-| HRL | Hormel Foods | −17,7 pts | 53 → 37 ▲ | ✓ | · | −20 % |
-| CASY | Casey's | −21,2 pts | 54 → 15 ▲ | ✓ | · | −26 % |
+| CART | Maplebear Inc. | +25,7 pts | 3 → 1 | ✓ | ✓ | −6 % |
+| KDP | Keurig Dr Pepper | +13,6 pts | 4 → 5 | ✓ | ✓ | +0 % |
+| KR | Kroger | +11,5 pts | 5 → 13 | ✓ | · | −12 % |
+| PG | Procter & Gamble | +11,2 pts | 6 → 21 ▼ | ✓ | ✓ | −2 % |
+| COKE | Coca-Cola Consolidated | +9,5 pts | 7 → 24 ▼ | ✓ | ✓ | −3 % |
+| ACI | Albertsons | +7,9 pts | 8 → 16 | ✓ | · | −29 % |
+| FRPT | Freshpet | +7,3 pts | 9 → 8 | ✓ | ✓ | −23 % |
+| CHD | Church & Dwight | +7,1 pts | 10 → 12 | ✓ | ✓ | −3 % |
+| WMT | Walmart | +7,0 pts | 11 → 4 | ✓ | · | −9 % |
+| PM | Philip Morris International | +6,5 pts | 12 → 25 ▼ | ✓ | ✓ | +0 % |
+| BJ | BJ's Wholesale Club | +6,0 pts | 13 → 9 | ✓ | ✓ | −1 % |
+| TGT | Target Corporation | +5,4 pts | 14 → 52 ▼ | · | · | −11 % |
+| KO | Coca-Cola Company (The) | +5,4 pts | 15 → 31 ▼ | ✓ | ✓ | −3 % |
+| MO | Altria | +4,7 pts | 16 → 10 | ✓ | ✓ | +0 % |
+| DLTR | Dollar Tree | +3,0 pts | 17 → 6 ▲ | ✓ | ✓ | −7 % |
+| COST | Costco | +2,8 pts | 18 → 27 | ✓ | · | −9 % |
+| DG | Dollar General | +2,2 pts | 19 → 28 | ✓ | ✓ | −15 % |
+| KVUE | Kenvue | +1,7 pts | 20 → 23 | ✓ | ✓ | −2 % |
+| SJM | J.M. Smucker Company (The) | +1,4 pts | 21 → 39 ▼ | ✓ | ✓ | −5 % |
+| USFD | US Foods | +1,0 pts | 22 → 17 | ✓ | ✓ | −7 % |
+| CL | Colgate-Palmolive | +0,8 pts | 23 → 26 | ✓ | ✓ | −4 % |
+| STZ | Constellation Brands | +0,3 pts | 24 → 7 ▲ | ✓ | · | −21 % |
+| LW | Lamb Weston | +0,0 pts | 25 → 2 ▲ | ✓ | ✓ | −13 % |
+| KMB | Kimberly-Clark | −1,1 pts | 26 → 11 ▲ | ✓ | ✓ | −4 % |
+| CELH | Celsius Holdings | −1,9 pts | 27 → 44 ▼ | · | · | −54 % |
+| SYY | Sysco | −2,0 pts | 28 → 36 | ✓ | ✓ | −8 % |
+| MDLZ | Mondelez International | −2,4 pts | 29 → 30 | ✓ | ✓ | −4 % |
+| BF-B | Brown–Forman(Class B) | −3,6 pts | 30 → 35 | ✓ | ✓ | −7 % |
+| ADM | Archer Daniels Midland | −4,0 pts | 31 → 53 ▼ | · | · | −13 % |
+| MNST | Monster Beverage | −4,1 pts | 32 → 19 ▲ | ✓ | ✓ | −7 % |
+| INGR | Ingredion | −4,6 pts | 33 → 49 ▼ | · | · | −19 % |
+| PEP | PepsiCo | −5,2 pts | 34 → 40 | ✓ | · | −19 % |
+| DAR | Darling Ingredients | −5,3 pts | 35 → 54 ▼ | · | · | −19 % |
+| TSN | Tyson Foods | −6,4 pts | 36 → 20 ▲ | ✓ | · | −17 % |
+| TAP | Molson Coors | −6,7 pts | 37 → 33 | ✓ | · | −25 % |
+| REYN | Reynolds Consumer Products | −6,8 pts | 38 → 29 | ✓ | · | −12 % |
+| CPB | Campbell Soup Company | −6,8 pts | 39 → 34 | ✓ | · | −29 % |
+| PPC | Pilgrim's Pride | −7,2 pts | 40 → 45 | · | · | −37 % |
+| CAG | Conagra Brands | −7,5 pts | 41 → 43 | · | · | −27 % |
+| CLX | Clorox | −8,1 pts | 42 → 22 ▲ | ✓ | · | −28 % |
+| MKC | McCormick & Company | −8,4 pts | 43 → 47 | · | · | −33 % |
+| BG | Bunge Global | −9,8 pts | 44 → 55 ▼ | · | · | −26 % |
+| GIS | General Mills | −9,9 pts | 45 → 41 | · | · | −28 % |
+| KHC | Kraft Heinz | −11,5 pts | 46 → 42 | · | · | −12 % |
+| HSY | Hershey Company (The) | −11,6 pts | 47 → 48 | · | · | −31 % |
+| JBS | JBS N.V. | −14,0 pts | 48 → 32 ▲ | · | · | −29 % |
+| PRMB | Primo Brands | −14,4 pts | 49 → 46 | · | · | −23 % |
+| SEB | Seaboard Corporation | −14,9 pts | 50 → 51 | · | · | −35 % |
+| POST | Post Holdings | −15,7 pts | 51 → 14 ▲ | ✓ | · | −29 % |
+| PFGC | Performance Food Group | −15,8 pts | 52 → 37 ▲ | ✓ | · | −16 % |
+| HRL | Hormel Foods | −17,2 pts | 53 → 38 ▲ | ✓ | · | −19 % |
+| CASY | Casey's | −21,2 pts | 54 → 18 ▲ | ✓ | · | −26 % |
 | SFD | Smithfield Foods | −30,6 pts | 55 → 50 | · | · | −36 % |
-| SFM | Sprouts Farmers Market | −38,7 pts | 56 → 56 | · | · | −54 % |
+| SFM | Sprouts Farmers Market | −38,8 pts | 56 → 56 | · | · | −54 % |
 
 </details>
 
@@ -528,160 +528,160 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 
 | Ticker | Société | Perf. 13 sem. vs marché | Rang secteur 3 m → 1 m | > MM50 | MM50 > MM200 | Vs plus haut 52 s. |
 |---|---|---:|:---:|:---:|:---:|---:|
-| MKTX | MarketAxess | +32,4 pts | 1 → 129 ▼ | ✓ | ✓ | −14 % |
-| BLSH | Bullish | +30,4 pts | 2 → 152 ▼ | · | · | −46 % |
-| CHYM | Chime Financial | +28,5 pts | 3 → 64 ▼ | · | · | −17 % |
-| FRHC | Freedom Holding | +22,8 pts | 4 → 55 ▼ | ✓ | ✓ | −0 % |
-| SOFI | SoFi | +15,0 pts | 5 → 33 | ✓ | · | −46 % |
-| EQH | Equitable Holdings | +14,5 pts | 6 → 77 ▼ | ✓ | ✓ | −1 % |
-| TPG | TPG Inc. | +14,1 pts | 7 → 69 ▼ | ✓ | ✓ | −30 % |
-| MA | Mastercard | +13,7 pts | 8 → 9 | ✓ | ✓ | +0 % |
-| FDS | FactSet | +13,4 pts | 9 → 3 | ✓ | ✓ | −6 % |
-| CRBG | Corebridge Financial | +12,9 pts | 10 → 76 ▼ | ✓ | ✓ | −1 % |
-| RGA | Reinsurance Group of America | +12,3 pts | 11 → 71 ▼ | ✓ | ✓ | −3 % |
-| CME | CME Group | +12,0 pts | 12 → 24 | ✓ | ✓ | −7 % |
-| V | Visa Inc. | +12,0 pts | 13 → 19 | ✓ | ✓ | −1 % |
-| NDAQ | Nasdaq, Inc. | +11,6 pts | 14 → 12 | ✓ | ✓ | +0 % |
-| TW | Tradeweb | +11,5 pts | 15 → 2 | ✓ | · | −5 % |
-| MORN | Morningstar, Inc. | +10,9 pts | 16 → 10 | ✓ | ✓ | −3 % |
-| CBC | Central Bancompany | +10,5 pts | 17 → 16 | ✓ | ✓ | +0 % |
-| AMG | Affiliated Managers Group | +10,2 pts | 18 → 61 ▼ | ✓ | ✓ | −0 % |
-| SPGI | S&P Global | +10,0 pts | 19 → 7 | ✓ | ✓ | −11 % |
-| OWL | Blue Owl Capital | +9,7 pts | 20 → 23 | ✓ | ✓ | −35 % |
-| BLK | BlackRock | +9,7 pts | 21 → 35 | ✓ | ✓ | −1 % |
-| UNM | Unum | +9,6 pts | 22 → 104 ▼ | · | · | −6 % |
-| FCNCA | First Citizens BancShares | +9,3 pts | 23 → 15 | ✓ | ✓ | −1 % |
-| ICE | Intercontinental Exchange | +8,3 pts | 24 → 45 | ✓ | ✓ | −4 % |
-| BRK-B | Berkshire Hathaway | +7,7 pts | 25 → 41 | ✓ | ✓ | −1 % |
-| AFG | American Financial Group | +7,2 pts | 26 → 27 | ✓ | ✓ | −1 % |
-| MSCI | MSCI | +6,5 pts | 27 → 18 | ✓ | · | −4 % |
-| MET | Metlife | +5,3 pts | 28 → 67 ▼ | ✓ | ✓ | −3 % |
-| WTM | White Mountains Insurance Group | +5,0 pts | 29 → 28 | ✓ | · | −3 % |
-| IVZ | Invesco | +4,7 pts | 30 → 141 ▼ | · | · | −13 % |
-| PGR | Progressive Corporation | +4,7 pts | 31 → 38 | ✓ | ✓ | −2 % |
-| AIZ | Assurant | +4,5 pts | 32 → 37 | ✓ | ✓ | −3 % |
-| BAM | Brookfield Asset Management | +4,2 pts | 33 → 46 | ✓ | ✓ | −12 % |
-| GLXY | Galaxy Digital | +4,1 pts | 34 → 149 ▼ | · | · | −48 % |
-| SYF | Synchrony Financial | +4,0 pts | 35 → 50 | ✓ | ✓ | −12 % |
-| EWBC | East West Bancorp | +3,5 pts | 36 → 66 | ✓ | ✓ | −3 % |
-| TRV | Travelers Companies (The) | +3,2 pts | 37 → 29 | ✓ | ✓ | −2 % |
-| ARES | Ares Management | +3,1 pts | 38 → 48 | ✓ | ✓ | −26 % |
-| CBOE | Cboe Global Markets | +3,1 pts | 39 → 17 | ✓ | ✓ | −14 % |
-| RNR | RenaissanceRe | +2,7 pts | 40 → 81 ▼ | ✓ | ✓ | −6 % |
-| EG | Everest Group | +2,7 pts | 41 → 42 | ✓ | ✓ | −2 % |
-| COLB | Columbia Banking System | +2,6 pts | 42 → 52 | ✓ | ✓ | −7 % |
-| WFC | Wells Fargo | +2,6 pts | 43 → 86 ▼ | ✓ | ✓ | −10 % |
-| HOOD | Robinhood Markets | +2,4 pts | 44 → 151 ▼ | · | · | −38 % |
-| HLI | Houlihan Lokey | +2,3 pts | 45 → 32 | ✓ | · | −28 % |
-| AIG | American International Group | +2,1 pts | 46 → 49 | ✓ | ✓ | −5 % |
-| SEIC | SEI Investments Company | +1,9 pts | 47 → 122 ▼ | · | · | −7 % |
-| CACC | Credit Acceptance | +1,8 pts | 48 → 87 ▼ | · | · | −14 % |
-| LNC | Lincoln Financial | +1,7 pts | 49 → 100 ▼ | ✓ | ✓ | −11 % |
-| SSB | SouthState Corporation | +1,6 pts | 50 → 80 | ✓ | ✓ | −5 % |
-| CPAY | Corpay | +1,6 pts | 51 → 117 ▼ | · | · | −7 % |
-| THG | Hanover Insurance | +1,6 pts | 52 → 44 | ✓ | ✓ | −3 % |
-| PFG | Principal Financial Group | +1,5 pts | 53 → 124 ▼ | ✓ | ✓ | −4 % |
-| CINF | Cincinnati Financial | +1,0 pts | 54 → 20 ▲ | ✓ | ✓ | −5 % |
-| COIN | Coinbase | +1,0 pts | 55 → 148 ▼ | · | · | −54 % |
-| OZK | Bank OZK | +0,9 pts | 56 → 21 ▲ | ✓ | · | −3 % |
-| COF | Capital One | +0,9 pts | 57 → 59 | ✓ | ✓ | −18 % |
-| MCO | Moody's Corporation | +0,8 pts | 58 → 85 | ✓ | ✓ | −10 % |
-| JPM | JPMorgan Chase | +0,8 pts | 59 → 99 ▼ | ✓ | ✓ | −6 % |
-| WTW | Willis Towers Watson | +0,7 pts | 60 → 43 | ✓ | ✓ | −10 % |
-| BEN | Franklin Templeton Investments | +0,6 pts | 61 → 132 ▼ | · | · | −9 % |
-| JKHY | Jack Henry & Associates | +0,5 pts | 62 → 26 ▲ | ✓ | ✓ | −16 % |
-| STT | State Street Corporation | +0,4 pts | 63 → 128 ▼ | · | · | −10 % |
-| AJG | Arthur J. Gallagher & Co. | +0,3 pts | 64 → 4 ▲ | ✓ | ✓ | −1 % |
-| C | Citigroup | +0,2 pts | 65 → 137 ▼ | · | · | −13 % |
-| CB | Chubb Limited | +0,2 pts | 66 → 36 | ✓ | ✓ | −1 % |
-| VOYA | Voya Financial | +0,2 pts | 67 → 110 ▼ | · | · | −7 % |
-| MRSH | Marsh McLennan | +0,1 pts | 68 → 11 ▲ | ✓ | ✓ | −2 % |
-| ACGL | Arch Capital Group | −0,4 pts | 69 → 25 ▲ | ✓ | ✓ | −3 % |
-| BNY | BNY Mellon | −0,8 pts | 70 → 102 ▼ | · | · | −9 % |
-| PB | Prosperity Bancshares | −0,8 pts | 71 → 40 ▲ | ✓ | · | −3 % |
-| APO | Apollo Global Management | −0,9 pts | 72 → 125 ▼ | · | · | −22 % |
-| EVR | Evercore | −1,1 pts | 73 → 8 ▲ | ✓ | · | −21 % |
-| PYPL | PayPal | −1,2 pts | 74 → 47 | ✓ | ✓ | −17 % |
-| RLI | RLI Corp. | −1,2 pts | 75 → 5 ▲ | ✓ | ✓ | −4 % |
-| NTRS | Northern Trust | −1,3 pts | 76 → 116 ▼ | · | · | −9 % |
-| AXP | American Express | −1,3 pts | 77 → 75 | ✓ | · | −15 % |
-| LAZ | Lazard | −1,4 pts | 78 → 51 | ✓ | · | −29 % |
-| KEY | Keycorp | −1,7 pts | 79 → 73 | ✓ | · | −10 % |
-| USB | U.S. Bancorp | −2,0 pts | 80 → 92 | ✓ | ✓ | −7 % |
-| FITB | Fifth Third Bancorp | −2,3 pts | 81 → 63 | ✓ | ✓ | −8 % |
-| FNB | FNB Corporation | −2,4 pts | 82 → 84 | ✓ | ✓ | −5 % |
-| GPN | Global Payments | −2,4 pts | 83 → 97 | · | · | −10 % |
-| WTFC | Wintrust Financial | −2,5 pts | 84 → 53 ▲ | ✓ | · | −8 % |
-| PNFP | Pinnacle Financial Partners | −2,5 pts | 85 → 62 | ✓ | ✓ | −7 % |
-| WEX | WEX Inc. | −2,5 pts | 86 → 56 | · | · | −10 % |
-| HLNE | Hamilton Lane | −2,5 pts | 87 → 134 ▼ | · | · | −43 % |
-| ZION | Zions Bancorporation | −2,6 pts | 88 → 88 | ✓ | ✓ | −9 % |
-| WAL | Western Alliance Bancorporation | −2,8 pts | 89 → 112 | ✓ | · | −18 % |
-| AXS | AXIS Capital | −3,0 pts | 90 → 60 | ✓ | · | −14 % |
-| KKR | KKR & Co. Inc. | −3,0 pts | 91 → 95 | · | · | −33 % |
-| CFR | Frost Bank | −3,0 pts | 92 → 94 | ✓ | ✓ | −5 % |
-| PRU | Prudential Financial | −3,0 pts | 93 → 114 | · | · | −6 % |
-| AFL | Aflac | −3,1 pts | 94 → 39 ▲ | ✓ | ✓ | −4 % |
-| IBKR | Interactive Brokers | −3,2 pts | 95 → 139 ▼ | · | · | −16 % |
-| WRB | W. R. Berkley Corporation | −3,5 pts | 96 → 68 | ✓ | ✓ | −5 % |
-| RITM | Rithm Capital | −3,5 pts | 97 → 70 | ✓ | · | −16 % |
-| HBAN | Huntington Bancshares | −3,7 pts | 98 → 96 | ✓ | · | −15 % |
-| OMF | OneMain Financial | −3,8 pts | 99 → 74 | ✓ | ✓ | −12 % |
-| VIRT | Virtu Financial | −3,8 pts | 100 → 130 | · | · | −19 % |
-| KNSL | Kinsale Capital Group | −3,9 pts | 101 → 30 ▲ | ✓ | ✓ | −13 % |
-| GS | Goldman Sachs | −4,0 pts | 102 → 111 | · | · | −19 % |
-| TFC | Truist Financial | −4,2 pts | 103 → 83 | ✓ | · | −9 % |
-| MS | Morgan Stanley | −4,3 pts | 104 → 119 | · | · | −16 % |
-| FIGR | Figure Technology Solutions | −4,6 pts | 105 → 150 ▼ | · | · | −68 % |
-| RF | Regions Financial Corporation | −5,0 pts | 106 → 65 ▲ | ✓ | ✓ | −10 % |
-| MTG | MGIC Investment Corporation | −5,2 pts | 107 → 34 ▲ | · | · | −9 % |
-| PNC | PNC Financial Services | −5,3 pts | 108 → 91 | ✓ | ✓ | −9 % |
-| TFSL | Third Federal S&L | −5,3 pts | 109 → 108 | ✓ | ✓ | −8 % |
-| L | Loews Corporation | −5,3 pts | 110 → 72 ▲ | ✓ | · | −6 % |
-| BOKF | BOK Financial Corporation | −5,4 pts | 111 → 98 | ✓ | · | −9 % |
-| XYZ | Block, Inc. | −5,6 pts | 112 → 93 | · | · | −9 % |
-| BX | Blackstone Inc. | −6,0 pts | 113 → 78 ▲ | · | · | −25 % |
-| CFG | Citizens Financial Group | −6,1 pts | 114 → 109 | · | · | −12 % |
-| ALL | Allstate | −6,4 pts | 115 → 14 ▲ | ✓ | ✓ | −7 % |
-| ALLY | Ally Financial | −6,4 pts | 116 → 90 | · | · | −16 % |
-| CBSH | Commerce Bancshares | −6,6 pts | 117 → 121 | · | · | −7 % |
-| RYAN | Ryan Specialty | −6,6 pts | 118 → 6 ▲ | ✓ | ✓ | −26 % |
-| XP | XP Inc. | −6,7 pts | 119 → 154 ▼ | · | · | −54 % |
-| BPOP | Popular, Inc. | −6,8 pts | 120 → 120 | · | · | −10 % |
-| FHB | First Hawaiian, Inc. | −7,2 pts | 121 → 107 | ✓ | · | −15 % |
-| MKL | Markel | −7,3 pts | 122 → 54 ▲ | ✓ | · | −15 % |
-| FHN | First Horizon Corporation | −7,5 pts | 123 → 118 | · | · | −10 % |
-| RJF | Raymond James Financial | −7,5 pts | 124 → 127 | · | · | −12 % |
-| AMP | Ameriprise Financial | −8,1 pts | 125 → 131 | · | · | −14 % |
-| HIG | Hartford (The) | −8,3 pts | 126 → 58 ▲ | · | · | −9 % |
-| BRO | Brown & Brown | −8,6 pts | 127 → 31 ▲ | ✓ | ✓ | −17 % |
-| CG | Carlyle Group (The) | −8,8 pts | 128 → 123 | · | · | −38 % |
-| MTB | M&T Bank | −9,2 pts | 129 → 113 | · | · | −11 % |
-| TROW | T. Rowe Price | −9,7 pts | 130 → 126 | · | · | −12 % |
-| GL | Globe Life | −10,2 pts | 131 → 140 | · | · | −14 % |
-| JEF | Jefferies Financial Group | −10,2 pts | 132 → 79 ▲ | ✓ | · | −25 % |
-| CNA | CNA Financial | −10,5 pts | 133 → 57 ▲ | ✓ | ✓ | −11 % |
-| PRI | Primerica | −11,4 pts | 134 → 101 ▲ | · | · | −13 % |
-| RKT | Rocket Companies | −12,1 pts | 135 → 103 ▲ | · | · | −49 % |
-| ORI | Old Republic International | −12,8 pts | 136 → 115 | · | · | −13 % |
-| FISV | Fiserv | −12,8 pts | 137 → 82 ▲ | · | · | −32 % |
-| SCHW | Charles Schwab Corporation | −13,3 pts | 138 → 144 | · | · | −21 % |
-| NU | Nubank | −13,4 pts | 139 → 142 | · | · | −36 % |
-| BAC | Bank of America | −14,4 pts | 140 → 143 | · | · | −20 % |
-| AGNC | AGNC Investment | −14,8 pts | 141 → 135 | · | · | −19 % |
-| AON | Aon plc | −14,9 pts | 142 → 13 ▲ | ✓ | · | −17 % |
-| AGO | Assured Guaranty | −15,5 pts | 143 → 106 ▲ | · | · | −23 % |
-| SF | Stifel | −15,7 pts | 144 → 136 | · | · | −22 % |
-| LPLA | LPL Financial | −16,4 pts | 145 → 145 | · | · | −29 % |
-| FAF | First American Financial Corpora | −16,5 pts | 146 → 89 ▲ | · | · | −18 % |
-| NLY | Annaly Capital Management | −16,7 pts | 147 → 138 | · | · | −20 % |
-| UWMC | United Wholesale Mortgage | −19,0 pts | 148 → 1 ▲ | ✓ | · | −72 % |
-| FIS | Fidelity National Information Se | −19,4 pts | 149 → 22 ▲ | ✓ | · | −43 % |
-| STWD | Starwood Property Trust | −22,2 pts | 150 → 146 | · | · | −29 % |
-| FNF | Fidelity National Financial | −23,4 pts | 151 → 105 ▲ | · | · | −28 % |
-| EEFT | Euronet Worldwide | −25,2 pts | 152 → 133 | · | · | −26 % |
-| SLM | Sallie Mae | −27,9 pts | 153 → 153 | · | · | −40 % |
-| BHF | Brighthouse Financial | −29,7 pts | 154 → 147 | · | · | −34 % |
+| MKTX | MarketAxess | +32,4 pts | 1 → 130 ▼ | ✓ | ✓ | −14 % |
+| BLSH | Bullish | +30,9 pts | 2 → 150 ▼ | · | · | −46 % |
+| CHYM | Chime Financial | +29,3 pts | 3 → 62 ▼ | · | · | −16 % |
+| FRHC | Freedom Holding | +24,5 pts | 4 → 42 ▼ | ✓ | ✓ | +0 % |
+| SOFI | SoFi | +16,1 pts | 5 → 28 | ✓ | · | −45 % |
+| TPG | TPG Inc. | +15,5 pts | 6 → 57 ▼ | ✓ | ✓ | −29 % |
+| FDS | FactSet | +14,5 pts | 7 → 2 | ✓ | ✓ | −5 % |
+| EQH | Equitable Holdings | +14,2 pts | 8 → 84 ▼ | ✓ | ✓ | −1 % |
+| MA | Mastercard | +13,6 pts | 9 → 13 | ✓ | ✓ | +0 % |
+| MORN | Morningstar, Inc. | +12,9 pts | 10 → 5 | ✓ | ✓ | −1 % |
+| CME | CME Group | +12,8 pts | 11 → 23 | ✓ | ✓ | −6 % |
+| CRBG | Corebridge Financial | +12,5 pts | 12 → 82 ▼ | ✓ | ✓ | −1 % |
+| RGA | Reinsurance Group of America | +12,1 pts | 13 → 78 ▼ | ✓ | ✓ | −3 % |
+| V | Visa Inc. | +12,1 pts | 14 → 19 | ✓ | ✓ | −1 % |
+| OWL | Blue Owl Capital | +11,7 pts | 15 → 18 | ✓ | ✓ | −34 % |
+| NDAQ | Nasdaq, Inc. | +11,5 pts | 16 → 16 | ✓ | ✓ | +0 % |
+| AMG | Affiliated Managers Group | +11,4 pts | 17 → 48 ▼ | ✓ | ✓ | +0 % |
+| CBC | Central Bancompany | +10,8 pts | 18 → 17 | ✓ | ✓ | +0 % |
+| TW | Tradeweb | +10,6 pts | 19 → 3 | ✓ | · | −6 % |
+| SPGI | S&P Global | +10,6 pts | 20 → 8 | ✓ | ✓ | −10 % |
+| FCNCA | First Citizens BancShares | +10,4 pts | 21 → 11 | ✓ | ✓ | +0 % |
+| BLK | BlackRock | +10,1 pts | 22 → 36 | ✓ | ✓ | −0 % |
+| UNM | Unum | +10,1 pts | 23 → 99 ▼ | · | · | −5 % |
+| AFG | American Financial Group | +8,0 pts | 24 → 25 | ✓ | ✓ | −0 % |
+| MSCI | MSCI | +7,1 pts | 25 → 15 | ✓ | · | −4 % |
+| BRK-B | Berkshire Hathaway | +7,0 pts | 26 → 53 | ✓ | ✓ | −1 % |
+| ICE | Intercontinental Exchange | +6,6 pts | 27 → 74 ▼ | ✓ | ✓ | −6 % |
+| PGR | Progressive Corporation | +5,3 pts | 28 → 37 | ✓ | ✓ | −2 % |
+| MET | Metlife | +5,1 pts | 29 → 76 ▼ | ✓ | ✓ | −3 % |
+| AIZ | Assurant | +5,1 pts | 30 → 38 | ✓ | ✓ | −3 % |
+| WTM | White Mountains Insurance Group | +5,0 pts | 31 → 29 | ✓ | · | −3 % |
+| IVZ | Invesco | +4,7 pts | 32 → 140 ▼ | · | · | −13 % |
+| BAM | Brookfield Asset Management | +4,2 pts | 33 → 51 | ✓ | ✓ | −12 % |
+| CACC | Credit Acceptance | +4,0 pts | 34 → 59 | ✓ | ✓ | −12 % |
+| ARES | Ares Management | +4,0 pts | 35 → 43 | ✓ | ✓ | −26 % |
+| SYF | Synchrony Financial | +3,7 pts | 36 → 58 | ✓ | ✓ | −12 % |
+| TRV | Travelers Companies (The) | +3,3 pts | 37 → 30 | ✓ | ✓ | −2 % |
+| EWBC | East West Bancorp | +3,3 pts | 38 → 73 ▼ | ✓ | ✓ | −3 % |
+| CBOE | Cboe Global Markets | +3,0 pts | 39 → 20 | ✓ | ✓ | −14 % |
+| EG | Everest Group | +2,8 pts | 40 → 44 | ✓ | ✓ | −2 % |
+| AIG | American International Group | +2,8 pts | 41 → 46 | ✓ | ✓ | −4 % |
+| COLB | Columbia Banking System | +2,6 pts | 42 → 60 | ✓ | ✓ | −7 % |
+| HOOD | Robinhood Markets | +2,5 pts | 43 → 151 ▼ | · | · | −38 % |
+| RNR | RenaissanceRe | +2,5 pts | 44 → 86 ▼ | ✓ | ✓ | −7 % |
+| WTW | Willis Towers Watson | +2,4 pts | 45 → 35 | ✓ | ✓ | −8 % |
+| SEIC | SEI Investments Company | +2,4 pts | 46 → 123 ▼ | · | · | −6 % |
+| WFC | Wells Fargo | +2,3 pts | 47 → 87 ▼ | ✓ | ✓ | −11 % |
+| THG | Hanover Insurance | +2,2 pts | 48 → 41 | ✓ | ✓ | −2 % |
+| MCO | Moody's Corporation | +1,9 pts | 49 → 67 | ✓ | ✓ | −9 % |
+| CPAY | Corpay | +1,9 pts | 50 → 119 ▼ | · | · | −6 % |
+| PFG | Principal Financial Group | +1,8 pts | 51 → 126 ▼ | ✓ | ✓ | −4 % |
+| SSB | SouthState Corporation | +1,6 pts | 52 → 81 | ✓ | ✓ | −5 % |
+| LNC | Lincoln Financial | +1,5 pts | 53 → 105 ▼ | · | · | −11 % |
+| CINF | Cincinnati Financial | +1,4 pts | 54 → 21 ▲ | ✓ | ✓ | −5 % |
+| BEN | Franklin Templeton Investments | +1,4 pts | 55 → 129 ▼ | · | · | −9 % |
+| HLI | Houlihan Lokey | +1,3 pts | 56 → 40 | ✓ | · | −29 % |
+| OZK | Bank OZK | +1,2 pts | 57 → 24 ▲ | ✓ | · | −2 % |
+| CB | Chubb Limited | +1,0 pts | 58 → 34 | ✓ | ✓ | −0 % |
+| COF | Capital One | +0,9 pts | 59 → 65 | ✓ | ✓ | −18 % |
+| COIN | Coinbase | +0,9 pts | 60 → 147 ▼ | · | · | −54 % |
+| MRSH | Marsh McLennan | +0,9 pts | 61 → 10 ▲ | ✓ | ✓ | −1 % |
+| JPM | JPMorgan Chase | +0,7 pts | 62 → 100 ▼ | ✓ | ✓ | −5 % |
+| VOYA | Voya Financial | +0,6 pts | 63 → 102 ▼ | · | · | −6 % |
+| AJG | Arthur J. Gallagher & Co. | +0,6 pts | 64 → 4 ▲ | ✓ | ✓ | −1 % |
+| C | Citigroup | +0,0 pts | 65 → 138 ▼ | · | · | −13 % |
+| ACGL | Arch Capital Group | −0,0 pts | 66 → 26 ▲ | ✓ | ✓ | −2 % |
+| JKHY | Jack Henry & Associates | −0,0 pts | 67 → 32 ▲ | ✓ | ✓ | −16 % |
+| APO | Apollo Global Management | −0,0 pts | 68 → 121 ▼ | · | · | −21 % |
+| GLXY | Galaxy Digital | −0,1 pts | 69 → 153 ▼ | · | · | −50 % |
+| STT | State Street Corporation | −0,2 pts | 70 → 131 ▼ | · | · | −10 % |
+| RLI | RLI Corp. | −0,7 pts | 71 → 7 ▲ | ✓ | ✓ | −4 % |
+| PB | Prosperity Bancshares | −0,9 pts | 72 → 45 | ✓ | · | −3 % |
+| LAZ | Lazard | −1,0 pts | 73 → 49 | ✓ | · | −29 % |
+| BNY | BNY Mellon | −1,0 pts | 74 → 106 ▼ | · | · | −9 % |
+| EVR | Evercore | −1,5 pts | 75 → 12 ▲ | ✓ | · | −22 % |
+| AXP | American Express | −1,5 pts | 76 → 80 | ✓ | · | −15 % |
+| PYPL | PayPal | −1,6 pts | 77 → 61 | ✓ | ✓ | −17 % |
+| KEY | Keycorp | −1,6 pts | 78 → 77 | ✓ | · | −10 % |
+| NTRS | Northern Trust | −1,6 pts | 79 → 122 ▼ | · | · | −9 % |
+| PNFP | Pinnacle Financial Partners | −1,9 pts | 80 → 56 | ✓ | ✓ | −6 % |
+| AXS | AXIS Capital | −1,9 pts | 81 → 47 ▲ | ✓ | · | −13 % |
+| USB | U.S. Bancorp | −2,0 pts | 82 → 91 | ✓ | ✓ | −6 % |
+| GPN | Global Payments | −2,0 pts | 83 → 92 | · | · | −9 % |
+| WEX | WEX Inc. | −2,0 pts | 84 → 54 | · | · | −10 % |
+| HLNE | Hamilton Lane | −2,2 pts | 85 → 134 ▼ | · | · | −43 % |
+| WTFC | Wintrust Financial | −2,3 pts | 86 → 55 ▲ | ✓ | · | −7 % |
+| FNB | FNB Corporation | −2,3 pts | 87 → 85 | ✓ | ✓ | −5 % |
+| FITB | Fifth Third Bancorp | −2,4 pts | 88 → 68 | ✓ | ✓ | −8 % |
+| WAL | Western Alliance Bancorporation | −2,5 pts | 89 → 107 | ✓ | · | −18 % |
+| RITM | Rithm Capital | −2,6 pts | 90 → 63 | ✓ | · | −15 % |
+| WRB | W. R. Berkley Corporation | −2,7 pts | 91 → 64 | ✓ | ✓ | −4 % |
+| ZION | Zions Bancorporation | −2,7 pts | 92 → 88 | ✓ | ✓ | −9 % |
+| KKR | KKR & Co. Inc. | −2,7 pts | 93 → 93 | · | · | −33 % |
+| AFL | Aflac | −2,9 pts | 94 → 39 ▲ | ✓ | ✓ | −4 % |
+| KNSL | Kinsale Capital Group | −3,0 pts | 95 → 27 ▲ | ✓ | ✓ | −12 % |
+| PRU | Prudential Financial | −3,0 pts | 96 → 115 | · | · | −6 % |
+| OMF | OneMain Financial | −3,6 pts | 97 → 75 | ✓ | ✓ | −12 % |
+| HBAN | Huntington Bancshares | −3,6 pts | 98 → 97 | ✓ | · | −15 % |
+| TFC | Truist Financial | −4,2 pts | 99 → 83 | ✓ | · | −9 % |
+| CFR | Frost Bank | −4,3 pts | 100 → 110 | ✓ | ✓ | −7 % |
+| GS | Goldman Sachs | −4,4 pts | 101 → 112 | · | · | −19 % |
+| IBKR | Interactive Brokers | −4,5 pts | 102 → 141 ▼ | · | · | −17 % |
+| MTG | MGIC Investment Corporation | −4,6 pts | 103 → 31 ▲ | · | · | −8 % |
+| FIGR | Figure Technology Solutions | −4,9 pts | 104 → 149 ▼ | · | · | −68 % |
+| RF | Regions Financial Corporation | −5,1 pts | 105 → 71 ▲ | ✓ | ✓ | −10 % |
+| BOKF | BOK Financial Corporation | −5,2 pts | 106 → 95 | ✓ | · | −9 % |
+| PNC | PNC Financial Services | −5,3 pts | 107 → 90 | ✓ | ✓ | −9 % |
+| BX | Blackstone Inc. | −5,3 pts | 108 → 69 ▲ | · | · | −24 % |
+| MS | Morgan Stanley | −5,4 pts | 109 → 128 | · | · | −16 % |
+| L | Loews Corporation | −5,5 pts | 110 → 79 ▲ | ✓ | · | −6 % |
+| VIRT | Virtu Financial | −5,5 pts | 111 → 135 | · | · | −20 % |
+| TFSL | Third Federal S&L | −5,7 pts | 112 → 109 | ✓ | ✓ | −8 % |
+| ALL | Allstate | −5,8 pts | 113 → 14 ▲ | ✓ | ✓ | −7 % |
+| XYZ | Block, Inc. | −5,8 pts | 114 → 98 | · | · | −9 % |
+| RYAN | Ryan Specialty | −6,0 pts | 115 → 6 ▲ | ✓ | ✓ | −25 % |
+| ALLY | Ally Financial | −6,5 pts | 116 → 89 | · | · | −16 % |
+| RJF | Raymond James Financial | −6,5 pts | 117 → 118 | · | · | −11 % |
+| CFG | Citizens Financial Group | −6,6 pts | 118 → 111 | · | · | −12 % |
+| MKL | Markel | −6,8 pts | 119 → 50 ▲ | ✓ | · | −15 % |
+| CBSH | Commerce Bancshares | −6,8 pts | 120 → 125 | · | · | −7 % |
+| BPOP | Popular, Inc. | −6,9 pts | 121 → 124 | · | · | −10 % |
+| FHN | First Horizon Corporation | −7,0 pts | 122 → 116 | · | · | −9 % |
+| AMP | Ameriprise Financial | −7,0 pts | 123 → 127 | · | · | −13 % |
+| FHB | First Hawaiian, Inc. | −7,0 pts | 124 → 103 | ✓ | · | −15 % |
+| XP | XP Inc. | −7,1 pts | 125 → 154 | · | · | −54 % |
+| CG | Carlyle Group (The) | −8,0 pts | 126 → 120 | · | · | −37 % |
+| HIG | Hartford (The) | −8,4 pts | 127 → 66 ▲ | · | · | −9 % |
+| BRO | Brown & Brown | −8,6 pts | 128 → 33 ▲ | ✓ | ✓ | −17 % |
+| TROW | T. Rowe Price | −8,6 pts | 129 → 117 | ✓ | ✓ | −11 % |
+| MTB | M&T Bank | −9,3 pts | 130 → 114 | · | · | −11 % |
+| JEF | Jefferies Financial Group | −9,6 pts | 131 → 70 ▲ | ✓ | · | −24 % |
+| GL | Globe Life | −9,9 pts | 132 → 139 | · | · | −14 % |
+| CNA | CNA Financial | −10,0 pts | 133 → 52 ▲ | ✓ | ✓ | −11 % |
+| PRI | Primerica | −11,4 pts | 134 → 104 | · | · | −13 % |
+| FISV | Fiserv | −12,3 pts | 135 → 72 ▲ | · | · | −31 % |
+| RKT | Rocket Companies | −12,4 pts | 136 → 108 | · | · | −49 % |
+| ORI | Old Republic International | −12,6 pts | 137 → 113 | · | · | −13 % |
+| SCHW | Charles Schwab Corporation | −13,5 pts | 138 → 145 | · | · | −21 % |
+| NU | Nubank | −13,6 pts | 139 → 142 | · | · | −36 % |
+| AON | Aon plc | −13,9 pts | 140 → 9 ▲ | ✓ | · | −15 % |
+| AGNC | AGNC Investment | −14,4 pts | 141 → 133 | · | · | −19 % |
+| AGO | Assured Guaranty | −14,9 pts | 142 → 96 ▲ | · | · | −22 % |
+| BAC | Bank of America | −15,3 pts | 143 → 143 | · | · | −21 % |
+| SF | Stifel | −15,6 pts | 144 → 137 | · | · | −22 % |
+| NLY | Annaly Capital Management | −16,2 pts | 145 → 136 | · | · | −19 % |
+| LPLA | LPL Financial | −16,6 pts | 146 → 146 | · | · | −29 % |
+| FAF | First American Financial Corpora | −17,1 pts | 147 → 94 ▲ | · | · | −19 % |
+| FIS | Fidelity National Information Se | −18,9 pts | 148 → 22 ▲ | ✓ | · | −43 % |
+| STWD | Starwood Property Trust | −21,8 pts | 149 → 144 | · | · | −28 % |
+| FNF | Fidelity National Financial | −23,2 pts | 150 → 101 ▲ | · | · | −28 % |
+| UWMC | United Wholesale Mortgage | −24,2 pts | 151 → 1 ▲ | ✓ | · | −74 % |
+| EEFT | Euronet Worldwide | −24,9 pts | 152 → 132 | · | · | −25 % |
+| SLM | Sallie Mae | −28,0 pts | 153 → 152 | · | · | −40 % |
+| BHF | Brighthouse Financial | −31,1 pts | 154 → 148 | · | · | −35 % |
 | WBS | Webster Bank | — pts | — → — | · | · | — % |
 
 </details>
@@ -691,49 +691,49 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 
 | Ticker | Société | Perf. 13 sem. vs marché | Rang secteur 3 m → 1 m | > MM50 | MM50 > MM200 | Vs plus haut 52 s. |
 |---|---|---:|:---:|:---:|:---:|---:|
-| NIQ | NIQ Global Intelligence | +69,7 pts | 1 → 2 | ✓ | ✓ | +0 % |
-| SPCX | SpaceX | +28,9 pts | 2 → 30 ▼ | · | · | — % |
-| GTM | ZoomInfo | +23,1 pts | 3 → 4 | ✓ | · | −64 % |
-| ECHO | EchoStar | +16,8 pts | 4 → 8 | ✓ | · | −31 % |
-| DIS | Walt Disney Company (The) | +13,1 pts | 5 → 12 | ✓ | ✓ | −4 % |
-| FOXA | Fox Corporation(Class A) | +9,8 pts | 6 → 20 ▼ | · | · | −15 % |
-| FOX | Fox Corporation(Class B) | +9,3 pts | 7 → 22 ▼ | · | · | −15 % |
-| MTCH | Match Group | +9,0 pts | 8 → 10 | ✓ | ✓ | −9 % |
-| META | Meta Platforms | +9,0 pts | 9 → 36 ▼ | · | · | −18 % |
-| ROKU | Roku, Inc. | +7,9 pts | 10 → 19 ▼ | ✓ | ✓ | −3 % |
-| SPOT | Spotify | +6,6 pts | 11 → 3 | ✓ | ✓ | −17 % |
-| RBLX | Roblox Corporation | +6,2 pts | 12 → 1 ▲ | ✓ | · | −60 % |
-| IRDM | Iridium Communications | +5,4 pts | 13 → 29 ▼ | · | · | −17 % |
-| NWSA | News Corp(Class A) | +3,3 pts | 14 → 16 | · | · | −5 % |
-| NWS | News Corp(Class B) | −0,3 pts | 15 → 21 | · | · | −9 % |
-| LLYVK | Liberty Live(Series C) | −0,6 pts | 16 → 13 | ✓ | ✓ | −6 % |
-| LLYVA | Liberty Live(Series A) | −0,9 pts | 17 → 14 | ✓ | ✓ | −6 % |
-| OMC | Omnicom Group | −1,1 pts | 18 → 7 ▲ | ✓ | ✓ | −9 % |
-| LYV | Live Nation Entertainment | −4,1 pts | 19 → 15 | ✓ | ✓ | −7 % |
-| TKO | TKO Group Holdings | −4,5 pts | 20 → 24 | · | · | −20 % |
-| VZ | Verizon | −5,1 pts | 21 → 28 | · | · | −13 % |
-| CMCSA | Comcast | −8,5 pts | 22 → 17 | · | · | −29 % |
-| NYT | New York Times Company | −9,4 pts | 23 → 5 ▲ | ✓ | · | −18 % |
-| FWONA | Liberty Formula 1(Series A) | −9,9 pts | 24 → 23 | · | · | −15 % |
-| FWONK | Liberty Formula 1(Series C) | −10,3 pts | 25 → 26 | · | · | −15 % |
-| T | AT&T | −10,4 pts | 26 → 37 ▼ | · | · | −25 % |
-| SIRI | SiriusXM | −11,9 pts | 27 → 6 ▲ | ✓ | ✓ | −13 % |
-| TIGO | Millicom | −13,8 pts | 28 → 32 | · | · | −23 % |
-| NXST | Nexstar Media Group | −14,4 pts | 29 → 18 ▲ | · | · | −33 % |
-| GOOGL | Alphabet(Class A) | −14,6 pts | 30 → 42 ▼ | · | · | −29 % |
-| PPLI | People Inc. | −15,0 pts | 31 → 39 | · | · | −26 % |
-| GOOG | Alphabet(Class C) | −15,0 pts | 32 → 41 ▼ | · | · | −29 % |
-| VSNT | Versant | −15,0 pts | 33 → 25 | · | · | −33 % |
-| NFLX | Netflix, Inc. | −15,1 pts | 34 → 35 | · | · | −46 % |
-| PINS | Pinterest | −15,5 pts | 35 → 9 ▲ | · | · | −39 % |
-| ASTS | AST SpaceMobile | −16,1 pts | 36 → 43 | · | · | −67 % |
-| TMUS | T-Mobile US | −16,7 pts | 37 → 33 | · | · | −32 % |
-| TTWO | Take-Two Interactive | −20,4 pts | 38 → 31 | · | · | −25 % |
-| CHTR | Charter Communications | −24,5 pts | 39 → 27 ▲ | · | · | −56 % |
-| LBTYK | Liberty Global(Series C) | −25,4 pts | 40 → 38 | · | · | −40 % |
-| LBTYA | Liberty Global(Series A) | −26,2 pts | 41 → 40 | · | · | −41 % |
-| RDDT | Reddit | −27,1 pts | 42 → 34 | · | · | −50 % |
-| TTD | Trade Desk (The) | −31,9 pts | 43 → 11 ▲ | · | · | −74 % |
+| NIQ | NIQ Global Intelligence | +70,8 pts | 1 → 2 | ✓ | ✓ | +0 % |
+| GTM | ZoomInfo | +28,6 pts | 2 → 3 | ✓ | · | −62 % |
+| SPCX | SpaceX | +28,4 pts | 3 → 30 ▼ | · | · | — % |
+| ECHO | EchoStar | +17,0 pts | 4 → 8 | ✓ | · | −31 % |
+| DIS | Walt Disney Company (The) | +13,2 pts | 5 → 12 | ✓ | ✓ | −4 % |
+| FOXA | Fox Corporation(Class A) | +10,5 pts | 6 → 18 ▼ | · | · | −14 % |
+| FOX | Fox Corporation(Class B) | +9,7 pts | 7 → 21 ▼ | · | · | −15 % |
+| MTCH | Match Group | +9,4 pts | 8 → 10 | ✓ | ✓ | −8 % |
+| ROKU | Roku, Inc. | +8,1 pts | 9 → 20 ▼ | ✓ | ✓ | −2 % |
+| META | Meta Platforms | +7,3 pts | 10 → 37 ▼ | · | · | −20 % |
+| SPOT | Spotify | +6,9 pts | 11 → 4 | ✓ | ✓ | −16 % |
+| RBLX | Roblox Corporation | +5,2 pts | 12 → 1 ▲ | ✓ | · | −61 % |
+| IRDM | Iridium Communications | +4,7 pts | 13 → 29 ▼ | · | · | −17 % |
+| NWSA | News Corp(Class A) | +3,1 pts | 14 → 19 | · | · | −5 % |
+| LLYVK | Liberty Live(Series C) | +0,3 pts | 15 → 11 | ✓ | ✓ | −5 % |
+| OMC | Omnicom Group | −0,4 pts | 16 → 6 ▲ | ✓ | ✓ | −8 % |
+| LLYVA | Liberty Live(Series A) | −0,4 pts | 17 → 16 | ✓ | ✓ | −6 % |
+| NWS | News Corp(Class B) | −0,5 pts | 18 → 22 | · | · | −9 % |
+| LYV | Live Nation Entertainment | −3,0 pts | 19 → 15 | ✓ | ✓ | −6 % |
+| TKO | TKO Group Holdings | −3,6 pts | 20 → 25 | · | · | −20 % |
+| VZ | Verizon | −5,5 pts | 21 → 28 | · | · | −14 % |
+| CMCSA | Comcast | −7,5 pts | 22 → 17 | · | · | −29 % |
+| FWONA | Liberty Formula 1(Series A) | −7,8 pts | 23 → 23 | · | · | −13 % |
+| FWONK | Liberty Formula 1(Series C) | −8,5 pts | 24 → 24 | · | · | −13 % |
+| NYT | New York Times Company | −9,7 pts | 25 → 7 ▲ | ✓ | · | −19 % |
+| SIRI | SiriusXM | −10,6 pts | 26 → 5 ▲ | ✓ | ✓ | −11 % |
+| T | AT&T | −11,0 pts | 27 → 36 ▼ | · | · | −26 % |
+| NXST | Nexstar Media Group | −12,2 pts | 28 → 14 ▲ | ✓ | · | −32 % |
+| TIGO | Millicom | −13,9 pts | 29 → 32 | · | · | −23 % |
+| PPLI | People Inc. | −14,0 pts | 30 → 38 | · | · | −25 % |
+| VSNT | Versant | −14,5 pts | 31 → 26 | · | · | −32 % |
+| GOOGL | Alphabet(Class A) | −15,1 pts | 32 → 42 ▼ | · | · | −29 % |
+| NFLX | Netflix, Inc. | −15,1 pts | 33 → 35 | · | · | −46 % |
+| GOOG | Alphabet(Class C) | −15,3 pts | 34 → 41 | · | · | −29 % |
+| TMUS | T-Mobile US | −17,8 pts | 35 → 34 | · | · | −33 % |
+| PINS | Pinterest | −17,9 pts | 36 → 13 ▲ | · | · | −41 % |
+| ASTS | AST SpaceMobile | −18,2 pts | 37 → 43 | · | · | −68 % |
+| TTWO | Take-Two Interactive | −20,9 pts | 38 → 31 | · | · | −25 % |
+| CHTR | Charter Communications | −24,4 pts | 39 → 27 ▲ | · | · | −56 % |
+| LBTYK | Liberty Global(Series C) | −25,3 pts | 40 → 39 | · | · | −40 % |
+| LBTYA | Liberty Global(Series A) | −26,3 pts | 41 → 40 | · | · | −41 % |
+| RDDT | Reddit | −26,6 pts | 42 → 33 ▲ | · | · | −50 % |
+| TTD | Trade Desk (The) | −31,0 pts | 43 → 9 ▲ | · | · | −74 % |
 | MSGS | Madison Square Garden Sports | — pts | — → — | · | · | — % |
 | LBRDA | Liberty Broadband (Series A) | — pts | — → — | · | · | — % |
 
@@ -744,47 +744,47 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 
 | Ticker | Société | Perf. 13 sem. vs marché | Rang secteur 3 m → 1 m | > MM50 | MM50 > MM200 | Vs plus haut 52 s. |
 |---|---|---:|:---:|:---:|:---:|---:|
-| TLN | Talen Energy | +12,3 pts | 1 → 7 | ✓ | · | −19 % |
-| CWEN | Clearway Energy (Class C) | +9,4 pts | 2 → 8 | ✓ | · | −19 % |
-| UGI | UGI Corporation | +6,9 pts | 3 → 30 ▼ | ✓ | ✓ | −2 % |
-| WTRG | Essential Utilities | +6,2 pts | 4 → 25 ▼ | ✓ | ✓ | −2 % |
-| WEC | WEC Energy Group | +5,6 pts | 5 → 1 | ✓ | · | −2 % |
-| PNW | Pinnacle West Capital | +5,0 pts | 6 → 4 | ✓ | · | −2 % |
-| OGE | OGE Energy | +5,0 pts | 7 → 19 ▼ | ✓ | · | −0 % |
-| ED | Consolidated Edison | +4,4 pts | 8 → 6 | ✓ | · | −1 % |
-| CEG | Constellation Energy | +3,8 pts | 9 → 37 ▼ | · | · | −33 % |
-| AWK | American Water Works | +3,6 pts | 10 → 23 ▼ | ✓ | ✓ | −1 % |
-| AES | AES Corporation | +3,3 pts | 11 → 40 ▼ | ✓ | ✓ | −11 % |
+| TLN | Talen Energy | +10,9 pts | 1 → 12 ▼ | ✓ | · | −20 % |
+| CWEN | Clearway Energy (Class C) | +9,0 pts | 2 → 8 | ✓ | · | −19 % |
+| WTRG | Essential Utilities | +6,7 pts | 3 → 24 ▼ | ✓ | ✓ | −1 % |
+| UGI | UGI Corporation | +6,6 pts | 4 → 29 ▼ | ✓ | ✓ | −2 % |
+| PNW | Pinnacle West Capital | +5,8 pts | 5 → 3 | ✓ | · | −2 % |
+| OGE | OGE Energy | +4,9 pts | 6 → 21 ▼ | ✓ | · | −0 % |
+| WEC | WEC Energy Group | +4,5 pts | 7 → 4 | ✓ | · | −3 % |
+| ED | Consolidated Edison | +4,3 pts | 8 → 6 | ✓ | · | −1 % |
+| AWK | American Water Works | +4,2 pts | 9 → 20 ▼ | ✓ | ✓ | −1 % |
+| AES | AES Corporation | +3,3 pts | 10 → 40 ▼ | ✓ | ✓ | −11 % |
+| CEG | Constellation Energy | +3,3 pts | 11 → 37 ▼ | · | · | −34 % |
 | ETR | Entergy | +3,2 pts | 12 → 14 | ✓ | · | −6 % |
-| EVRG | Evergy | +2,7 pts | 13 → 29 ▼ | ✓ | ✓ | −3 % |
-| XEL | Xcel Energy | +1,6 pts | 14 → 11 | ✓ | · | −4 % |
-| AEE | Ameren | +1,4 pts | 15 → 15 | ✓ | · | −6 % |
-| PPL | PPL Corporation | +1,1 pts | 16 → 31 ▼ | ✓ | · | −9 % |
-| AEP | American Electric Power | +1,1 pts | 17 → 24 | ✓ | · | −6 % |
-| NI | NiSource | +1,0 pts | 18 → 2 ▲ | ✓ | · | −8 % |
-| VST | Vistra Corp. | +0,6 pts | 19 → 38 ▼ | · | · | −28 % |
-| IDA | Idacorp | +0,3 pts | 20 → 20 | ✓ | · | −7 % |
-| MDU | MDU Resources | −0,0 pts | 21 → 33 ▼ | ✓ | · | −12 % |
-| LNT | Alliant Energy | −0,6 pts | 22 → 12 ▲ | ✓ | · | −9 % |
-| NFG | National Fuel Gas | −0,6 pts | 23 → 36 ▼ | · | · | −16 % |
-| CNP | Centerpoint Energy | −0,6 pts | 24 → 3 ▲ | ✓ | · | −6 % |
-| EXC | Exelon | −1,0 pts | 25 → 5 ▲ | ✓ | · | −7 % |
-| DUK | Duke Energy | −1,3 pts | 26 → 18 ▲ | ✓ | · | −4 % |
-| SRE | Sempra | −1,6 pts | 27 → 16 ▲ | ✓ | · | −12 % |
-| SO | Southern Company | −1,7 pts | 28 → 10 ▲ | ✓ | · | −5 % |
-| ATO | Atmos Energy | −2,6 pts | 29 → 21 ▲ | ✓ | · | −10 % |
-| FE | FirstEnergy | −2,7 pts | 30 → 28 | ✓ | · | −8 % |
-| PEG | Public Service Enterprise Group | −3,9 pts | 31 → 22 ▲ | ✓ | · | −13 % |
-| CMS | CMS Energy | −4,5 pts | 32 → 13 ▲ | ✓ | · | −11 % |
-| DTE | DTE Energy | −4,9 pts | 33 → 17 ▲ | ✓ | · | −12 % |
-| NEE | NextEra Energy | −5,7 pts | 34 → 26 ▲ | ✓ | · | −15 % |
-| BEPC | Brookfield Renewable Partners | −5,9 pts | 35 → 35 | · | · | −31 % |
-| D | Dominion Energy | −5,9 pts | 36 → 32 | ✓ | · | −8 % |
-| ES | Eversource Energy | −7,4 pts | 37 → 34 | ✓ | · | −9 % |
-| NRG | NRG Energy | −20,0 pts | 38 → 39 | · | · | −46 % |
-| EIX | Edison International | −22,6 pts | 39 → 9 ▲ | ✓ | · | −25 % |
-| PCG | PG&E Corporation | −24,0 pts | 40 → 27 ▲ | · | · | −30 % |
-| OKLO | Oklo Inc. | −25,1 pts | 41 → 41 | · | · | −81 % |
+| EVRG | Evergy | +3,1 pts | 13 → 26 ▼ | ✓ | ✓ | −2 % |
+| XEL | Xcel Energy | +1,8 pts | 14 → 10 | ✓ | · | −4 % |
+| AEE | Ameren | +1,5 pts | 15 → 13 | ✓ | · | −6 % |
+| AEP | American Electric Power | +1,3 pts | 16 → 25 ▼ | ✓ | · | −6 % |
+| PPL | PPL Corporation | +1,2 pts | 17 → 28 ▼ | ✓ | · | −9 % |
+| NI | NiSource | +1,1 pts | 18 → 1 ▲ | ✓ | · | −8 % |
+| IDA | Idacorp | +0,6 pts | 19 → 19 | ✓ | · | −7 % |
+| MDU | MDU Resources | −0,2 pts | 20 → 33 ▼ | ✓ | · | −12 % |
+| LNT | Alliant Energy | −0,5 pts | 21 → 11 ▲ | ✓ | · | −9 % |
+| CNP | Centerpoint Energy | −0,5 pts | 22 → 2 ▲ | ✓ | · | −6 % |
+| VST | Vistra Corp. | −0,6 pts | 23 → 39 ▼ | · | · | −29 % |
+| NFG | National Fuel Gas | −0,7 pts | 24 → 36 ▼ | · | · | −16 % |
+| EXC | Exelon | −0,9 pts | 25 → 5 ▲ | ✓ | · | −7 % |
+| DUK | Duke Energy | −1,0 pts | 26 → 16 ▲ | ✓ | · | −4 % |
+| SO | Southern Company | −1,8 pts | 27 → 9 ▲ | ✓ | · | −5 % |
+| SRE | Sempra | −1,9 pts | 28 → 18 ▲ | ✓ | · | −13 % |
+| ATO | Atmos Energy | −2,6 pts | 29 → 22 | ✓ | · | −10 % |
+| FE | FirstEnergy | −3,2 pts | 30 → 30 | ✓ | · | −8 % |
+| PEG | Public Service Enterprise Group | −3,9 pts | 31 → 23 ▲ | ✓ | · | −13 % |
+| DTE | DTE Energy | −4,8 pts | 32 → 15 ▲ | ✓ | · | −12 % |
+| CMS | CMS Energy | −5,2 pts | 33 → 17 ▲ | ✓ | · | −12 % |
+| NEE | NextEra Energy | −5,9 pts | 34 → 27 | ✓ | · | −15 % |
+| BEPC | Brookfield Renewable Partners | −6,2 pts | 35 → 35 | · | · | −31 % |
+| D | Dominion Energy | −6,2 pts | 36 → 32 | ✓ | · | −8 % |
+| ES | Eversource Energy | −7,5 pts | 37 → 34 | ✓ | · | −9 % |
+| NRG | NRG Energy | −20,6 pts | 38 → 38 | · | · | −47 % |
+| EIX | Edison International | −22,7 pts | 39 → 7 ▲ | ✓ | · | −25 % |
+| PCG | PG&E Corporation | −24,4 pts | 40 → 31 ▲ | · | · | −30 % |
+| OKLO | Oklo Inc. | −26,6 pts | 41 → 41 | · | · | −81 % |
 
 </details>
 
@@ -793,121 +793,121 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 
 | Ticker | Société | Perf. 13 sem. vs marché | Rang secteur 3 m → 1 m | > MM50 | MM50 > MM200 | Vs plus haut 52 s. |
 |---|---|---:|:---:|:---:|:---:|---:|
-| TSLA | Tesla, Inc. | +36,6 pts | 1 → 23 | ✓ | · | −17 % |
-| W | Wayfair | +35,8 pts | 2 → 16 | ✓ | ✓ | +0 % |
-| ADT | ADT Inc. | +35,4 pts | 3 → 1 | ✓ | · | +0 % |
-| SN | SharkNinja | +30,4 pts | 4 → 21 | ✓ | ✓ | +0 % |
-| OLLI | Ollie's Bargain Outlet | +28,6 pts | 5 → 61 ▼ | ✓ | · | −29 % |
-| ULTA | Ulta Beauty | +26,6 pts | 6 → 18 | ✓ | ✓ | −9 % |
-| HAS | Hasbro | +26,4 pts | 7 → 3 | ✓ | ✓ | +0 % |
-| VFC | VF Corporation | +21,6 pts | 8 → 6 | ✓ | · | −15 % |
-| FIVE | Five Below | +17,3 pts | 9 → 40 ▼ | ✓ | ✓ | −7 % |
-| BBWI | Bath & Body Works, Inc. | +14,2 pts | 10 → 2 | ✓ | · | −8 % |
-| GAP | Gap Inc. | +13,9 pts | 11 → 90 ▼ | ✓ | · | −20 % |
-| MHK | Mohawk Industries | +13,5 pts | 12 → 81 ▼ | ✓ | ✓ | −9 % |
-| DDS | Dillard's | +13,3 pts | 13 → 94 ▼ | ✓ | ✓ | −8 % |
-| CROX | Crocs | +13,1 pts | 14 → 7 | ✓ | ✓ | +0 % |
-| WSM | Williams-Sonoma, Inc. | +11,7 pts | 15 → 28 | ✓ | ✓ | −1 % |
-| BBY | Best Buy | +11,6 pts | 16 → 35 | ✓ | ✓ | −1 % |
-| HLT | Hilton Worldwide | +10,9 pts | 17 → 38 | ✓ | ✓ | −2 % |
-| ABNB | Airbnb | +9,9 pts | 18 → 75 ▼ | · | · | −12 % |
-| AMZN | Amazon | +9,4 pts | 19 → 95 ▼ | · | · | −13 % |
-| GME | GameStop | +9,4 pts | 20 → 103 ▼ | ✓ | ✓ | −15 % |
-| ETSY | Etsy | +9,1 pts | 21 → 5 | ✓ | ✓ | +0 % |
-| TSCO | Tractor Supply Company | +8,8 pts | 22 → 62 ▼ | ✓ | · | −39 % |
-| RL | Ralph Lauren Corporation | +6,8 pts | 23 → 36 | ✓ | · | −4 % |
-| EBAY | eBay | +6,4 pts | 24 → 22 | ✓ | ✓ | −1 % |
-| MAR | Marriott International | +5,6 pts | 25 → 34 | ✓ | ✓ | −1 % |
-| HRB | H&R Block | +5,0 pts | 26 → 12 | ✓ | ✓ | −9 % |
-| CCL | Carnival Corporation | +4,8 pts | 27 → 15 | ✓ | · | −14 % |
-| DRI | Darden Restaurants | +4,6 pts | 28 → 26 | ✓ | ✓ | −3 % |
-| CVNA | Carvana | +4,3 pts | 29 → 47 | ✓ | · | −28 % |
-| POOL | Pool Corporation | +4,0 pts | 30 → 11 | ✓ | · | −28 % |
-| MAT | Mattel | +2,5 pts | 31 → 10 | ✓ | · | −29 % |
-| WING | Wingstop | +2,1 pts | 32 → 4 ▲ | ✓ | · | −50 % |
-| LEN-B | Lennar(Class B) | +1,9 pts | 33 → 74 ▼ | ✓ | · | −32 % |
-| WH | Wyndham Hotels & Resorts | +1,8 pts | 34 → 66 ▼ | ✓ | · | −14 % |
-| YUM | Yum! Brands | +1,6 pts | 35 → 37 | ✓ | · | −8 % |
-| SBUX | Starbucks | +1,5 pts | 36 → 42 | ✓ | ✓ | −4 % |
-| CHDN | Churchill Downs Incorporated | +1,2 pts | 37 → 14 ▲ | ✓ | · | −24 % |
-| COLM | Columbia Sportswear | +1,0 pts | 38 → 44 | ✓ | · | −6 % |
-| LEN | Lennar(Class A) | +0,8 pts | 39 → 76 ▼ | ✓ | · | −35 % |
-| M | Macy's, Inc. | +0,1 pts | 40 → 54 | ✓ | ✓ | −6 % |
-| AZO | AutoZone | −0,2 pts | 41 → 46 | ✓ | · | −22 % |
-| PVH | PVH Corp. | −0,3 pts | 42 → 13 ▲ | ✓ | ✓ | −11 % |
-| H | Hyatt Hotels | −1,3 pts | 43 → 20 ▲ | ✓ | · | −10 % |
-| DHI | D. R. Horton | −1,7 pts | 44 → 73 ▼ | ✓ | · | −14 % |
-| CZR | Caesars Entertainment | −1,7 pts | 45 → 97 ▼ | · | · | −4 % |
-| MTN | Vail Resorts | −2,3 pts | 46 → 31 | ✓ | ✓ | −3 % |
-| ARMK | Aramark | −2,5 pts | 47 → 78 ▼ | · | · | −11 % |
-| RCL | Royal Caribbean Group | −2,5 pts | 48 → 17 ▲ | ✓ | · | −9 % |
-| CHH | Choice Hotels | −2,6 pts | 49 → 49 | ✓ | · | −8 % |
-| CPNG | Coupang | −2,6 pts | 50 → 67 | · | · | −54 % |
-| HD | Home Depot (The) | −2,6 pts | 51 → 27 ▲ | ✓ | · | −15 % |
-| LOPE | Grand Canyon Education | −2,6 pts | 52 → 87 ▼ | ✓ | · | −25 % |
-| ORLY | O'Reilly Auto Parts | −3,0 pts | 53 → 85 ▼ | ✓ | · | −14 % |
-| QSR | Restaurant Brands International | −3,1 pts | 54 → 88 ▼ | · | · | −11 % |
-| GRMN | Garmin | −3,2 pts | 55 → 96 ▼ | · | · | −10 % |
-| GM | General Motors | −3,2 pts | 56 → 39 | ✓ | ✓ | −5 % |
-| DUOL | Duolingo | −3,6 pts | 57 → 105 ▼ | · | · | −51 % |
-| PAG | Penske Automotive Group | −3,8 pts | 58 → 65 | ✓ | ✓ | −4 % |
-| MRP | Millrose Properties | −4,2 pts | 59 → 79 | · | · | −17 % |
-| PLNT | Planet Fitness | −4,3 pts | 60 → 8 ▲ | ✓ | · | −52 % |
-| LOW | Lowe's | −4,3 pts | 61 → 41 | ✓ | · | −28 % |
-| THO | Thor Industries | −4,4 pts | 62 → 55 | ✓ | · | −38 % |
-| MCD | McDonald's | −4,6 pts | 63 → 43 | ✓ | · | −24 % |
-| TOL | Toll Brothers | −4,9 pts | 64 → 70 | ✓ | · | −14 % |
-| GPC | Genuine Parts Company | −4,9 pts | 65 → 101 ▼ | · | · | −16 % |
-| KMX | CarMax | −5,6 pts | 66 → 91 ▼ | · | · | −14 % |
-| SGI | Somnigroup International | −5,9 pts | 67 → 80 | · | · | −34 % |
-| NVR | NVR, Inc. | −5,9 pts | 68 → 100 ▼ | · | · | −26 % |
-| PHM | PulteGroup | −6,5 pts | 69 → 69 | ✓ | · | −13 % |
-| EXPE | Expedia Group | −6,5 pts | 70 → 57 | · | · | −17 % |
-| ROST | Ross Stores | −7,1 pts | 71 → 93 | ✓ | ✓ | −9 % |
-| TNL | Travel + Leisure Co. | −7,5 pts | 72 → 25 ▲ | ✓ | · | −9 % |
-| BC | Brunswick Corporation | −7,6 pts | 73 → 24 ▲ | ✓ | · | −16 % |
-| LULU | Lululemon Athletica | −7,6 pts | 74 → 29 ▲ | ✓ | · | −49 % |
-| DASH | DoorDash | −7,6 pts | 75 → 102 ▼ | · | · | −33 % |
-| CMG | Chipotle Mexican Grill | −8,6 pts | 76 → 99 ▼ | · | · | −24 % |
-| CAVA | Cava Group | −8,7 pts | 77 → 48 ▲ | ✓ | · | −39 % |
-| NKE | Nike, Inc. | −9,8 pts | 78 → 51 ▲ | ✓ | · | −42 % |
-| FND | Floor & Decor | −10,5 pts | 79 → 52 ▲ | ✓ | · | −35 % |
-| CHWY | Chewy | −10,8 pts | 80 → 30 ▲ | · | · | −42 % |
-| TJX | TJX Companies | −11,7 pts | 81 → 60 | ✓ | · | −16 % |
-| NCLH | Norwegian Cruise Line Holdings | −11,9 pts | 82 → 9 ▲ | ✓ | · | −27 % |
-| BWA | BorgWarner | −12,1 pts | 83 → 112 ▼ | · | · | −30 % |
-| MUSA | Murphy USA | −12,5 pts | 84 → 64 | ✓ | ✓ | −14 % |
-| TXRH | Texas Roadhouse | −12,7 pts | 85 → 19 ▲ | ✓ | · | −15 % |
-| ONON | On Holding AG | −13,0 pts | 86 → 45 ▲ | ✓ | · | −35 % |
-| VIK | Viking Holdings | −13,2 pts | 87 → 33 ▲ | ✓ | · | −18 % |
-| YETI | Yeti Holdings | −13,3 pts | 88 → 56 ▲ | ✓ | · | −17 % |
-| QS | QuantumScape | −13,3 pts | 89 → 110 | · | · | −77 % |
-| DPZ | Domino's | −13,5 pts | 90 → 82 | · | · | −29 % |
-| GNTX | Gentex | −14,0 pts | 91 → 106 | · | · | −21 % |
-| SCI | Service Corporation Internationa | −14,0 pts | 92 → 104 | · | · | −16 % |
-| BFAM | Bright Horizons | −15,8 pts | 93 → 50 ▲ | ✓ | · | −37 % |
-| DKNG | DraftKings | −17,2 pts | 94 → 63 ▲ | · | · | −44 % |
-| F | Ford Motor Company | −17,5 pts | 95 → 84 | · | · | −28 % |
-| AS | Amer Sports | −18,0 pts | 96 → 53 ▲ | ✓ | · | −30 % |
-| LEA | Lear Corporation | −18,6 pts | 97 → 92 | · | · | −20 % |
-| BIRK | Birkenstock | −19,3 pts | 98 → 83 | ✓ | · | −32 % |
-| DECK | Deckers Brands | −19,6 pts | 99 → 68 ▲ | · | · | −32 % |
-| BYD | Boyd Gaming | −20,6 pts | 100 → 58 ▲ | · | · | −22 % |
-| TPR | Tapestry, Inc. | −21,1 pts | 101 → 86 | · | · | −29 % |
-| APTV | Aptiv | −22,4 pts | 102 → 77 ▲ | · | · | −50 % |
-| LVS | Las Vegas Sands | −23,0 pts | 103 → 98 | · | · | −46 % |
-| WYNN | Wynn Resorts | −24,7 pts | 104 → 108 | · | · | −44 % |
-| BKNG | Booking Holdings | −24,7 pts | 105 → 109 | · | · | −31 % |
-| WHR | Whirlpool Corporation | −24,8 pts | 106 → 107 | · | · | −69 % |
-| AN | AutoNation | −26,2 pts | 107 → 59 ▲ | · | · | −27 % |
-| FLUT | Flutter Entertainment | −26,6 pts | 108 → 71 ▲ | · | · | −67 % |
-| RIVN | Rivian | −27,5 pts | 109 → 114 | · | · | −48 % |
-| DKS | Dick's Sporting Goods | −30,2 pts | 110 → 72 ▲ | ✓ | · | −40 % |
-| LAD | Lithia Motors | −30,5 pts | 111 → 89 | · | · | −31 % |
-| LKQ | LKQ Corporation | −31,3 pts | 112 → 115 | · | · | −47 % |
-| BROS | Dutch Bros Inc. | −31,9 pts | 113 → 32 ▲ | ✓ | · | −41 % |
-| BURL | Burlington Stores | −33,4 pts | 114 → 111 | · | · | −34 % |
-| MGM | MGM Resorts International | −38,6 pts | 115 → 113 | · | · | −45 % |
+| TSLA | Tesla, Inc. | +35,8 pts | 1 → 34 ▼ | ✓ | · | −18 % |
+| W | Wayfair | +35,5 pts | 2 → 17 | ✓ | ✓ | +0 % |
+| ADT | ADT Inc. | +34,8 pts | 3 → 1 | ✓ | · | +0 % |
+| SN | SharkNinja | +31,9 pts | 4 → 21 | ✓ | ✓ | +0 % |
+| OLLI | Ollie's Bargain Outlet | +30,1 pts | 5 → 55 ▼ | ✓ | · | −28 % |
+| ULTA | Ulta Beauty | +28,2 pts | 6 → 15 | ✓ | ✓ | −8 % |
+| HAS | Hasbro | +27,2 pts | 7 → 4 | ✓ | ✓ | +0 % |
+| VFC | VF Corporation | +23,0 pts | 8 → 5 | ✓ | · | −14 % |
+| FIVE | Five Below | +17,8 pts | 9 → 41 ▼ | ✓ | ✓ | −7 % |
+| BBWI | Bath & Body Works, Inc. | +17,4 pts | 10 → 2 | ✓ | · | −5 % |
+| MHK | Mohawk Industries | +15,2 pts | 11 → 77 ▼ | ✓ | ✓ | −7 % |
+| GAP | Gap Inc. | +14,2 pts | 12 → 91 ▼ | ✓ | · | −20 % |
+| CROX | Crocs | +13,1 pts | 13 → 7 | ✓ | ✓ | +0 % |
+| BBY | Best Buy | +13,1 pts | 14 → 33 | ✓ | ✓ | +0 % |
+| DDS | Dillard's | +12,8 pts | 15 → 95 ▼ | ✓ | ✓ | −8 % |
+| WSM | Williams-Sonoma, Inc. | +12,1 pts | 16 → 28 | ✓ | ✓ | −0 % |
+| HLT | Hilton Worldwide | +11,6 pts | 17 → 40 ▼ | ✓ | ✓ | −1 % |
+| GME | GameStop | +10,5 pts | 18 → 103 ▼ | ✓ | ✓ | −14 % |
+| TSCO | Tractor Supply Company | +9,9 pts | 19 → 58 ▼ | ✓ | · | −39 % |
+| ABNB | Airbnb | +9,4 pts | 20 → 81 ▼ | · | · | −13 % |
+| AMZN | Amazon | +8,1 pts | 21 → 99 ▼ | · | · | −14 % |
+| ETSY | Etsy | +7,6 pts | 22 → 6 | ✓ | ✓ | −1 % |
+| RL | Ralph Lauren Corporation | +7,5 pts | 23 → 37 | ✓ | · | −3 % |
+| HRB | H&R Block | +6,8 pts | 24 → 12 | ✓ | ✓ | −7 % |
+| POOL | Pool Corporation | +6,8 pts | 25 → 9 | ✓ | · | −26 % |
+| EBAY | eBay | +6,0 pts | 26 → 30 | ✓ | ✓ | −1 % |
+| MAR | Marriott International | +5,7 pts | 27 → 38 | ✓ | ✓ | −1 % |
+| DRI | Darden Restaurants | +5,3 pts | 28 → 25 | ✓ | ✓ | −2 % |
+| WING | Wingstop | +5,1 pts | 29 → 3 ▲ | ✓ | · | −49 % |
+| CCL | Carnival Corporation | +4,8 pts | 30 → 16 | ✓ | · | −14 % |
+| CVNA | Carvana | +3,6 pts | 31 → 50 | ✓ | · | −29 % |
+| CHDN | Churchill Downs Incorporated | +3,5 pts | 32 → 13 | ✓ | · | −22 % |
+| LEN-B | Lennar(Class B) | +3,4 pts | 33 → 69 ▼ | ✓ | · | −31 % |
+| WH | Wyndham Hotels & Resorts | +3,0 pts | 34 → 66 ▼ | ✓ | · | −13 % |
+| YUM | Yum! Brands | +2,8 pts | 35 → 35 | ✓ | · | −7 % |
+| SBUX | Starbucks | +2,5 pts | 36 → 39 | ✓ | ✓ | −3 % |
+| LEN | Lennar(Class A) | +2,3 pts | 37 → 73 ▼ | ✓ | · | −34 % |
+| MAT | Mattel | +1,3 pts | 38 → 11 ▲ | ✓ | · | −30 % |
+| COLM | Columbia Sportswear | +1,3 pts | 39 → 44 | ✓ | · | −6 % |
+| M | Macy's, Inc. | +1,3 pts | 40 → 53 | ✓ | ✓ | −5 % |
+| PVH | PVH Corp. | +0,6 pts | 41 → 14 ▲ | ✓ | ✓ | −11 % |
+| DHI | D. R. Horton | +0,4 pts | 42 → 62 | ✓ | · | −12 % |
+| AZO | AutoZone | +0,4 pts | 43 → 45 | ✓ | · | −21 % |
+| H | Hyatt Hotels | −0,3 pts | 44 → 20 ▲ | ✓ | · | −9 % |
+| ARMK | Aramark | −1,2 pts | 45 → 76 ▼ | · | · | −10 % |
+| MTN | Vail Resorts | −1,3 pts | 46 → 27 | ✓ | ✓ | −2 % |
+| HD | Home Depot (The) | −1,5 pts | 47 → 23 ▲ | ✓ | · | −14 % |
+| CHH | Choice Hotels | −1,5 pts | 48 → 47 | ✓ | · | −7 % |
+| CZR | Caesars Entertainment | −1,6 pts | 49 → 96 ▼ | · | · | −4 % |
+| QSR | Restaurant Brands International | −1,9 pts | 50 → 85 ▼ | · | · | −10 % |
+| DUOL | Duolingo | −2,1 pts | 51 → 105 ▼ | · | · | −50 % |
+| ORLY | O'Reilly Auto Parts | −2,2 pts | 52 → 83 ▼ | ✓ | · | −13 % |
+| LOPE | Grand Canyon Education | −2,6 pts | 53 → 90 ▼ | ✓ | · | −25 % |
+| LOW | Lowe's | −2,7 pts | 54 → 36 | ✓ | · | −27 % |
+| RCL | Royal Caribbean Group | −2,9 pts | 55 → 19 ▲ | ✓ | · | −9 % |
+| TOL | Toll Brothers | −3,2 pts | 56 → 61 | ✓ | · | −13 % |
+| MRP | Millrose Properties | −3,2 pts | 57 → 79 | · | · | −16 % |
+| CPNG | Coupang | −3,3 pts | 58 → 75 | · | · | −55 % |
+| GM | General Motors | −3,3 pts | 59 → 43 | ✓ | ✓ | −5 % |
+| PAG | Penske Automotive Group | −3,8 pts | 60 → 70 | ✓ | ✓ | −4 % |
+| PLNT | Planet Fitness | −3,8 pts | 61 → 8 ▲ | ✓ | · | −52 % |
+| MCD | McDonald's | −4,0 pts | 62 → 42 | ✓ | · | −23 % |
+| GRMN | Garmin | −4,1 pts | 63 → 101 ▼ | · | · | −10 % |
+| THO | Thor Industries | −4,4 pts | 64 → 59 | ✓ | · | −37 % |
+| KMX | CarMax | −4,4 pts | 65 → 88 ▼ | · | · | −13 % |
+| GPC | Genuine Parts Company | −4,5 pts | 66 → 104 ▼ | · | · | −16 % |
+| SGI | Somnigroup International | −5,0 pts | 67 → 80 | ✓ | · | −34 % |
+| NVR | NVR, Inc. | −5,1 pts | 68 → 100 ▼ | · | · | −26 % |
+| PHM | PulteGroup | −5,2 pts | 69 → 63 | ✓ | · | −12 % |
+| EXPE | Expedia Group | −6,4 pts | 70 → 60 | · | · | −17 % |
+| BC | Brunswick Corporation | −6,5 pts | 71 → 22 ▲ | ✓ | · | −15 % |
+| TNL | Travel + Leisure Co. | −6,6 pts | 72 → 24 ▲ | ✓ | · | −8 % |
+| DASH | DoorDash | −6,9 pts | 73 → 102 ▼ | · | · | −33 % |
+| ROST | Ross Stores | −7,0 pts | 74 → 92 | ✓ | ✓ | −9 % |
+| LULU | Lululemon Athletica | −7,2 pts | 75 → 31 ▲ | ✓ | · | −49 % |
+| CMG | Chipotle Mexican Grill | −8,1 pts | 76 → 98 | · | · | −23 % |
+| CAVA | Cava Group | −8,8 pts | 77 → 49 ▲ | ✓ | · | −39 % |
+| FND | Floor & Decor | −9,1 pts | 78 → 48 ▲ | ✓ | · | −34 % |
+| NKE | Nike, Inc. | −9,6 pts | 79 → 54 ▲ | ✓ | · | −42 % |
+| CHWY | Chewy | −10,0 pts | 80 → 26 ▲ | · | · | −41 % |
+| SCI | Service Corporation Internationa | −11,3 pts | 81 → 94 | · | · | −14 % |
+| TXRH | Texas Roadhouse | −11,6 pts | 82 → 18 ▲ | ✓ | · | −14 % |
+| NCLH | Norwegian Cruise Line Holdings | −11,6 pts | 83 → 10 ▲ | ✓ | · | −27 % |
+| TJX | TJX Companies | −11,7 pts | 84 → 67 | ✓ | · | −16 % |
+| MUSA | Murphy USA | −11,7 pts | 85 → 65 | ✓ | ✓ | −13 % |
+| VIK | Viking Holdings | −12,2 pts | 86 → 29 ▲ | ✓ | · | −17 % |
+| DPZ | Domino's | −12,2 pts | 87 → 78 | · | · | −28 % |
+| ONON | On Holding AG | −12,9 pts | 88 → 46 ▲ | ✓ | · | −35 % |
+| YETI | Yeti Holdings | −12,9 pts | 89 → 56 ▲ | ✓ | · | −16 % |
+| BWA | BorgWarner | −13,5 pts | 90 → 113 ▼ | · | · | −31 % |
+| GNTX | Gentex | −14,4 pts | 91 → 107 | · | · | −21 % |
+| QS | QuantumScape | −14,7 pts | 92 → 112 | · | · | −77 % |
+| DKNG | DraftKings | −15,0 pts | 93 → 51 ▲ | · | · | −43 % |
+| F | Ford Motor Company | −17,7 pts | 94 → 86 | · | · | −28 % |
+| AS | Amer Sports | −18,3 pts | 95 → 64 ▲ | ✓ | · | −30 % |
+| BFAM | Bright Horizons | −18,4 pts | 96 → 74 | · | · | −39 % |
+| BIRK | Birkenstock | −19,0 pts | 97 → 84 | ✓ | · | −32 % |
+| LEA | Lear Corporation | −19,4 pts | 98 → 93 | · | · | −21 % |
+| BYD | Boyd Gaming | −19,4 pts | 99 → 52 ▲ | · | · | −20 % |
+| DECK | Deckers Brands | −19,5 pts | 100 → 71 ▲ | · | · | −32 % |
+| TPR | Tapestry, Inc. | −20,6 pts | 101 → 87 | · | · | −28 % |
+| LVS | Las Vegas Sands | −22,6 pts | 102 → 97 | · | · | −46 % |
+| APTV | Aptiv | −22,8 pts | 103 → 82 | · | · | −50 % |
+| WHR | Whirlpool Corporation | −23,1 pts | 104 → 106 | · | · | −68 % |
+| WYNN | Wynn Resorts | −24,3 pts | 105 → 108 | · | · | −44 % |
+| BKNG | Booking Holdings | −24,5 pts | 106 → 110 | · | · | −31 % |
+| AN | AutoNation | −25,8 pts | 107 → 57 ▲ | · | · | −26 % |
+| FLUT | Flutter Entertainment | −25,9 pts | 108 → 68 ▲ | · | · | −67 % |
+| RIVN | Rivian | −29,3 pts | 109 → 115 | · | · | −49 % |
+| LAD | Lithia Motors | −29,8 pts | 110 → 89 | · | · | −30 % |
+| DKS | Dick's Sporting Goods | −29,8 pts | 111 → 72 ▲ | ✓ | · | −40 % |
+| LKQ | LKQ Corporation | −30,0 pts | 112 → 114 | · | · | −46 % |
+| BROS | Dutch Bros Inc. | −31,4 pts | 113 → 32 ▲ | ✓ | · | −40 % |
+| BURL | Burlington Stores | −34,1 pts | 114 → 111 | · | · | −35 % |
+| MGM | MGM Resorts International | −36,5 pts | 115 → 109 | · | · | −43 % |
 
 </details>
 
@@ -916,197 +916,197 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 
 | Ticker | Société | Perf. 13 sem. vs marché | Rang secteur 3 m → 1 m | > MM50 | MM50 > MM200 | Vs plus haut 52 s. |
 |---|---|---:|:---:|:---:|:---:|---:|
-| CACI | CACI | +39,3 pts | 1 → 53 ▼ | ✓ | ✓ | −1 % |
-| BE | Bloom Energy | +38,9 pts | 2 → 185 ▼ | · | · | −35 % |
-| SAIC | SAIC | +28,7 pts | 3 → 21 | ✓ | ✓ | −0 % |
-| PSN | Parsons Corporation | +25,3 pts | 4 → 8 | ✓ | · | −42 % |
-| LDOS | Leidos | +24,5 pts | 5 → 26 | ✓ | · | −28 % |
-| BAH | Booz Allen Hamilton | +21,3 pts | 6 → 12 | ✓ | · | −16 % |
-| TREX | Trex Company, Inc. | +20,4 pts | 7 → 25 | ✓ | ✓ | −1 % |
-| EMR | Emerson Electric | +18,0 pts | 8 → 60 ▼ | ✓ | ✓ | +0 % |
-| ALLE | Allegion | +17,9 pts | 9 → 14 | ✓ | ✓ | +0 % |
-| TTC | Toro Company (The) | +17,5 pts | 10 → 48 ▼ | ✓ | ✓ | +0 % |
-| WCC | Wesco International | +17,5 pts | 11 → 115 ▼ | ✓ | ✓ | −6 % |
-| SITE | SiteOne Landscape Supply | +17,1 pts | 12 → 13 | ✓ | · | −33 % |
-| EXPD | Expeditors International | +17,0 pts | 13 → 82 ▼ | ✓ | ✓ | −1 % |
-| VICR | Vicor Corporation | +15,7 pts | 14 → 190 ▼ | · | · | −45 % |
-| PWR | Quanta Services | +15,3 pts | 15 → 117 ▼ | ✓ | ✓ | −18 % |
-| LMT | Lockheed Martin | +15,1 pts | 16 → 4 | ✓ | · | −3 % |
-| APG | APi Group | +15,0 pts | 17 → 33 | ✓ | · | −11 % |
-| EXLS | EXL Service | +14,4 pts | 18 → 16 | ✓ | ✓ | −6 % |
-| SUNB | Sunbelt Rentals | +14,2 pts | 19 → 37 | ✓ | ✓ | — % |
-| URI | United Rentals | +13,9 pts | 20 → 15 | ✓ | ✓ | +0 % |
-| JCI | Johnson Controls | +13,7 pts | 21 → 89 ▼ | ✓ | ✓ | −1 % |
-| J | Jacobs Solutions | +13,5 pts | 22 → 38 | ✓ | ✓ | −2 % |
-| VRT | Vertiv | +13,3 pts | 23 → 97 ▼ | ✓ | · | −33 % |
-| HII | Huntington Ingalls Industries | +13,1 pts | 24 → 20 | ✓ | · | −30 % |
-| NDSN | Nordson | +13,0 pts | 25 → 113 ▼ | ✓ | ✓ | −1 % |
-| TTEK | Tetra Tech | +12,8 pts | 26 → 28 | ✓ | ✓ | −11 % |
-| BR | Broadridge Financial Solutions | +12,4 pts | 27 → 62 | ✓ | ✓ | −22 % |
-| GFL | GFL Environmental | +12,2 pts | 28 → 81 ▼ | ✓ | ✓ | −3 % |
-| FLS | Flowserve | +12,0 pts | 29 → 87 ▼ | ✓ | · | −15 % |
-| SWK | Stanley Black & Decker | +11,7 pts | 30 → 27 | ✓ | ✓ | −1 % |
-| LECO | Lincoln Electric | +11,6 pts | 31 → 73 ▼ | ✓ | ✓ | −4 % |
-| FAST | Fastenal | +11,2 pts | 32 → 85 ▼ | ✓ | ✓ | +0 % |
-| FTV | Fortive | +10,3 pts | 33 → 18 | ✓ | · | +0 % |
-| KEX | Kirby Corporation | +10,2 pts | 34 → 65 | ✓ | ✓ | −6 % |
-| MAS | Masco | +10,0 pts | 35 → 22 | ✓ | ✓ | −4 % |
-| ETN | Eaton Corporation | +10,0 pts | 36 → 167 ▼ | · | · | −14 % |
-| KBR | KBR, Inc. | +9,1 pts | 37 → 57 | ✓ | · | −13 % |
-| R | Ryder | +9,0 pts | 38 → 9 | ✓ | ✓ | −1 % |
-| DE | Deere & Company | +8,9 pts | 39 → 136 ▼ | · | · | −7 % |
-| CSL | Carlisle Companies | +8,9 pts | 40 → 47 | ✓ | · | −13 % |
-| ROP | Roper Technologies | +8,8 pts | 41 → 5 | ✓ | ✓ | −2 % |
-| RSG | Republic Services | +8,2 pts | 42 → 43 | ✓ | ✓ | −3 % |
-| TDY | Teledyne Technologies | +8,0 pts | 43 → 49 | ✓ | · | −2 % |
-| AME | Ametek | +7,7 pts | 44 → 108 ▼ | ✓ | ✓ | −3 % |
-| CNH | CNH Industrial | +7,3 pts | 45 → 175 ▼ | · | · | −20 % |
-| NOC | Northrop Grumman | +7,0 pts | 46 → 23 | ✓ | · | −26 % |
-| RHI | Robert Half | +6,9 pts | 47 → 30 | ✓ | ✓ | −8 % |
-| ITT | ITT Inc. | +6,7 pts | 48 → 118 ▼ | ✓ | ✓ | −9 % |
-| G | Genpact | +6,7 pts | 49 → 17 | ✓ | ✓ | −19 % |
-| GNRC | Generac | +6,6 pts | 50 → 119 ▼ | ✓ | · | −30 % |
-| DOV | Dover Corporation | +6,2 pts | 51 → 51 | ✓ | · | −10 % |
-| EME | Emcor | +6,0 pts | 52 → 159 ▼ | · | · | −25 % |
-| FERG | Ferguson Enterprises | +5,8 pts | 53 → 86 | ✓ | · | −11 % |
-| ADP | Automatic Data Processing | +5,6 pts | 54 → 56 | ✓ | ✓ | −7 % |
-| GTES | Gates Corporation | +5,5 pts | 55 → 124 ▼ | ✓ | ✓ | −12 % |
-| WTS | Watts Water Technologies | +5,4 pts | 56 → 129 ▼ | · | · | −10 % |
-| NVT | nVent Electric | +5,4 pts | 57 → 179 ▼ | · | · | −24 % |
-| LYFT | Lyft | +5,3 pts | 58 → 75 | · | · | −34 % |
-| VLTO | Veralto | +5,2 pts | 59 → 64 | ✓ | ✓ | −2 % |
-| TXT | Textron | +4,7 pts | 60 → 24 | ✓ | · | −12 % |
-| FCN | FTI Consulting | +4,4 pts | 61 → 1 ▲ | ✓ | · | −5 % |
-| IEX | IDEX Corporation | +4,4 pts | 62 → 95 | ✓ | ✓ | −1 % |
-| MWH | SOLV Energy | +4,4 pts | 63 → 102 ▼ | · | · | — % |
-| RKLB | Rocket Lab | +4,4 pts | 64 → 180 ▼ | · | · | −60 % |
-| UPS | United Parcel Service | +4,3 pts | 65 → 32 | ✓ | · | −8 % |
-| UNP | Union Pacific Corporation | +3,6 pts | 66 → 58 | ✓ | ✓ | −3 % |
-| CNM | Core & Main | +3,0 pts | 67 → 94 | ✓ | · | −27 % |
-| MSA | MSA Safety | +3,0 pts | 68 → 111 ▼ | · | · | −11 % |
-| SSD | Simpson Manufacturing Company | +2,9 pts | 69 → 36 | ✓ | · | −8 % |
-| MSM | MSC Industrial Direct | +2,8 pts | 70 → 121 ▼ | ✓ | ✓ | −7 % |
-| CSX | CSX Corporation | +2,6 pts | 71 → 54 | ✓ | ✓ | −3 % |
-| PRIM | Primoris Services Corporation | +2,5 pts | 72 → 106 | ✓ | · | −62 % |
-| ATI | ATI Inc. | +2,5 pts | 73 → 151 ▼ | · | · | −22 % |
-| NSC | Norfolk Southern | +2,3 pts | 74 → 59 | ✓ | ✓ | −4 % |
-| AMTM | Amentum | +2,0 pts | 75 → 11 ▲ | ✓ | · | −41 % |
-| OTIS | Otis Worldwide | +1,8 pts | 76 → 29 ▲ | ✓ | · | −20 % |
-| GWW | W. W. Grainger | +1,6 pts | 77 → 61 | ✓ | ✓ | −2 % |
-| FDX | FedEx | +1,4 pts | 78 → 67 | ✓ | ✓ | −8 % |
-| HAYW | Hayward Holdings | +1,4 pts | 79 → 6 ▲ | ✓ | · | −11 % |
-| CTAS | Cintas | +1,2 pts | 80 → 52 | ✓ | ✓ | −4 % |
-| ECG | Everus Construction Group | +1,0 pts | 81 → 164 ▼ | · | · | −35 % |
-| AOS | A. O. Smith | +0,8 pts | 82 → 63 | ✓ | · | −22 % |
-| GEV | GE Vernova | +0,4 pts | 83 → 157 ▼ | · | · | −24 % |
-| KTOS | Kratos Defense & Security Soluti | +0,2 pts | 84 → 105 | · | · | −67 % |
-| MMM | 3M | +0,1 pts | 85 → 80 | ✓ | ✓ | −4 % |
-| CR | Crane Co. | +0,0 pts | 86 → 114 | ✓ | ✓ | −9 % |
-| LUV | Southwest Airlines | −0,3 pts | 87 → 93 | ✓ | · | −19 % |
-| PNR | Pentair | −0,6 pts | 88 → 7 ▲ | ✓ | · | −39 % |
-| FPS | Forgent Power Solutions | −1,1 pts | 89 → 188 ▼ | · | · | — % |
-| ROK | Rockwell Automation | −1,2 pts | 90 → 101 | ✓ | ✓ | −9 % |
-| WAB | Wabtec | −1,4 pts | 91 → 127 | · | · | −7 % |
-| WMS | Advanced Drainage Systems | −1,4 pts | 92 → 84 | ✓ | · | −23 % |
-| PH | Parker Hannifin | −1,4 pts | 93 → 142 ▼ | · | · | −13 % |
-| LOAR | Loar Holdings | −1,5 pts | 94 → 88 | · | · | −20 % |
-| AYI | Acuity Brands | −1,7 pts | 95 → 91 | ✓ | ✓ | −13 % |
-| GD | General Dynamics | −1,8 pts | 96 → 45 ▲ | ✓ | · | −6 % |
-| WM | Waste Management, Inc. | −2,2 pts | 97 → 41 ▲ | ✓ | · | −6 % |
-| GXO | GXO Logistics | −2,7 pts | 98 → 46 ▲ | ✓ | · | −24 % |
-| FTAI | FTAI Aviation | −2,8 pts | 99 → 34 ▲ | ✓ | · | −38 % |
-| ALSN | Allison Transmission | −3,0 pts | 100 → 141 ▼ | · | · | −19 % |
-| ITW | Illinois Tool Works | −3,3 pts | 101 → 69 | ✓ | ✓ | −5 % |
-| VMI | Valmont Industries | −3,3 pts | 102 → 156 ▼ | · | · | −25 % |
-| TT | Trane Technologies | −3,3 pts | 103 → 155 ▼ | · | · | −15 % |
-| AVAV | AeroVironment | −3,4 pts | 104 → 149 ▼ | · | · | −65 % |
-| CPRT | Copart | −4,0 pts | 105 → 74 | · | · | −32 % |
-| EFX | Equifax | −4,0 pts | 106 → 2 ▲ | ✓ | · | −21 % |
-| HUBB | Hubbell Incorporated | −4,1 pts | 107 → 147 ▼ | · | · | −21 % |
-| DAL | Delta Air Lines | −4,2 pts | 108 → 134 | ✓ | ✓ | −12 % |
-| HEI-A | HEICO(Class A) | −4,3 pts | 109 → 83 | ✓ | · | −11 % |
-| AGCO | AGCO | −4,8 pts | 110 → 148 ▼ | · | · | −22 % |
-| WSO | Watsco | −4,9 pts | 111 → 122 | · | · | −33 % |
-| CLH | Clean Harbors | −5,0 pts | 112 → 130 | · | · | −6 % |
-| LHX | L3Harris | −5,2 pts | 113 → 19 ▲ | ✓ | · | −25 % |
-| OSK | Oshkosh Corporation | −5,3 pts | 114 → 99 | · | · | −24 % |
-| RTX | RTX Corporation | −5,4 pts | 115 → 70 ▲ | ✓ | ✓ | −11 % |
-| AWI | Armstrong World Industries | −5,6 pts | 116 → 112 | · | · | −19 % |
-| TDG | TransDigm Group | −6,3 pts | 117 → 68 ▲ | ✓ | · | −19 % |
-| DCI | Donaldson Company | −6,6 pts | 118 → 137 | · | · | −22 % |
-| HON | Honeywell Technologies | −7,1 pts | 119 → 92 | ✓ | · | −14 % |
-| UBER | Uber | −7,3 pts | 120 → 152 | · | · | −34 % |
-| HEI | HEICO(Common) | −7,7 pts | 121 → 77 ▲ | ✓ | · | −13 % |
-| IESC | IES Holdings | −7,7 pts | 122 → 191 ▼ | · | · | −43 % |
-| AIT | Applied Industrial Technologies | −8,1 pts | 123 → 169 ▼ | · | · | −16 % |
-| CARR | Carrier Global | −8,2 pts | 124 → 125 | · | · | −28 % |
-| IR | Ingersoll Rand | −8,2 pts | 125 → 103 | ✓ | · | −22 % |
-| KRMN | Karman Holdings | −8,8 pts | 126 → 3 ▲ | ✓ | · | −64 % |
-| BLDR | Builders FirstSource | −9,0 pts | 127 → 78 ▲ | ✓ | · | −53 % |
-| POWL | Powell Industries | −9,1 pts | 128 → 172 ▼ | · | · | −48 % |
-| ST | Sensata Technologies | −9,2 pts | 129 → 126 | · | · | −23 % |
-| PAYX | Paychex | −9,5 pts | 130 → 50 ▲ | · | · | −14 % |
-| RBC | RBC Bearings | −9,6 pts | 131 → 131 | · | · | −24 % |
-| FIX | Comfort Systems USA | −9,8 pts | 132 → 184 ▼ | · | · | −34 % |
-| MFP | Midera Food Processing | −10,1 pts | 133 → 107 | · | · | — % |
-| TRU | TransUnion | −10,1 pts | 134 → 10 ▲ | ✓ | ✓ | −15 % |
-| VRSK | Verisk Analytics | −10,1 pts | 135 → 39 ▲ | ✓ | · | −15 % |
-| GE | GE Aerospace | −10,1 pts | 136 → 116 | · | · | −18 % |
-| AAON | AAON | −10,3 pts | 137 → 171 | · | · | −49 % |
-| FBIN | Fortune Brands Innovations | −10,4 pts | 138 → 31 ▲ | ✓ | · | −31 % |
-| UAL | United Airlines Holdings | −10,4 pts | 139 → 150 | · | · | −22 % |
-| OC | Owens Corning | −10,4 pts | 140 → 100 ▲ | · | · | −24 % |
-| SPXC | SPX Technologies | −10,7 pts | 141 → 139 | · | · | −33 % |
-| BWXT | BWX Technologies | −11,0 pts | 142 → 109 | · | · | −42 % |
-| NXT | Nextpower | −11,5 pts | 143 → 96 ▲ | · | · | −48 % |
-| ROL | Rollins, Inc. | −11,6 pts | 144 → 40 ▲ | ✓ | · | −48 % |
-| XPO | XPO, Inc. | −11,7 pts | 145 → 128 | · | · | −23 % |
-| TKR | Timken Company | −11,9 pts | 146 → 132 | · | · | −20 % |
-| MIDD | Middleby | −12,1 pts | 147 → 44 ▲ | ✓ | · | −19 % |
-| RRX | Regal Rexnord | −12,1 pts | 148 → 90 ▲ | ✓ | · | −31 % |
-| SNA | Snap-on | −12,3 pts | 149 → 133 | · | · | −14 % |
-| AAL | American Airlines Group | −12,5 pts | 150 → 146 | · | · | −29 % |
-| ACM | AECOM | −12,8 pts | 151 → 71 ▲ | ✓ | · | −52 % |
-| CMI | Cummins | −13,0 pts | 152 → 110 ▲ | · | · | −28 % |
-| MLI | Mueller Industries | −13,1 pts | 153 → 165 | · | · | −20 % |
-| MBGL | Mobility Global | −13,3 pts | 154 → 79 ▲ | · | · | — % |
-| DRS | Leonardo DRS | −13,7 pts | 155 → 66 ▲ | ✓ | · | −20 % |
-| KNX | Knight-Swift | −13,9 pts | 156 → 154 | · | · | −26 % |
-| GGG | Graco Inc. | −14,8 pts | 157 → 174 | · | · | −27 % |
-| SAIA | Saia | −14,8 pts | 158 → 120 ▲ | · | · | −32 % |
-| ESAB | ESAB | −14,9 pts | 159 → 55 ▲ | ✓ | · | −46 % |
-| QXO | QXO, Inc. | −14,9 pts | 160 → 144 | · | · | −58 % |
-| CAT | Caterpillar Inc. | −15,1 pts | 161 → 186 | · | · | −38 % |
-| SNDR | Schneider National | −15,7 pts | 162 → 166 | · | · | −24 % |
-| SARO | StandardAero | −15,9 pts | 163 → 42 ▲ | ✓ | · | −28 % |
-| WWD | Woodward, Inc. | −16,8 pts | 164 → 145 | · | · | −27 % |
-| AXON | Axon Enterprise | −17,8 pts | 165 → 104 ▲ | · | · | −43 % |
-| BA | Boeing | −18,3 pts | 166 → 163 | · | · | −31 % |
-| ULS | UL Solutions | −18,4 pts | 167 → 35 ▲ | ✓ | · | −29 % |
-| STRL | Sterling Infrastructure | −18,9 pts | 168 → 187 | · | · | −60 % |
-| JBHT | J. B. Hunt | −19,5 pts | 169 → 138 | · | · | −26 % |
-| MOD | Modine Manufacturing | −19,9 pts | 170 → 189 | · | · | −54 % |
-| ALK | Alaska Air Group | −20,3 pts | 171 → 160 | · | · | −40 % |
-| LII | Lennox International | −20,3 pts | 172 → 153 | · | · | −41 % |
-| LSTR | Landstar | −20,5 pts | 173 → 183 | · | · | −38 % |
-| UHAL-B | U-Haul(Series N) | −20,7 pts | 174 → 158 | · | · | −25 % |
-| UHAL | U-Haul | −20,8 pts | 175 → 161 | · | · | −25 % |
-| HONA | Honeywell Aerospace | −20,8 pts | 176 → 98 ▲ | ✓ | · | — % |
-| XE | X-energy | −21,1 pts | 177 → 182 | · | · | — % |
-| HXL | Hexcel | −21,9 pts | 178 → 143 | · | · | −26 % |
-| WSC | WillScot Mobile Mini | −22,5 pts | 179 → 76 ▲ | ✓ | · | −36 % |
-| PCAR | Paccar | −22,6 pts | 180 → 162 | · | · | −26 % |
-| RBA | RB Global | −22,7 pts | 181 → 72 ▲ | ✓ | · | −26 % |
-| ODFL | Old Dominion Freight Line | −23,2 pts | 182 → 140 ▲ | · | · | −32 % |
-| HWM | Howmet Aerospace | −23,3 pts | 183 → 168 | · | · | −29 % |
-| PL | Planet Labs | −24,7 pts | 184 → 176 | · | · | −72 % |
-| FDXF | FedEx Freight | −24,9 pts | 185 → 135 ▲ | · | · | — % |
-| CHRW | C.H. Robinson | −25,5 pts | 186 → 181 | · | · | −39 % |
-| XYL | Xylem Inc. | −26,0 pts | 187 → 177 | · | · | −41 % |
-| CW | Curtiss-Wright | −26,1 pts | 188 → 170 | · | · | −37 % |
-| CAR | Avis Budget Group | −30,6 pts | 189 → 123 ▲ | · | · | −85 % |
-| MTZ | MasTec | −33,9 pts | 190 → 178 | · | · | −57 % |
-| DY | Dycom Industries | −34,6 pts | 191 → 173 | · | · | −55 % |
+| CACI | CACI | +38,8 pts | 1 → 60 ▼ | ✓ | ✓ | −1 % |
+| BE | Bloom Energy | +36,3 pts | 2 → 184 ▼ | · | · | −36 % |
+| SAIC | SAIC | +29,9 pts | 3 → 20 | ✓ | ✓ | +0 % |
+| LDOS | Leidos | +24,3 pts | 4 → 31 | ✓ | · | −29 % |
+| PSN | Parsons Corporation | +22,9 pts | 5 → 14 | ✓ | · | −43 % |
+| BAH | Booz Allen Hamilton | +21,5 pts | 6 → 13 | ✓ | · | −16 % |
+| TREX | Trex Company, Inc. | +20,5 pts | 7 → 25 | ✓ | ✓ | −0 % |
+| WCC | Wesco International | +19,3 pts | 8 → 107 ▼ | ✓ | ✓ | −5 % |
+| ALLE | Allegion | +19,0 pts | 9 → 12 | ✓ | ✓ | +0 % |
+| SITE | SiteOne Landscape Supply | +18,6 pts | 10 → 10 | ✓ | · | −32 % |
+| EMR | Emerson Electric | +18,1 pts | 11 → 66 ▼ | ✓ | ✓ | +0 % |
+| APG | APi Group | +17,7 pts | 12 → 26 | ✓ | · | −9 % |
+| TTC | Toro Company (The) | +17,3 pts | 13 → 52 ▼ | ✓ | ✓ | +0 % |
+| EXPD | Expeditors International | +17,2 pts | 14 → 84 ▼ | ✓ | ✓ | −1 % |
+| SUNB | Sunbelt Rentals | +15,9 pts | 15 → 34 | ✓ | ✓ | — % |
+| FLS | Flowserve | +15,8 pts | 16 → 67 ▼ | ✓ | · | −12 % |
+| EXLS | EXL Service | +14,8 pts | 17 → 18 | ✓ | ✓ | −5 % |
+| JCI | Johnson Controls | +14,4 pts | 18 → 89 ▼ | ✓ | ✓ | −0 % |
+| URI | United Rentals | +14,4 pts | 19 → 17 | ✓ | ✓ | +0 % |
+| LMT | Lockheed Martin | +14,3 pts | 20 → 6 | ✓ | · | −4 % |
+| HII | Huntington Ingalls Industries | +13,9 pts | 21 → 21 | ✓ | · | −30 % |
+| PWR | Quanta Services | +13,8 pts | 22 → 133 ▼ | ✓ | ✓ | −19 % |
+| VICR | Vicor Corporation | +13,6 pts | 23 → 190 ▼ | · | · | −46 % |
+| TTEK | Tetra Tech | +13,6 pts | 24 → 32 | ✓ | ✓ | −10 % |
+| J | Jacobs Solutions | +13,3 pts | 25 → 44 | ✓ | ✓ | −3 % |
+| BR | Broadridge Financial Solutions | +13,2 pts | 26 → 62 | ✓ | ✓ | −21 % |
+| SWK | Stanley Black & Decker | +12,9 pts | 27 → 24 | ✓ | ✓ | +0 % |
+| GFL | GFL Environmental | +12,6 pts | 28 → 81 ▼ | ✓ | ✓ | −3 % |
+| NDSN | Nordson | +12,5 pts | 29 → 120 ▼ | ✓ | ✓ | −2 % |
+| CSL | Carlisle Companies | +12,0 pts | 30 → 33 | ✓ | · | −10 % |
+| KEX | Kirby Corporation | +12,0 pts | 31 → 56 | ✓ | ✓ | −4 % |
+| MAS | Masco | +11,6 pts | 32 → 19 | ✓ | ✓ | −3 % |
+| FTV | Fortive | +11,3 pts | 33 → 15 | ✓ | · | +0 % |
+| LECO | Lincoln Electric | +11,1 pts | 34 → 83 ▼ | ✓ | ✓ | −4 % |
+| FAST | Fastenal | +11,1 pts | 35 → 87 ▼ | ✓ | ✓ | +0 % |
+| ROP | Roper Technologies | +11,0 pts | 36 → 3 | ✓ | ✓ | −0 % |
+| VRT | Vertiv | +10,9 pts | 37 → 108 ▼ | ✓ | · | −35 % |
+| R | Ryder | +9,7 pts | 38 → 9 | ✓ | ✓ | −1 % |
+| ETN | Eaton Corporation | +9,6 pts | 39 → 166 ▼ | · | · | −14 % |
+| DE | Deere & Company | +8,9 pts | 40 → 137 ▼ | · | · | −7 % |
+| RSG | Republic Services | +8,9 pts | 41 → 43 | ✓ | ✓ | −2 % |
+| RHI | Robert Half | +8,6 pts | 42 → 27 | ✓ | ✓ | −7 % |
+| TDY | Teledyne Technologies | +7,9 pts | 43 → 54 | ✓ | · | −2 % |
+| AME | Ametek | +7,8 pts | 44 → 110 ▼ | ✓ | ✓ | −2 % |
+| KBR | KBR, Inc. | +7,7 pts | 45 → 70 | ✓ | · | −14 % |
+| G | Genpact | +7,3 pts | 46 → 16 | ✓ | ✓ | −18 % |
+| FERG | Ferguson Enterprises | +7,3 pts | 47 → 78 | ✓ | · | −10 % |
+| DOV | Dover Corporation | +7,1 pts | 48 → 47 | ✓ | · | −9 % |
+| ITT | ITT Inc. | +6,9 pts | 49 → 121 ▼ | ✓ | ✓ | −8 % |
+| FCN | FTI Consulting | +6,9 pts | 50 → 1 ▲ | ✓ | · | −3 % |
+| LYFT | Lyft | +6,9 pts | 51 → 69 | ✓ | ✓ | −33 % |
+| NOC | Northrop Grumman | +6,2 pts | 52 → 28 | ✓ | · | −26 % |
+| VLTO | Veralto | +6,0 pts | 53 → 63 | ✓ | ✓ | −1 % |
+| GTES | Gates Corporation | +5,9 pts | 54 → 124 ▼ | ✓ | ✓ | −12 % |
+| ADP | Automatic Data Processing | +5,9 pts | 55 → 58 | ✓ | ✓ | −7 % |
+| CNH | CNH Industrial | +5,5 pts | 56 → 176 ▼ | · | · | −22 % |
+| IEX | IDEX Corporation | +5,2 pts | 57 → 94 | ✓ | ✓ | −0 % |
+| WTS | Watts Water Technologies | +5,1 pts | 58 → 132 ▼ | · | · | −10 % |
+| UPS | United Parcel Service | +4,9 pts | 59 → 37 | ✓ | · | −7 % |
+| GNRC | Generac | +4,8 pts | 60 → 138 ▼ | ✓ | · | −31 % |
+| CNM | Core & Main | +4,8 pts | 61 → 90 | ✓ | · | −25 % |
+| UNP | Union Pacific Corporation | +4,4 pts | 62 → 57 | ✓ | ✓ | −2 % |
+| NVT | nVent Electric | +4,1 pts | 63 → 178 ▼ | · | · | −25 % |
+| SSD | Simpson Manufacturing Company | +3,9 pts | 64 → 39 | ✓ | · | −7 % |
+| CSX | CSX Corporation | +3,8 pts | 65 → 49 | ✓ | ✓ | −2 % |
+| AOS | A. O. Smith | +3,5 pts | 66 → 46 | ✓ | · | −20 % |
+| EME | Emcor | +3,1 pts | 67 → 167 ▼ | · | · | −27 % |
+| NSC | Norfolk Southern | +2,9 pts | 68 → 59 | ✓ | ✓ | −3 % |
+| OTIS | Otis Worldwide | +2,9 pts | 69 → 29 ▲ | ✓ | · | −19 % |
+| MSA | MSA Safety | +2,8 pts | 70 → 117 ▼ | · | · | −11 % |
+| TXT | Textron | +2,7 pts | 71 → 38 | ✓ | · | −13 % |
+| HAYW | Hayward Holdings | +2,7 pts | 72 → 5 ▲ | ✓ | · | −10 % |
+| MWH | SOLV Energy | +2,3 pts | 73 → 115 ▼ | · | · | — % |
+| MSM | MSC Industrial Direct | +2,2 pts | 74 → 128 ▼ | · | · | −7 % |
+| PRIM | Primoris Services Corporation | +1,8 pts | 75 → 111 | ✓ | · | −63 % |
+| AMTM | Amentum | +1,8 pts | 76 → 11 ▲ | ✓ | · | −41 % |
+| GWW | W. W. Grainger | +1,7 pts | 77 → 65 | ✓ | ✓ | −2 % |
+| CTAS | Cintas | +1,6 pts | 78 → 53 | ✓ | ✓ | −3 % |
+| RKLB | Rocket Lab | +1,4 pts | 79 → 180 ▼ | · | · | −61 % |
+| FDX | FedEx | +0,7 pts | 80 → 79 | ✓ | ✓ | −9 % |
+| MMM | 3M | +0,7 pts | 81 → 77 | ✓ | ✓ | −3 % |
+| CR | Crane Co. | +0,3 pts | 82 → 116 | ✓ | ✓ | −9 % |
+| FTAI | FTAI Aviation | +0,1 pts | 83 → 23 ▲ | ✓ | · | −36 % |
+| PNR | Pentair | −0,1 pts | 84 → 7 ▲ | ✓ | · | −39 % |
+| KTOS | Kratos Defense & Security Soluti | −0,1 pts | 85 → 106 | · | · | −67 % |
+| ECG | Everus Construction Group | −0,4 pts | 86 → 165 ▼ | · | · | −36 % |
+| LUV | Southwest Airlines | −0,5 pts | 87 → 97 | ✓ | · | −19 % |
+| WMS | Advanced Drainage Systems | −0,6 pts | 88 → 80 | ✓ | · | −22 % |
+| GEV | GE Vernova | −0,7 pts | 89 → 158 ▼ | · | · | −24 % |
+| ROK | Rockwell Automation | −0,9 pts | 90 → 100 | ✓ | ✓ | −9 % |
+| ATI | ATI Inc. | −1,1 pts | 91 → 163 ▼ | · | · | −24 % |
+| AYI | Acuity Brands | −1,3 pts | 92 → 91 | ✓ | ✓ | −13 % |
+| WM | Waste Management, Inc. | −1,4 pts | 93 → 42 ▲ | ✓ | · | −5 % |
+| WAB | Wabtec | −1,4 pts | 94 → 126 | · | · | −7 % |
+| PH | Parker Hannifin | −1,6 pts | 95 → 143 ▼ | · | · | −13 % |
+| GD | General Dynamics | −1,6 pts | 96 → 50 ▲ | ✓ | · | −6 % |
+| LOAR | Loar Holdings | −2,0 pts | 97 → 93 | · | · | −20 % |
+| FPS | Forgent Power Solutions | −2,5 pts | 98 → 188 ▼ | · | · | — % |
+| GXO | GXO Logistics | −2,5 pts | 99 → 48 ▲ | ✓ | · | −24 % |
+| ITW | Illinois Tool Works | −2,6 pts | 100 → 68 | ✓ | ✓ | −5 % |
+| TT | Trane Technologies | −2,7 pts | 101 → 150 ▼ | · | · | −14 % |
+| EFX | Equifax | −3,2 pts | 102 → 2 ▲ | ✓ | · | −20 % |
+| ALSN | Allison Transmission | −3,3 pts | 103 → 144 ▼ | · | · | −19 % |
+| CPRT | Copart | −3,5 pts | 104 → 73 | · | · | −31 % |
+| WSO | Watsco | −3,7 pts | 105 → 114 | · | · | −32 % |
+| HUBB | Hubbell Incorporated | −4,1 pts | 106 → 145 ▼ | · | · | −21 % |
+| AWI | Armstrong World Industries | −4,1 pts | 107 → 104 | · | · | −18 % |
+| HEI-A | HEICO(Class A) | −4,2 pts | 108 → 86 | ✓ | · | −11 % |
+| OSK | Oshkosh Corporation | −4,4 pts | 109 → 96 | · | · | −23 % |
+| VMI | Valmont Industries | −4,4 pts | 110 → 157 ▼ | · | · | −26 % |
+| DAL | Delta Air Lines | −4,5 pts | 111 → 139 | ✓ | ✓ | −12 % |
+| AVAV | AeroVironment | −4,5 pts | 112 → 151 ▼ | · | · | −66 % |
+| CLH | Clean Harbors | −4,6 pts | 113 → 125 | · | · | −5 % |
+| IR | Ingersoll Rand | −4,8 pts | 114 → 88 | ✓ | · | −19 % |
+| LHX | L3Harris | −5,4 pts | 115 → 22 ▲ | ✓ | · | −26 % |
+| AGCO | AGCO | −6,3 pts | 116 → 155 ▼ | · | · | −23 % |
+| BLDR | Builders FirstSource | −6,4 pts | 117 → 61 ▲ | ✓ | · | −51 % |
+| TDG | TransDigm Group | −6,4 pts | 118 → 71 ▲ | ✓ | · | −19 % |
+| RTX | RTX Corporation | −6,5 pts | 119 → 85 | ✓ | ✓ | −12 % |
+| CARR | Carrier Global | −6,7 pts | 120 → 113 | · | · | −27 % |
+| DCI | Donaldson Company | −6,9 pts | 121 → 141 | · | · | −22 % |
+| HON | Honeywell Technologies | −7,0 pts | 122 → 95 | ✓ | · | −14 % |
+| UBER | Uber | −7,1 pts | 123 → 147 | · | · | −34 % |
+| HEI | HEICO(Common) | −7,6 pts | 124 → 82 ▲ | ✓ | · | −13 % |
+| XPO | XPO, Inc. | −7,6 pts | 125 → 99 | · | · | −20 % |
+| KRMN | Karman Holdings | −8,0 pts | 126 → 4 ▲ | ✓ | · | −64 % |
+| AIT | Applied Industrial Technologies | −8,8 pts | 127 → 171 ▼ | · | · | −16 % |
+| PAYX | Paychex | −9,0 pts | 128 → 51 ▲ | · | · | −13 % |
+| POWL | Powell Industries | −9,0 pts | 129 → 169 ▼ | · | · | −48 % |
+| FBIN | Fortune Brands Innovations | −9,1 pts | 130 → 30 ▲ | ✓ | · | −30 % |
+| TRU | TransUnion | −9,1 pts | 131 → 8 ▲ | ✓ | ✓ | −14 % |
+| IESC | IES Holdings | −9,2 pts | 132 → 191 ▼ | · | · | −44 % |
+| RBC | RBC Bearings | −9,3 pts | 133 → 129 | · | · | −24 % |
+| ST | Sensata Technologies | −9,4 pts | 134 → 127 | · | · | −23 % |
+| ROL | Rollins, Inc. | −9,5 pts | 135 → 35 ▲ | ✓ | · | −47 % |
+| OC | Owens Corning | −9,6 pts | 136 → 98 ▲ | · | · | −23 % |
+| VRSK | Verisk Analytics | −9,7 pts | 137 → 40 ▲ | ✓ | · | −15 % |
+| GE | GE Aerospace | −10,0 pts | 138 → 119 | · | · | −18 % |
+| MFP | Midera Food Processing | −10,2 pts | 139 → 109 | · | · | — % |
+| SPXC | SPX Technologies | −10,3 pts | 140 → 135 | · | · | −32 % |
+| AAON | AAON | −10,6 pts | 141 → 172 | · | · | −49 % |
+| MIDD | Middleby | −11,0 pts | 142 → 41 ▲ | ✓ | · | −18 % |
+| MBGL | Mobility Global | −11,0 pts | 143 → 64 ▲ | · | · | — % |
+| UAL | United Airlines Holdings | −11,3 pts | 144 → 152 | · | · | −23 % |
+| BWXT | BWX Technologies | −11,7 pts | 145 → 118 | · | · | −42 % |
+| RRX | Regal Rexnord | −12,0 pts | 146 → 92 ▲ | ✓ | · | −31 % |
+| FIX | Comfort Systems USA | −12,1 pts | 147 → 185 ▼ | · | · | −36 % |
+| TKR | Timken Company | −12,3 pts | 148 → 136 | · | · | −21 % |
+| SNA | Snap-on | −12,4 pts | 149 → 134 | · | · | −14 % |
+| SAIA | Saia | −12,4 pts | 150 → 103 ▲ | ✓ | · | −30 % |
+| ACM | AECOM | −12,6 pts | 151 → 74 ▲ | ✓ | · | −52 % |
+| KNX | Knight-Swift | −13,1 pts | 152 → 146 | · | · | −26 % |
+| NXT | Nextpower | −13,3 pts | 153 → 105 ▲ | · | · | −49 % |
+| AAL | American Airlines Group | −13,3 pts | 154 → 149 | · | · | −30 % |
+| ESAB | ESAB | −13,5 pts | 155 → 45 ▲ | ✓ | · | −45 % |
+| CMI | Cummins | −13,6 pts | 156 → 123 | · | · | −29 % |
+| MLI | Mueller Industries | −13,9 pts | 157 → 164 | · | · | −20 % |
+| DRS | Leonardo DRS | −14,1 pts | 158 → 75 ▲ | ✓ | · | −20 % |
+| GGG | Graco Inc. | −14,5 pts | 159 → 173 | · | · | −27 % |
+| QXO | QXO, Inc. | −14,5 pts | 160 → 142 | · | · | −58 % |
+| SNDR | Schneider National | −15,7 pts | 161 → 162 | · | · | −24 % |
+| CAT | Caterpillar Inc. | −16,5 pts | 162 → 186 | · | · | −39 % |
+| SARO | StandardAero | −16,6 pts | 163 → 55 ▲ | ✓ | · | −28 % |
+| AXON | Axon Enterprise | −17,0 pts | 164 → 101 ▲ | · | · | −42 % |
+| ULS | UL Solutions | −17,6 pts | 165 → 36 ▲ | ✓ | · | −28 % |
+| WWD | Woodward, Inc. | −17,6 pts | 166 → 148 | · | · | −28 % |
+| LII | Lennox International | −18,2 pts | 167 → 140 | · | · | −39 % |
+| BA | Boeing | −18,7 pts | 168 → 161 | · | · | −32 % |
+| JBHT | J. B. Hunt | −18,9 pts | 169 → 131 ▲ | · | · | −25 % |
+| LSTR | Landstar | −19,7 pts | 170 → 181 | · | · | −37 % |
+| UHAL | U-Haul | −20,1 pts | 171 → 156 | · | · | −25 % |
+| UHAL-B | U-Haul(Series N) | −20,2 pts | 172 → 153 | · | · | −24 % |
+| ALK | Alaska Air Group | −20,6 pts | 173 → 159 | · | · | −40 % |
+| HONA | Honeywell Aerospace | −21,4 pts | 174 → 102 ▲ | · | · | — % |
+| MOD | Modine Manufacturing | −21,5 pts | 175 → 189 | · | · | −55 % |
+| ODFL | Old Dominion Freight Line | −21,9 pts | 176 → 130 ▲ | · | · | −31 % |
+| WSC | WillScot Mobile Mini | −22,2 pts | 177 → 76 ▲ | ✓ | · | −36 % |
+| RBA | RB Global | −22,5 pts | 178 → 72 ▲ | ✓ | · | −25 % |
+| XE | X-energy | −22,8 pts | 179 → 183 | · | · | — % |
+| PCAR | Paccar | −22,8 pts | 180 → 160 | · | · | −26 % |
+| FDXF | FedEx Freight | −23,4 pts | 181 → 122 ▲ | · | · | — % |
+| STRL | Sterling Infrastructure | −23,8 pts | 182 → 187 | · | · | −62 % |
+| HWM | Howmet Aerospace | −23,9 pts | 183 → 170 | · | · | −30 % |
+| HXL | Hexcel | −24,0 pts | 184 → 154 | · | · | −28 % |
+| XYL | Xylem Inc. | −24,8 pts | 185 → 174 | · | · | −40 % |
+| CHRW | C.H. Robinson | −25,8 pts | 186 → 179 | · | · | −39 % |
+| PL | Planet Labs | −25,9 pts | 187 → 177 | · | · | −72 % |
+| CW | Curtiss-Wright | −26,3 pts | 188 → 168 | · | · | −37 % |
+| CAR | Avis Budget Group | −29,6 pts | 189 → 112 ▲ | · | · | −85 % |
+| DY | Dycom Industries | −35,0 pts | 190 → 175 | · | · | −55 % |
+| MTZ | MasTec | −37,6 pts | 191 → 182 | · | · | −59 % |
 
 </details>
 
@@ -1115,67 +1115,67 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 
 | Ticker | Société | Perf. 13 sem. vs marché | Rang secteur 3 m → 1 m | > MM50 | MM50 > MM200 | Vs plus haut 52 s. |
 |---|---|---:|:---:|:---:|:---:|---:|
-| CCI | Crown Castle | +13,8 pts | 1 → 1 | ✓ | · | −4 % |
-| HHH | Howard Hughes Holdings | +12,4 pts | 2 → 46 ▼ | ✓ | · | −18 % |
-| EQIX | Equinix | +5,8 pts | 3 → 24 ▼ | ✓ | ✓ | −5 % |
-| AMT | American Tower | +4,7 pts | 4 → 8 | ✓ | ✓ | −3 % |
-| JLL | Jones Lang LaSalle | +3,3 pts | 5 → 5 | ✓ | ✓ | −11 % |
-| HST | Host Hotels & Resorts | +2,1 pts | 6 → 3 | ✓ | ✓ | +0 % |
-| SBAC | SBA Communications | +0,9 pts | 7 → 2 | ✓ | · | −16 % |
-| COLD | Americold | +0,2 pts | 8 → 25 ▼ | ✓ | ✓ | −10 % |
-| IRM | Iron Mountain | −0,2 pts | 9 → 14 | ✓ | ✓ | −10 % |
-| REXR | Rexford Industrial | −0,3 pts | 10 → 23 ▼ | ✓ | ✓ | −6 % |
-| DLR | Digital Realty | −0,4 pts | 11 → 19 | ✓ | ✓ | −8 % |
-| EXR | Extra Space Storage | −0,9 pts | 12 → 6 | ✓ | · | −2 % |
-| CUBE | CubeSmart | −2,0 pts | 13 → 10 | ✓ | ✓ | −3 % |
-| WELL | Welltower | −2,2 pts | 14 → 39 ▼ | · | · | −7 % |
-| LAMR | Lamar Advertising | −2,3 pts | 15 → 11 | ✓ | ✓ | −3 % |
-| PSA | Public Storage | −2,6 pts | 16 → 9 | ✓ | · | −4 % |
-| STAG | STAG Industrial | −3,3 pts | 17 → 29 ▼ | ✓ | · | −11 % |
-| EGP | EastGroup Properties | −3,5 pts | 18 → 47 ▼ | ✓ | ✓ | −11 % |
-| AMH | American Homes 4 Rent | −5,5 pts | 19 → 33 ▼ | · | · | −9 % |
-| KIM | Kimco Realty | −6,0 pts | 20 → 12 | ✓ | · | −8 % |
-| CSGP | CoStar Group | −6,4 pts | 21 → 40 ▼ | · | · | −61 % |
-| REG | Regency Centers | −6,8 pts | 22 → 27 | ✓ | · | −9 % |
-| ZG | Zillow(Class A) | −7,0 pts | 23 → 4 ▲ | · | · | −57 % |
-| BRX | Brixmor Property Group | −7,1 pts | 24 → 16 | ✓ | · | −11 % |
-| AHR | American Healthcare REIT | −7,2 pts | 25 → 34 | · | · | −8 % |
-| SPG | Simon Property Group | −7,2 pts | 26 → 15 | ✓ | ✓ | −8 % |
-| KRC | Kilroy Realty | −7,3 pts | 27 → 13 ▲ | ✓ | ✓ | −12 % |
-| OHI | Omega Healthcare Investors | −7,3 pts | 28 → 43 ▼ | ✓ | ✓ | −9 % |
-| EPR | EPR Properties | −7,4 pts | 29 → 30 | ✓ | ✓ | −9 % |
-| VICI | Vici Properties | −8,4 pts | 30 → 18 ▲ | ✓ | · | −16 % |
-| JAN | Janus Living | −8,4 pts | 31 → 56 ▼ | · | · | — % |
-| CUZ | Cousins Properties | −9,3 pts | 32 → 20 ▲ | ✓ | ✓ | −10 % |
-| Z | Zillow(Class C) | −9,3 pts | 33 → 7 ▲ | · | · | −60 % |
-| VMRK | Vivmark Residential | −9,4 pts | 34 → 37 | · | · | −12 % |
-| ESS | Essex Property Trust | −9,9 pts | 35 → 55 ▼ | · | · | −11 % |
-| UDR | UDR, Inc. | −10,0 pts | 36 → 21 ▲ | ✓ | · | −14 % |
-| INVH | Invitation Homes | −10,5 pts | 37 → 44 | · | · | −13 % |
-| PLD | Prologis | −10,7 pts | 38 → 53 ▼ | · | · | −14 % |
-| FRT | Federal Realty Investment Trust | −10,7 pts | 39 → 32 | · | · | −12 % |
-| SUI | Sun Communities | −11,2 pts | 40 → 42 | · | · | −16 % |
-| O | Realty Income | −11,4 pts | 41 → 22 ▲ | · | · | −13 % |
-| ELS | Equity Lifestyle Properties | −12,2 pts | 42 → 48 | · | · | −13 % |
-| WPC | W. P. Carey | −12,3 pts | 43 → 51 | · | · | −15 % |
-| CPT | Camden Property Trust | −12,5 pts | 44 → 26 ▲ | · | · | −14 % |
-| GLPI | Gaming and Leisure Properties | −12,6 pts | 45 → 31 ▲ | · | · | −17 % |
-| RYN | Rayonier | −12,7 pts | 46 → 28 ▲ | · | · | −20 % |
-| CBRE | CBRE Group | −13,2 pts | 47 → 52 | · | · | −26 % |
-| MAA | Mid-America Apartment Communitie | −13,3 pts | 48 → 45 | · | · | −16 % |
-| BXP | BXP, Inc. | −13,4 pts | 49 → 38 | · | · | −14 % |
-| VTR | Ventas, Inc. | −13,5 pts | 50 → 54 | · | · | −17 % |
-| NNN | NNN Reit | −14,0 pts | 51 → 49 | · | · | −16 % |
-| VNO | Vornado Realty Trust | −14,1 pts | 52 → 36 ▲ | · | · | −15 % |
-| DOC | Healthpeak Properties | −14,1 pts | 53 → 57 | · | · | −16 % |
-| FR | First Industrial Realty Trust | −14,5 pts | 54 → 58 | · | · | −19 % |
-| ADC | Agree Realty | −15,2 pts | 55 → 50 | · | · | −17 % |
-| HR | Healthcare Realty Trust | −16,4 pts | 56 → 41 ▲ | · | · | −17 % |
-| LINE | Lineage, Inc. | −16,8 pts | 57 → 17 ▲ | · | · | −18 % |
-| WY | Weyerhaeuser | −18,5 pts | 58 → 35 ▲ | · | · | −26 % |
-| ARE | Alexandria Real Estate Equities | −23,1 pts | 59 → 59 | · | · | −29 % |
-| MPT | Medical Properties Trust | −46,4 pts | 60 → 60 | · | · | −57 % |
-| FRMI | Fermi Inc. | −49,8 pts | 61 → 61 | · | · | −90 % |
+| HHH | Howard Hughes Holdings | +14,9 pts | 1 → 39 ▼ | ✓ | · | −16 % |
+| CCI | Crown Castle | +14,5 pts | 2 → 1 | ✓ | · | −4 % |
+| AMT | American Tower | +5,4 pts | 3 → 8 | ✓ | ✓ | −2 % |
+| JLL | Jones Lang LaSalle | +4,5 pts | 4 → 3 | ✓ | ✓ | −10 % |
+| EQIX | Equinix | +3,9 pts | 5 → 40 ▼ | ✓ | ✓ | −7 % |
+| HST | Host Hotels & Resorts | +2,1 pts | 6 → 5 | ✓ | ✓ | +0 % |
+| COLD | Americold | +0,9 pts | 7 → 23 ▼ | ✓ | ✓ | −9 % |
+| REXR | Rexford Industrial | +0,9 pts | 8 → 21 ▼ | ✓ | ✓ | −5 % |
+| SBAC | SBA Communications | +0,5 pts | 9 → 4 | ✓ | · | −16 % |
+| EXR | Extra Space Storage | −0,2 pts | 10 → 7 | ✓ | · | −1 % |
+| IRM | Iron Mountain | −0,6 pts | 11 → 17 | ✓ | ✓ | −10 % |
+| CUBE | CubeSmart | −1,2 pts | 12 → 10 | ✓ | ✓ | −2 % |
+| LAMR | Lamar Advertising | −1,5 pts | 13 → 11 | ✓ | ✓ | −2 % |
+| DLR | Digital Realty | −1,6 pts | 14 → 27 ▼ | ✓ | · | −9 % |
+| PSA | Public Storage | −2,2 pts | 15 → 9 | ✓ | · | −3 % |
+| WELL | Welltower | −2,3 pts | 16 → 44 ▼ | · | · | −7 % |
+| STAG | STAG Industrial | −2,6 pts | 17 → 28 | ✓ | · | −10 % |
+| EGP | EastGroup Properties | −2,8 pts | 18 → 47 ▼ | ✓ | ✓ | −10 % |
+| KIM | Kimco Realty | −4,4 pts | 19 → 12 | ✓ | · | −6 % |
+| AMH | American Homes 4 Rent | −4,8 pts | 20 → 33 ▼ | · | · | −8 % |
+| CSGP | CoStar Group | −5,1 pts | 21 → 38 ▼ | · | · | −60 % |
+| KRC | Kilroy Realty | −5,6 pts | 22 → 13 | ✓ | ✓ | −11 % |
+| ZG | Zillow(Class A) | −5,9 pts | 23 → 2 ▲ | · | · | −57 % |
+| REG | Regency Centers | −6,0 pts | 24 → 25 | ✓ | · | −8 % |
+| BRX | Brixmor Property Group | −6,3 pts | 25 → 15 | ✓ | · | −10 % |
+| EPR | EPR Properties | −6,7 pts | 26 → 31 | ✓ | ✓ | −8 % |
+| SPG | Simon Property Group | −6,9 pts | 27 → 14 ▲ | ✓ | ✓ | −8 % |
+| AHR | American Healthcare REIT | −6,9 pts | 28 → 35 | · | · | −8 % |
+| OHI | Omega Healthcare Investors | −7,0 pts | 29 → 48 ▼ | ✓ | ✓ | −8 % |
+| VICI | Vici Properties | −7,3 pts | 30 → 16 ▲ | ✓ | · | −15 % |
+| JAN | Janus Living | −8,0 pts | 31 → 56 ▼ | · | · | — % |
+| Z | Zillow(Class C) | −8,3 pts | 32 → 6 ▲ | · | · | −59 % |
+| CUZ | Cousins Properties | −8,3 pts | 33 → 18 ▲ | ✓ | ✓ | −9 % |
+| VMRK | Vivmark Residential | −8,7 pts | 34 → 37 | · | · | −11 % |
+| UDR | UDR, Inc. | −9,2 pts | 35 → 20 ▲ | ✓ | · | −13 % |
+| ESS | Essex Property Trust | −9,2 pts | 36 → 55 ▼ | · | · | −10 % |
+| FRT | Federal Realty Investment Trust | −9,9 pts | 37 → 29 | ✓ | · | −11 % |
+| INVH | Invitation Homes | −9,9 pts | 38 → 46 | · | · | −12 % |
+| PLD | Prologis | −10,7 pts | 39 → 53 ▼ | · | · | −14 % |
+| SUI | Sun Communities | −10,8 pts | 40 → 43 | · | · | −16 % |
+| O | Realty Income | −11,0 pts | 41 → 22 ▲ | · | · | −13 % |
+| WPC | W. P. Carey | −11,3 pts | 42 → 51 | · | · | −14 % |
+| ELS | Equity Lifestyle Properties | −11,6 pts | 43 → 50 | · | · | −12 % |
+| CPT | Camden Property Trust | −11,7 pts | 44 → 24 ▲ | ✓ | · | −13 % |
+| GLPI | Gaming and Leisure Properties | −11,8 pts | 45 → 30 ▲ | · | · | −16 % |
+| RYN | Rayonier | −12,0 pts | 46 → 26 ▲ | · | · | −19 % |
+| BXP | BXP, Inc. | −12,1 pts | 47 → 36 | ✓ | ✓ | −13 % |
+| MAA | Mid-America Apartment Communitie | −12,2 pts | 48 → 42 | · | · | −15 % |
+| CBRE | CBRE Group | −12,4 pts | 49 → 52 | · | · | −25 % |
+| VNO | Vornado Realty Trust | −12,9 pts | 50 → 32 ▲ | ✓ | ✓ | −14 % |
+| VTR | Ventas, Inc. | −13,2 pts | 51 → 54 | · | · | −16 % |
+| NNN | NNN Reit | −13,3 pts | 52 → 49 | · | · | −15 % |
+| DOC | Healthpeak Properties | −13,9 pts | 53 → 57 | · | · | −16 % |
+| ADC | Agree Realty | −14,4 pts | 54 → 45 | · | · | −16 % |
+| FR | First Industrial Realty Trust | −14,6 pts | 55 → 58 | · | · | −19 % |
+| HR | Healthcare Realty Trust | −15,3 pts | 56 → 41 ▲ | · | · | −16 % |
+| LINE | Lineage, Inc. | −16,5 pts | 57 → 19 ▲ | · | · | −18 % |
+| WY | Weyerhaeuser | −17,9 pts | 58 → 34 ▲ | · | · | −25 % |
+| ARE | Alexandria Real Estate Equities | −22,8 pts | 59 → 59 | · | · | −29 % |
+| MPT | Medical Properties Trust | −46,8 pts | 60 → 60 | · | · | −57 % |
+| FRMI | Fermi Inc. | −50,6 pts | 61 → 61 | · | · | −90 % |
 
 </details>
 
@@ -1187,4 +1187,4 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 - **Un secteur en rotation n'est pas un achat.** C'est un endroit où chercher : croiser avec les screeners et setups du marché.
 
 ---
-*Dernière séance : 29/10/2026. Généré le 29/10/2026 16:50 UTC. Travail d'analyse quantitative, sans valeur de conseil en investissement.*
+*Dernière séance : 29/10/2026. Généré le 29/10/2026 23:57 UTC. Travail d'analyse quantitative, sans valeur de conseil en investissement.*
