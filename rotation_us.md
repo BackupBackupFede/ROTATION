@@ -14,7 +14,7 @@ Largeur du marché : **55 %** des titres au-dessus de leur MM50.
 |---:|---:|---|---:|---:|---:|---:|---|
 | 1 | 3 ▲ | Énergie | +12,8 % | 83 % | −9 pts | 34 % | LEADER |
 | 2 | 1 ▼ | Santé | +9,9 % | 66 % | −7 pts | 27 % | LEADER |
-| 3 | 5 ▲ | Technologie | +4,5 % | 36 % | −21 pts | 5 % | LEADER |
+| 3 | 5 ▲ | Technologie | +4,4 % | 36 % | −21 pts | 5 % | LEADER |
 | 4 | 4 | Conso. de base | +1,0 % | 71 % | +30 pts | 9 % |  |
 | 5 | 6 ▲ | Matériaux | −0,3 % | 62 % | +12 pts | 7 % |  |
 | 6 | 11 ▲ | Services publics | −1,8 % | 83 % | +68 pts | 7 % |  |
@@ -1187,4 +1187,4 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 - **Un secteur en rotation n'est pas un achat.** C'est un endroit où chercher : croiser avec les screeners et setups du marché.
 
 ---
-*Dernière séance : 30/10/2026. Généré le 02/11/2026 08:55 UTC. Travail d'analyse quantitative, sans valeur de conseil en investissement.*
+*Dernière séance : 30/10/2026. Généré le 02/11/2026 12:06 UTC. Travail d'analyse quantitative, sans valeur de conseil en investissement.*
