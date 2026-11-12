@@ -180,7 +180,6 @@ FDX,FedEx,Industrials
 CMI,Cummins,Industrials
 TGT,Target Corporation,Consumer Staples
 NSC,Norfolk Southern,Industrials
-WBD,Warner Bros. Discovery,Communication Services
 CL,Colgate-Palmolive,Consumer Staples
 DLR,Digital Realty,Real Estate
 KMI,Kinder Morgan,Energy
@@ -693,7 +692,6 @@ AES,AES Corporation,Utilities
 LULU,Lululemon Athletica,Consumer Discretionary
 DAR,Darling Ingredients,Consumer Staples
 CART,Maplebear Inc.,Consumer Staples
-QRVO,Qorvo,Information Technology
 PINS,Pinterest,Communication Services
 BPOP,"Popular, Inc.",Financials
 PAYC,Paycom,Information Technology
@@ -1017,6 +1015,3 @@ ITT,ITT Inc.,Industrials
 MSM,MSC Industrial Direct,Industrials
 SNX,TD Synnex,Information Technology
 BA,Boeing,Industrials
-WBS,Webster Bank,Financials
-LBRDA,Liberty Broadband (Series A),Communication Services
-LBRDK,Liberty Broadband (Series C),Communication Services
