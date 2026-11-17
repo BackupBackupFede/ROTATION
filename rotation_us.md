@@ -19,8 +19,8 @@ Largeur du marché : **60 %** des titres au-dessus de leur MM50.
 | 3 | 7 ▲ | Conso. de base | +5,1 % | 84 % | +62 pts | 16 % | **ROTATION ENTRANTE** |
 | 4 | 8 ▲ | Conso. discrétionnaire | +1,6 % | 71 % | +61 pts | 2 % | **ROTATION ENTRANTE** |
 | 5 | 5 | Finance | +1,2 % | 68 % | +56 pts | 8 % |  |
-| 6 | 4 ▼ | Communication | +0,4 % | 63 % | +37 pts | 0 % |  |
-| 7 | 2 ▼ | Énergie | +0,4 % | 29 % | +3 pts | 0 % |  |
+| 6 | 4 ▼ | Communication | +0,6 % | 63 % | +36 pts | 0 % |  |
+| 7 | 2 ▼ | Énergie | +0,3 % | 29 % | +3 pts | 0 % |  |
 | 8 | 9 ▲ | Immobilier | −0,6 % | 72 % | +67 pts | 0 % |  |
 | 9 | 10 ▲ | Industrie | −2,3 % | 58 % | +41 pts | 3 % |  |
 | 10 | 1 ▼ | Technologie | −5,7 % | 29 % | −33 pts | 1 % |  |
@@ -1231,4 +1231,4 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 - **Un secteur en rotation n'est pas un achat.** C'est un endroit où chercher : croiser avec les screeners et setups du marché.
 
 ---
-*Dernière séance : 16/11/2026. Généré le 17/11/2026 08:58 UTC. Travail d'analyse quantitative, sans valeur de conseil en investissement.*
+*Dernière séance : 16/11/2026. Généré le 17/11/2026 12:18 UTC. Travail d'analyse quantitative, sans valeur de conseil en investissement.*
