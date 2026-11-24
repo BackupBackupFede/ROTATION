@@ -14,15 +14,15 @@ Largeur du marché : **48 %** des titres au-dessus de leur MM50.
 | Rang | Il y a 8 sem. | Secteur | RS 13 sem. | % > MM50 | Δ 8 sem. | % plus haut 52 s. | Statut |
 |---:|---:|---|---:|---:|---:|---:|---|
 | 1 | 3 ▲ | Santé | +6,8 % | 58 % | +17 pts | 5 % | LEADER |
-| 2 | 11 ▲ | Services publics | +6,3 % | 78 % | +71 pts | 0 % | À SURVEILLER |
+| 2 | 11 ▲ | Services publics | +6,2 % | 78 % | +71 pts | 0 % | À SURVEILLER |
 | 3 | 7 ▲ | Conso. de base | +5,1 % | 75 % | +65 pts | 0 % | **ROTATION ENTRANTE** |
 | 4 | 9 ▲ | Conso. discrétionnaire | +2,7 % | 58 % | +43 pts | 1 % | **ROTATION ENTRANTE** |
 | 5 | 10 ▲ | Immobilier | +0,2 % | 59 % | +57 pts | 0 % |  |
 | 6 | 8 ▲ | Industrie | −0,1 % | 47 % | +20 pts | 0 % |  |
 | 7 | 4 ▼ | Finance | −1,1 % | 47 % | +39 pts | 0 % |  |
-| 8 | 5 ▼ | Communication | −1,6 % | 56 % | +37 pts | 0 % |  |
-| 9 | 2 ▼ | Énergie | −4,1 % | 6 % | −23 pts | 0 % |  |
-| 10 | 1 ▼ | Technologie | −6,2 % | 24 % | −45 pts | 0 % | **LEADER ESSOUFFLÉ** |
+| 8 | 5 ▼ | Communication | −1,4 % | 56 % | +38 pts | 0 % |  |
+| 9 | 2 ▼ | Énergie | −4,2 % | 6 % | −23 pts | 0 % |  |
+| 10 | 1 ▼ | Technologie | −6,3 % | 24 % | −45 pts | 0 % | **LEADER ESSOUFFLÉ** |
 | 11 | 6 ▼ | Matériaux | −7,0 % | 42 % | +32 pts | 0 % |  |
 
 ## Signaux des 12 derniers mois
@@ -1253,4 +1253,4 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 - **Un secteur en rotation n'est pas un achat.** C'est un endroit où chercher : croiser avec les screeners et setups du marché.
 
 ---
-*Dernière séance : 23/11/2026. Généré le 24/11/2026 04:45 UTC. Travail d'analyse quantitative, sans valeur de conseil en investissement.*
+*Dernière séance : 23/11/2026. Généré le 24/11/2026 08:45 UTC. Travail d'analyse quantitative, sans valeur de conseil en investissement.*
