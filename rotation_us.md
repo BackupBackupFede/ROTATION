@@ -18,7 +18,7 @@ Largeur du marché : **51 %** des titres au-dessus de leur MM50.
 | 3 | 11 ▲ | Services publics | +6,3 % | 80 % | +73 pts | 5 % | À SURVEILLER |
 | 4 | 9 ▲ | Conso. discrétionnaire | +4,3 % | 62 % | +47 pts | 3 % | **ROTATION ENTRANTE** |
 | 5 | 10 ▲ | Immobilier | +1,8 % | 72 % | +70 pts | 2 % | À SURVEILLER |
-| 6 | 5 ▼ | Communication | −0,0 % | 60 % | +42 pts | 5 % |  |
+| 6 | 5 ▼ | Communication | −0,3 % | 60 % | +42 pts | 5 % |  |
 | 7 | 4 ▼ | Finance | −0,4 % | 51 % | +43 pts | 3 % |  |
 | 8 | 8 | Industrie | −1,1 % | 46 % | +20 pts | 1 % |  |
 | 9 | 2 ▼ | Énergie | −3,3 % | 6 % | −23 pts | 0 % |  |
@@ -1275,4 +1275,4 @@ _Rang secteur 3 m → 1 m : place du titre dans son secteur sur 13 semaines, pui
 - **Un secteur en rotation n'est pas un achat.** C'est un endroit où chercher : croiser avec les screeners et setups du marché.
 
 ---
-*Dernière séance : 24/11/2026. Généré le 25/11/2026 03:33 UTC. Travail d'analyse quantitative, sans valeur de conseil en investissement.*
+*Dernière séance : 24/11/2026. Généré le 25/11/2026 09:24 UTC. Travail d'analyse quantitative, sans valeur de conseil en investissement.*
